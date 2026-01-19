@@ -29,7 +29,9 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [Prompt Engineering](#prompt-engineering)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
+- [News & Media](#news--media)
 - [Podcasts & YouTube](#podcasts--youtube)
+- [Showcases](#showcases)
 - [Glossary](#glossary)
 
 ---
@@ -387,6 +389,8 @@ Master the art of talking to AI.
 | [Build Without Permission](https://www.taskade.com/blog/build-without-permission) | Taskade | The philosophy behind vibe coding. |
 | [How Workspace DNA Works](https://www.taskade.com/blog/how-workspace-dna-works) | Taskade | Architecture of workspace-powered apps. |
 | [What Are AI Agents?](https://www.taskade.com/blog/what-are-ai-agents) | Taskade | Understanding autonomous AI. |
+| [Agentic AI Systems](https://www.taskade.com/blog/agentic-ai-systems) | Taskade | Deep dive into agentic workflows and multi-agent orchestration. |
+| [Multi-Agent Systems](https://www.taskade.com/blog/multi-agent-systems) | Taskade | How multiple AI agents coordinate to solve complex problems. |
 | [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) | Andrej Karpathy | The foundational essay on AI-first software. |
 
 ### Tutorials
@@ -396,6 +400,9 @@ Master the art of talking to AI.
 | [Taskade Genesis: Living Apps](https://www.taskade.com/blog/taskade-genesis-living-apps) | Beginner | Build living apps with one prompt. |
 | [AI App Beginner Examples](https://www.taskade.com/blog/ai-app-beginner-examples) | Beginner | Start simple, build confidence. |
 | [AI Dashboard Examples](https://www.taskade.com/blog/ai-dashboard-examples) | Intermediate | Business intelligence with AI. |
+| [How to Build AI Agents](https://www.taskade.com/blog/how-to-build-ai-agents) | Intermediate | Step-by-step agent creation guide. |
+| [Train AI Agents with Your Knowledge](https://www.taskade.com/blog/how-to-train-ai-agents-with-your-knowledge) | Intermediate | Custom knowledge bases for agents. |
+| [AI Automation Guide](https://www.taskade.com/blog/task-automation-guide) | Beginner | Automate workflows with AI. |
 | [Create Your First App](https://help.taskade.com/en/articles/11957643) | Beginner | Step-by-step Genesis tutorial. |
 
 ### Books
@@ -442,24 +449,122 @@ Where to learn, share, and get help.
 
 ---
 
+## News & Media
+
+Stay current with the rapidly evolving vibe coding landscape.
+
+### Newsletters
+
+Essential reading for vibe coders. Subscribe to stay ahead.
+
+| Newsletter | Frequency | Why It's Awesome |
+|------------|-----------|------------------|
+| [The Rundown AI](https://www.therundown.ai/) | Daily | 1.75M+ readers. The industry standard for AI news. Major breakthroughs and tool launches. |
+| [TLDR AI](https://tldr.tech/ai) | Daily | 1.25M+ readers. Technical AI developments in 5-minute reads. Research papers, tools, and news. |
+| [Ben's Bites](https://bensbites.beehiiv.com/) | Daily | Curated AI news for builders. Focused on practical applications. |
+| [The Neuron](https://www.theneurondaily.com/) | Daily | AI news explained simply. Great for staying current without the hype. |
+| [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
+| [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
+| [Vibe Coding Newsletter](https://www.vibecoding-newsletter.com/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+
+### Blogs & Writers
+
+Individual voices shaping the vibe coding narrative.
+
+| Blog | Author | Why It's Awesome |
+|------|--------|------------------|
+| [Simon Willison's Weblog](https://simonwillison.net/) | Simon Willison | Django co-creator. Best practical AI coding content. Hacker News favorite. |
+| [Taskade Blog](https://www.taskade.com/blog) | Taskade Team | Vibe coding tutorials, AI agents, workspace architecture. [AI Agents Guide →](https://www.taskade.com/blog/agentic-ai-systems) |
+| [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) | Gergely Orosz | Senior engineering perspective on AI tools. [AI Tools Deep Dive →](https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison) |
+| [Continue Blog](https://blog.continue.dev/) | Continue Team | Open-source AI coding insights. [Vibe Engineering →](https://blog.continue.dev/from-vibe-engineering-to-continuous-ai/) |
+| [Lenny's Newsletter](https://www.lennysnewsletter.com/) | Lenny Rachitsky | Product management meets AI. Building with agents. |
+
+### News Sites
+
+Where vibe coding news breaks first.
+
+| Site | Focus | Why It's Awesome |
+|------|-------|------------------|
+| [Hacker News](https://news.ycombinator.com/) | Tech | Where AI tools launch. Front page = instant visibility. |
+| [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Launches | Daily AI tool discoveries. Community voting surfaces the best. |
+| [AI News (Vibe Coding)](https://www.vibecodingnews.ai/) | Vibe Coding | Short weekly roundups of vibe coding tools and tips. |
+| [HackerNoon](https://hackernoon.com/tagged/ai) | Tech Stories | Developer-written AI content. Deep dives and tutorials. |
+| [Dev.to AI](https://dev.to/t/ai) | Dev Community | Community tutorials and discussions on AI coding. |
+
+---
+
 ## Podcasts & YouTube
 
 ### Podcasts
 
 | Podcast | Focus | Why It's Awesome |
 |---------|-------|------------------|
-| [Latent Space](https://www.latent.space/) | AI Engineering | Deep technical discussions. |
-| [Practical AI](https://changelog.com/practicalai) | Applied AI | Practical applications. |
-| [The AI Podcast (NVIDIA)](https://blogs.nvidia.com/ai-podcast/) | Industry | Interviews with leaders. |
+| [Latent Space](https://www.latent.space/) | AI Engineering | Deep technical discussions with AI leaders. The podcast for AI engineers. |
+| [Practical AI](https://changelog.com/practicalai) | Applied AI | Real-world AI applications. Great for understanding practical use cases. |
+| [The AI Podcast (NVIDIA)](https://blogs.nvidia.com/ai-podcast/) | Industry | Interviews with AI pioneers and researchers. |
+| [Lex Fridman Podcast](https://lexfridman.com/podcast/) | Deep Dives | Long-form conversations with AI researchers and founders. |
+| [The Changelog](https://changelog.com/podcast) | Open Source | Open-source software and the people who make it. AI tool deep dives. |
+| [Software Engineering Daily](https://softwareengineeringdaily.com/) | Engineering | Technical interviews covering AI infrastructure and tools. |
 
 ### YouTube Channels
 
 | Channel | Focus | Why It's Awesome |
 |---------|-------|------------------|
-| [Fireship](https://www.youtube.com/@Fireship) | Dev tools | Fast, entertaining coverage. |
-| [Theo](https://www.youtube.com/@t3dotgg) | Web dev | In-depth tool reviews. |
-| [Matt Wolfe](https://www.youtube.com/@maboroshi) | AI tools | Weekly AI roundups. |
-| [All About AI](https://www.youtube.com/@AllAboutAI) | Tutorials | Practical tutorials. |
+| [Fireship](https://www.youtube.com/@Fireship) | Dev tools | Fast, entertaining 100-second explainers. Best for quick tool overviews. |
+| [Theo](https://www.youtube.com/@t3dotgg) | Web dev | In-depth reviews of vibe coding tools. Honest takes on Cursor, Bolt, etc. |
+| [All About AI](https://www.youtube.com/@AllAboutAI) | Tutorials | Practical AI coding tutorials. Shows building 10,000 lines in hours. |
+| [Matt Wolfe](https://www.youtube.com/@maboroshi) | AI tools | Weekly AI tool roundups. Great for discovering new tools. |
+| [Sentdex](https://www.youtube.com/@sentdex) | ML/AI | Hands-on ML and AI tutorials. Code-heavy, end-to-end systems. |
+| [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) | Research | AI research explained in 2 minutes. Makes papers accessible. |
+| [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Education | Free full courses including AI and ML. Democratizing education. |
+| [Automata Learning Lab](https://www.youtube.com/@AutomataLearningLab) | AI Engineering | Deep dives into LangChain, agents, and AI engineering. O'Reilly author. |
+| [Code with Ania Kubów](https://www.youtube.com/@AniaKubow) | Beginner-friendly | Accessible AI coding tutorials for beginners. |
+
+---
+
+## Showcases
+
+Real-world examples of what you can build with vibe coding.
+
+### Taskade Genesis Gallery
+
+Browse and clone community-built apps powered by Workspace DNA.
+
+| Category | Description | Explore |
+|----------|-------------|---------|
+| Business Apps | CRMs, dashboards, project trackers | [Browse Business Apps →](https://www.taskade.com/templates/business) |
+| Productivity Tools | Task managers, note systems, workflows | [Browse Productivity →](https://www.taskade.com/templates/productivity) |
+| AI Agents | Custom agents for specific tasks | [Browse AI Agents →](https://www.taskade.com/ai/agents) |
+| Automations | Workflow templates with integrations | [Browse Automations →](https://www.taskade.com/templates/automation) |
+
+**Featured tutorials:**
+- [Build a Finance Dashboard](https://www.taskade.com/blog/build-finance-dashboard-tutorial) — Real-time financial tracking
+- [Build a Support Dashboard](https://www.taskade.com/blog/build-support-dashboard-tutorial) — Customer service hub
+- [Build a Room Booking System](https://www.taskade.com/blog/build-room-booking-tutorial) — Resource management
+- [Build a QR Code Generator](https://www.taskade.com/blog/build-qr-code-generator-tutorial) — Utility app example
+
+### Open Source Showcases
+
+Notable projects built with vibe coding tools.
+
+| Project | Built With | Description |
+|---------|------------|-------------|
+| [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Various | Curated collection of AI agent use cases across industries |
+| [Awesome Agents](https://github.com/kyrolabs/awesome-agents) | Various | Community list of AI agent projects and implementations |
+| [Built with Replit](https://replit.com/community) | Replit | Community projects from the Replit platform |
+| [Made with Supabase](https://github.com/supabase-community/made-with-supabase) | Supabase | Apps built with Supabase (common vibe coding backend) |
+| [Awesome Claude](https://github.com/anthropics/anthropic-cookbook) | Claude | Official examples and recipes from Anthropic |
+
+### Building in Public
+
+Follow builders sharing their vibe coding journeys.
+
+| Platform | What to Search | Why It's Valuable |
+|----------|----------------|-------------------|
+| X/Twitter | #vibecoding #buildinpublic | Real-time progress updates and tips |
+| YouTube | "building with Cursor" "vibe coding" | Full build sessions and tutorials |
+| Reddit | r/vibecoding r/ChatGPTCoding | Community discussions and showcases |
+| Threads | #vibecoding | Visual build progress and demos |
 
 ---
 
