@@ -17,11 +17,13 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [Workspace DNA: The Living Software Architecture](#workspace-dna-the-living-software-architecture)
 - [AI App Builders](#ai-app-builders)
 - [AI Code Editors](#ai-code-editors)
+- [CLI & Terminal Tools](#cli--terminal-tools)
 - [AI Agents & Autonomous Coding](#ai-agents--autonomous-coding)
 - [AI Website Builders](#ai-website-builders)
 - [AI Component & UI Generators](#ai-component--ui-generators)
 - [AI Database & Backend Tools](#ai-database--backend-tools)
 - [AI Automation Platforms](#ai-automation-platforms)
+- [MCP & Model Context Protocol](#mcp--model-context-protocol)
 - [Open Source Tools](#open-source-tools)
 - [Prompt Engineering](#prompt-engineering)
 - [Learning Resources](#learning-resources)
@@ -102,9 +104,12 @@ Complete development environments rebuilt for AI-first workflows.
 |------|---------|----------|------------------|
 | [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Full Review →](https://www.taskade.com/blog/cursor-review) |
 | [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Full Review →](https://www.taskade.com/blog/windsurf-review) |
+| [Amazon Kiro](https://kiro.dev/) | Free preview | Spec-driven dev | AWS's agentic IDE. Specs, hooks, and steering files for structured AI development. |
+| [Firebase Studio](https://firebase.studio/) | Free preview | Full-stack AI apps | Google's cloud IDE with App Prototyping agent. Natural language to deployed app. |
 | [Zed](https://zed.dev/) | Free | Performance | Rust-based editor. Blazing fast with built-in AI and multiplayer. |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Subscription | Enterprise | AI assistant across all JetBrains IDEs. Deep language understanding. |
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
+| [Dyad](https://dyad.dev/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
 
 ### Editor Extensions
 
@@ -113,12 +118,58 @@ Add AI superpowers to your existing editor.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [GitHub Copilot](https://github.com/features/copilot) | $10/month | General coding | The original AI pair programmer. Best training data from GitHub. |
+| [Cline](https://github.com/cline/cline) | Free | Autonomous tasks | 4M+ installs. Full file editing, terminal commands, and browser control with human approval. |
+| [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Free | Multi-agent dev | Fork of Cline with Architect/Code/Ask modes. Multi-agent orchestration for complex projects. |
+| [Kilo Code](https://kilocode.ai/) | Free | Best of both | Superset of Cline + Roo. MCP marketplace, JetBrains support, $8M funded. |
 | [Codeium](https://codeium.com/) | Free | Budget-conscious | Free alternative to Copilot. Supports 70+ languages. |
 | [Supermaven](https://supermaven.com/) | Free tier | Speed | 1M token context window. Extremely fast completions. |
 | [Tabnine](https://www.tabnine.com/) | Free tier | Privacy-focused | Can run locally. Trains on your codebase. |
 | [Amazon Q](https://aws.amazon.com/q/) | Free tier | AWS developers | Deep AWS integration. Security scanning built in. |
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Free tier | Large codebases | Best-in-class codebase understanding. Enterprise-ready. |
 | [Continue](https://continue.dev/) | Free | Open source | Open-source autopilot. Use any model, any IDE. |
+| [Augment Code](https://www.augmentcode.com/) | Free tier | Enterprise | Context-aware AI that understands your entire codebase and dependencies. |
+| [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
+| [avante.nvim](https://github.com/yetone/avante.nvim) | Free | Neovim users | Cursor-like AI features for Neovim. Diff-based editing in your terminal. |
+
+---
+
+## CLI & Terminal Tools
+
+Agentic coding tools that run in your terminal. The fastest-growing category in vibe coding.
+
+### AI Coding CLIs
+
+Full-featured coding agents that work from the command line.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [Claude Code](https://github.com/anthropics/claude-code) | Usage-based | Professional dev | Anthropic's official CLI. Understands your codebase, executes tasks, handles git workflows. |
+| [OpenAI Codex CLI](https://github.com/openai/codex) | Usage-based | GPT users | OpenAI's terminal coding agent. Natural language to code execution. |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Free tier | Google ecosystem | Google's open-source AI agent. Brings Gemini directly to your terminal. |
+| [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
+| [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
+| [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
+
+### AI-Enhanced Terminals
+
+Modern terminals with AI built in.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [Warp](https://www.warp.dev/) | Free tier | Daily terminal use | AI-native terminal. Natural language commands, intelligent autocomplete. |
+| [GitHub Copilot CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli) | Subscription | GitHub users | Explain commands, generate shell scripts, translate between shells. |
+| [Amazon Q CLI](https://aws.amazon.com/q/developer/) | Free tier | AWS workflows | AI autocomplete for 500+ CLIs. Deep AWS integration. |
+
+### Specialized CLI Tools
+
+Tools for specific coding workflows.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
+| [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
+| [Mentat](https://github.com/AbanteAI/mentat) | Free | Code coordination | Coordinates AI coding across your project. Context-aware assistance. |
+| [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
 
 ---
 
@@ -199,6 +250,43 @@ Connect apps and automate workflows with AI.
 | [Lindy](https://www.lindy.ai/) | Paid | AI employees | Create AI agents for entire job functions. |
 | [Bardeen](https://www.bardeen.ai/) | Free tier | Browser automation | AI automates repetitive browser tasks. |
 | [Activepieces](https://www.activepieces.com/) | Free | Open source | Open-source Zapier alternative with AI. |
+
+---
+
+## MCP & Model Context Protocol
+
+The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables AI tools to connect with external data sources and services. Essential infrastructure for advanced vibe coding.
+
+### Official MCP Resources
+
+| Resource | Type | Why It's Awesome |
+|----------|------|------------------|
+| [MCP Specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | Docs | The official protocol specification. Understand how MCP works. |
+| [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 21k+ stars. Build MCP servers and clients in Python. |
+| [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 11k+ stars. Build MCP servers and clients in TypeScript. |
+| [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
+
+### MCP Server Collections
+
+Curated collections of ready-to-use MCP servers.
+
+| Resource | Stars | Why It's Awesome |
+|----------|-------|------------------|
+| [Official MCP Servers](https://github.com/modelcontextprotocol/servers) | High | Reference implementations: filesystem, git, fetch, memory, and more. |
+| [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | High | Community-curated list of MCP servers for every use case. |
+| [MCP Registry](https://github.com/modelcontextprotocol/registry) | Growing | Official registry service. Like an app store for MCP servers. |
+| [Microsoft MCP Servers](https://github.com/microsoft/mcp) | Growing | Official Microsoft/Azure MCP integrations. |
+
+### Agent Memory & Context
+
+Tools that give AI agents persistent memory and context.
+
+| Tool | Type | Why It's Awesome |
+|------|------|------------------|
+| [Byterover Cipher](https://github.com/byterover/cipher) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
+| [mem0](https://github.com/mem0ai/mem0) | Memory layer | Self-improving memory for AI agents. Learns from interactions. |
+| [Letta (MemGPT)](https://github.com/letta-ai/letta) | Agent framework | Agents with persistent memory and self-editing capabilities. |
+| [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
 
 ---
 
