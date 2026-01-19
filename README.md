@@ -57,7 +57,7 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 
 **Learn more:**
 - [How Workspace DNA Works](https://www.taskade.com/blog/how-workspace-dna-works) — The architecture explained
-- [The End of the App Store](https://www.taskade.com/blog/end-of-app-store) — Why living software changes everything
+- [The Origin of Living Software](https://www.taskade.com/blog/origin-of-living-software) — Why living software changes everything
 - [Understanding Workspace DNA](https://help.taskade.com/en/articles/12578949) — Technical documentation
 
 ---
@@ -72,7 +72,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** Your workspace becomes the backend with AI agents, databases, and automations. One prompt = one live app. [Full Review →](https://www.taskade.com/blog/taskade-reviews) |
+| [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** Your workspace becomes the backend with AI agents, databases, and automations. One prompt = one live app. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
 | [Glide](https://www.glideapps.com/) | Free tier | Mobile apps | Turn spreadsheets into polished mobile apps. Great for internal tools. |
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
@@ -84,9 +84,9 @@ Generate code you can own, modify, and deploy anywhere.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Full Review →](https://www.taskade.com/blog/bolt-review) |
-| [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Full Review →](https://www.taskade.com/blog/lovable-review) |
-| [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Full Review →](https://www.taskade.com/blog/replit-review) |
+| [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
+| [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Alternatives →](https://www.taskade.com/blog/lovable-alternatives) |
+| [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Alternatives →](https://www.taskade.com/blog/replit-alternatives) |
 | [Create](https://www.create.xyz/) | Waitlist | Rapid MVPs | AI-first app builder with clean UI generation. |
 | [Tempo](https://www.tempo.new/) | Free tier | React apps | Visual React editor with AI. Edit components visually or with prompts. |
 | [Softgen](https://softgen.ai/) | Free tier | Full-stack | AI generates entire full-stack apps. Firebase and Supabase integration. |
@@ -109,8 +109,8 @@ Complete development environments rebuilt for AI-first workflows.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Full Review →](https://www.taskade.com/blog/cursor-review) |
-| [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Full Review →](https://www.taskade.com/blog/windsurf-review) |
+| [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Compare →](https://www.taskade.com/blog/ai-coding-tools) |
+| [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Compare →](https://www.taskade.com/blog/ai-coding-tools) |
 | [Amazon Kiro](https://kiro.dev/) | Free preview | Spec-driven dev | AWS's agentic IDE. Specs, hooks, and steering files for structured AI development. |
 | [Firebase Studio](https://firebase.studio/) | Free preview | Full-stack AI apps | Google's cloud IDE with App Prototyping agent. Natural language to deployed app. |
 | [Zed](https://zed.dev/) | Free | Performance | Rust-based editor. Blazing fast with built-in AI and multiplayer. |
@@ -204,7 +204,7 @@ Generate websites from descriptions, not wireframes.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [Taskade AI Websites](https://www.taskade.com/ai/websites) | Free tier | Functional sites | Websites with built-in AI, forms, and workspace integration. |
-| [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Full Review →](https://www.taskade.com/blog/webflow-review) |
+| [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Compare →](https://www.taskade.com/blog/best-ai-website-generators) |
 | [Framer](https://www.framer.com/) | Free tier | Animations | Beautiful sites with complex interactions. AI layout suggestions. |
 | [Durable](https://durable.co/) | Paid | Small business | Generate a complete business website in 30 seconds. |
 | [10Web](https://10web.io/) | Paid | WordPress | AI-generated WordPress sites with hosting included. |
@@ -219,7 +219,7 @@ Generate UI components, not entire applications.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Full Review →](https://www.taskade.com/blog/v0-review) |
+| [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
 | [Claude Artifacts](https://claude.ai) | Free tier | Quick prototypes | Generate interactive React components in chat. |
 | [ChatGPT Canvas](https://chat.openai.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-4. |
 | [Galileo AI](https://www.usegalileo.ai/) | Waitlist | Design systems | Generate UI designs from text. Outputs to Figma. |
@@ -290,7 +290,7 @@ Tools that give AI agents persistent memory and context.
 
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
-| [Byterover Cipher](https://github.com/byterover/cipher) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
+| [Byterover Cipher](https://github.com/campfirein/cipher) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer | Self-improving memory for AI agents. Learns from interactions. |
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | Agent framework | Agents with persistent memory and self-editing capabilities. |
 | [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
@@ -335,7 +335,7 @@ Reusable prompts for common vibe coding tasks.
 
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
-| [Vibe Coding Prompt Library](https://github.com/anthropics/prompt-library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
+| [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
 | [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Collection | 100k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
 
@@ -383,7 +383,7 @@ Master the art of talking to AI.
 | Article | Author | Why It's Awesome |
 |---------|--------|------------------|
 | [What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding) | Taskade | **The definitive guide.** Workflow, best practices, examples. |
-| [The End of the App Store](https://www.taskade.com/blog/end-of-app-store) | Taskade | How living software replaces static apps. |
+| [The Origin of Living Software](https://www.taskade.com/blog/origin-of-living-software) | Taskade | How living software replaces static apps. |
 | [Build Without Permission](https://www.taskade.com/blog/build-without-permission) | Taskade | The philosophy behind vibe coding. |
 | [How Workspace DNA Works](https://www.taskade.com/blog/how-workspace-dna-works) | Taskade | Architecture of workspace-powered apps. |
 | [What Are AI Agents?](https://www.taskade.com/blog/what-are-ai-agents) | Taskade | Understanding autonomous AI. |
@@ -393,7 +393,7 @@ Master the art of talking to AI.
 
 | Tutorial | Difficulty | Why It's Awesome |
 |----------|------------|------------------|
-| [5 Genesis Apps in 10 Minutes](https://www.taskade.com/blog/5-genesis-apps-10-minutes) | Beginner | Build 5 real apps fast. |
+| [Taskade Genesis: Living Apps](https://www.taskade.com/blog/taskade-genesis-living-apps) | Beginner | Build living apps with one prompt. |
 | [AI App Beginner Examples](https://www.taskade.com/blog/ai-app-beginner-examples) | Beginner | Start simple, build confidence. |
 | [AI Dashboard Examples](https://www.taskade.com/blog/ai-dashboard-examples) | Intermediate | Business intelligence with AI. |
 | [Create Your First App](https://help.taskade.com/en/articles/11957643) | Beginner | Step-by-step Genesis tutorial. |
