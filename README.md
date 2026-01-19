@@ -25,6 +25,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [AI Automation Platforms](#ai-automation-platforms)
 - [MCP & Model Context Protocol](#mcp--model-context-protocol)
 - [Open Source Tools](#open-source-tools)
+- [Documentation & Templates](#documentation--templates)
 - [Prompt Engineering](#prompt-engineering)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
@@ -87,8 +88,14 @@ Generate code you can own, modify, and deploy anywhere.
 | [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Full Review →](https://www.taskade.com/blog/lovable-review) |
 | [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Full Review →](https://www.taskade.com/blog/replit-review) |
 | [Create](https://www.create.xyz/) | Waitlist | Rapid MVPs | AI-first app builder with clean UI generation. |
+| [Tempo](https://www.tempo.new/) | Free tier | React apps | Visual React editor with AI. Edit components visually or with prompts. |
+| [Softgen](https://softgen.ai/) | Free tier | Full-stack | AI generates entire full-stack apps. Firebase and Supabase integration. |
+| [Rork](https://rork.app/) | Free tier | Mobile apps | Build React Native apps with AI. Export to Expo. |
 | [Marblism](https://www.marblism.com/) | Paid | SaaS boilerplates | Full SaaS applications with auth and payments. |
 | [Lazy AI](https://www.getlazy.ai/) | Free tier | Backend-heavy apps | Focuses on business logic and API generation. |
+| [Creatr](https://www.creatr.app/) | Free tier | Landing pages | AI landing page builder with beautiful templates. |
+| [Google AI Studio](https://aistudio.google.com/) | Free tier | Gemini prototypes | Prototype with Gemini models. Export to code. |
+| [Napkins.dev](https://napkins.dev/) | Free tier | Screenshot-to-code | Turn screenshots and wireframes into working code. |
 
 ---
 
@@ -307,6 +314,43 @@ Self-host and customize your vibe coding stack.
 
 ---
 
+## Documentation & Templates
+
+Resources and templates for structuring AI-assisted development projects.
+
+### Project Configuration
+
+Files and templates that help AI understand your codebase.
+
+| Resource | Type | Why It's Awesome |
+|----------|------|------------------|
+| [AGENTS.md Guide](https://github.com/anthropics/claude-code/blob/main/AGENTS.md) | Template | Official guide for creating agent instruction files. Tell AI how to work with your repo. |
+| [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
+| [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
+| [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
+
+### Prompt Templates
+
+Reusable prompts for common vibe coding tasks.
+
+| Resource | Type | Why It's Awesome |
+|----------|------|------------------|
+| [Vibe Coding Prompt Library](https://github.com/anthropics/prompt-library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Collection | 100k+ stars. Community prompts including dev-focused ones. |
+| [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
+
+### Boilerplates & Starters
+
+Pre-configured projects optimized for vibe coding workflows.
+
+| Resource | Stack | Why It's Awesome |
+|----------|-------|------------------|
+| [create-t3-app](https://create.t3.gg/) | Next.js + tRPC | Type-safe full-stack. Great AI context from TypeScript. |
+| [Wasp](https://wasp-lang.dev/) | React + Node | Full-stack framework with AI code generation features built in. |
+| [Kiro Boilerplates](https://github.com/topics/kiro-ide) | Various | Community templates for Amazon Kiro spec-driven development. |
+
+---
+
 ## Prompt Engineering
 
 Master the art of talking to AI.
@@ -367,14 +411,34 @@ Master the art of talking to AI.
 
 Where to learn, share, and get help.
 
+### Official Communities
+
 | Community | Platform | Focus |
 |-----------|----------|-------|
-| [Taskade Community](https://www.taskade.com/community) | Web | Browse and clone Genesis apps. |
-| [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) | Reddit | General AI discussions. |
-| [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) | Reddit | Self-hosted AI. |
-| [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) | Reddit | AI-assisted coding. |
-| [Hacker News](https://news.ycombinator.com/) | Web | Tech community discussions. |
-| [Cursor Discord](https://discord.gg/cursor) | Discord | Cursor-specific help. |
+| [Taskade Community](https://www.taskade.com/community) | Web | Browse and clone Genesis apps. Templates and workflows. |
+| [Claude Developers Discord](https://discord.gg/anthropic) | Discord | Official Anthropic community. Claude Code help and discussion. |
+| [Cursor Discord](https://discord.gg/cursor) | Discord | Cursor-specific help. 100k+ members. |
+| [Cline Discord](https://discord.gg/cline) | Discord | Cline extension community. MCP discussions. |
+| [Replit Community](https://replit.com/community) | Web | Share and fork Replit projects. |
+
+### Reddit Communities
+
+| Community | Members | Focus |
+|-----------|---------|-------|
+| [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) | 100k+ | AI-assisted coding tips and discussions. |
+| [r/vibecoding](https://www.reddit.com/r/vibecoding/) | Growing | Dedicated vibe coding community. |
+| [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) | 5M+ | General AI discussions. |
+| [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) | 500k+ | Self-hosted AI and local models. |
+| [r/cursor](https://www.reddit.com/r/cursor/) | Growing | Cursor IDE discussions. |
+
+### Other Communities
+
+| Community | Platform | Focus |
+|-----------|----------|-------|
+| [Hacker News](https://news.ycombinator.com/) | Web | Tech community. Front page for AI tool launches. |
+| [Vibehackers](https://vibehackers.com/) | Web | Community for vibe coding enthusiasts. |
+| [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
+| [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
 
 ---
 
@@ -403,17 +467,45 @@ Where to learn, share, and get help.
 
 Key terms in the vibe coding ecosystem.
 
+### Core Concepts
+
 | Term | Definition |
 |------|------------|
-| **Vibe Coding** | Building software by describing what you want in natural language, letting AI handle implementation. Coined by Andrej Karpathy. |
+| **Vibe Coding** | Building software by describing what you want in natural language, letting AI handle implementation. Coined by [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383). |
 | **Living Software** | Applications that evolve with your data, learn from patterns, and act autonomously through AI agents. |
-| **Workspace DNA** | Architecture where your workspace (projects, databases, automations) becomes the backend for AI-generated apps. |
+| **Workspace DNA** | Architecture where your workspace (projects, databases, automations) becomes the backend for AI-generated apps. [Learn more →](https://www.taskade.com/blog/how-workspace-dna-works) |
 | **Prompt-to-App** | The workflow of generating a complete application from a single natural language prompt. |
-| **AI Agents** | Autonomous AI systems that can understand context, make decisions, and execute tasks without human intervention. |
+| **AI Agents** | Autonomous AI systems that can understand context, make decisions, and execute tasks without human intervention. [Learn more →](https://www.taskade.com/blog/what-are-ai-agents) |
+
+### Development Terms
+
+| Term | Definition |
+|------|------------|
+| **Agentic IDE** | Development environment where AI acts as an autonomous collaborator, not just an assistant. Examples: Cursor, Windsurf, Kiro. |
 | **Agentic Workflow** | Multi-step processes where AI agents coordinate to complete complex tasks. |
-| **No-Code** | Building software without writing traditional code, using visual builders or natural language. |
 | **Code Generation** | AI producing actual source code that developers can modify and deploy. |
+| **Context Window** | The amount of text (measured in tokens) an AI can consider at once. Larger = better codebase understanding. |
+| **Human-in-the-Loop** | AI workflow where humans approve or modify AI actions before execution. Common in Cline, Roo Code. |
+
+### Architecture Terms
+
+| Term | Definition |
+|------|------------|
+| **MCP (Model Context Protocol)** | Open standard for connecting AI tools to external data sources and services. Created by Anthropic. |
+| **MCP Server** | A service that exposes data or functionality to AI tools via the Model Context Protocol. |
+| **Agent Memory** | Persistent storage that allows AI agents to remember context across sessions. |
+| **RAG (Retrieval-Augmented Generation)** | Technique where AI retrieves relevant documents before generating responses. |
+| **Embeddings** | Vector representations of text that enable semantic search and similarity matching. |
+
+### Workflow Terms
+
+| Term | Definition |
+|------|------------|
+| **No-Code** | Building software without writing traditional code, using visual builders or natural language. |
+| **Low-Code** | Development approach combining visual builders with some traditional coding. |
 | **Multi-Agent Orchestration** | Coordinating multiple AI agents to work together on complex problems. |
+| **Spec-Driven Development** | Writing specifications that AI uses to generate and maintain code. Used by Amazon Kiro. |
+| **Steering Files** | Configuration files (like .cursorrules or AGENTS.md) that guide AI behavior in a project. |
 | **Workspace Backend** | Using a collaborative workspace as the database and API layer for applications. |
 
 ---
