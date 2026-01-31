@@ -25,7 +25,9 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [AI Automation Platforms](#ai-automation-platforms)
 - [MCP & Model Context Protocol](#mcp--model-context-protocol)
 - [Open Source Tools](#open-source-tools)
+- [AI Frameworks & SDKs](#ai-frameworks--sdks)
 - [Documentation & Templates](#documentation--templates)
+- [Best Practices & Workflows](#best-practices--workflows)
 - [Prompt Engineering](#prompt-engineering)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
@@ -184,7 +186,7 @@ Tools for specific coding workflows.
 
 ## AI Agents & Autonomous Coding
 
-AI that doesn't just assist — it works independently on complex tasks.
+AI that doesn't just assist — it works independently on complex tasks. [Creating AI Agents for Coding →](https://www.taskade.com/blog/creating-ai-agents-for-coding)
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
@@ -264,7 +266,7 @@ Connect apps and automate workflows with AI.
 
 ## MCP & Model Context Protocol
 
-The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables AI tools to connect with external data sources and services. Essential infrastructure for advanced vibe coding.
+The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables AI tools to connect with external data sources and services. Essential infrastructure for advanced vibe coding. [MCP Guide →](https://www.taskade.com/blog/mcp)
 
 ### Official MCP Resources
 
@@ -316,6 +318,46 @@ Self-host and customize your vibe coding stack.
 
 ---
 
+## AI Frameworks & SDKs
+
+Libraries and frameworks for building AI-powered applications and agents. [Creating AI Agents for Coding →](https://www.taskade.com/blog/creating-ai-agents-for-coding)
+
+### Agent Frameworks
+
+Build custom AI agents and multi-agent systems.
+
+| Framework | Language | Stars | Why It's Awesome |
+|-----------|----------|-------|------------------|
+| [LangChain](https://github.com/langchain-ai/langchain) | Python | 110k+ | The most popular LLM framework. Chains, agents, RAG, and tool use. |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | Python | 30k+ | Multi-agent orchestration. Assign roles, goals, and tools to AI crews. [Multi-Agent Best Practices →](https://www.taskade.com/blog/best-practices-for-building-multi-agent-ai-teams) |
+| [Dify](https://github.com/langgenius/dify) | Python/TS | 114k+ | Open-source LLMOps platform. Visual prompt engineering and agent builder. |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Python | 10k+ | Type-safe AI agent framework from the Pydantic team. Production-ready. |
+| [AutoGen](https://github.com/microsoft/autogen) | Python | 40k+ | Microsoft's multi-agent framework. Agents that chat with each other. |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C#/Python | 25k+ | Microsoft's SDK for integrating AI into existing applications. |
+
+### AI SDKs & Libraries
+
+SDKs for integrating AI models into your applications.
+
+| SDK | Language | Why It's Awesome |
+|-----|----------|------------------|
+| [Vercel AI SDK](https://github.com/vercel/ai) | TypeScript | Streaming UI components for AI chat. Works with Next.js, React, Svelte. |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Python | Data framework for LLM apps. Best-in-class RAG and data connectors. |
+| [Haystack](https://github.com/deepset-ai/haystack) | Python | End-to-end NLP framework. Pipelines for search, QA, and agents. |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | All-in-one AI desktop app. Use any LLM with your documents. |
+
+### Benchmarks & Evaluation
+
+Measure AI coding capabilities.
+
+| Tool | Type | Why It's Awesome |
+|------|------|------------------|
+| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Benchmark | Tests AI on real GitHub issues. The standard for measuring coding ability. |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent | Princeton's AI agent that resolves GitHub issues. Top SWE-bench performer. |
+| [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
+
+---
+
 ## Documentation & Templates
 
 Resources and templates for structuring AI-assisted development projects.
@@ -353,14 +395,57 @@ Pre-configured projects optimized for vibe coding workflows.
 
 ---
 
+## Best Practices & Workflows
+
+Practical techniques for effective vibe coding, sourced from practitioners and the developer community.
+
+### Prompting Techniques
+
+Strategies for getting better results from AI coding tools.
+
+| Technique | Description | Source |
+|-----------|-------------|--------|
+| **Pseudocode-First** | Write pseudocode or step-by-step logic before asking AI to implement. Reduces errors and gives AI clear intent. | [HN Community](https://news.ycombinator.com/item?id=43953633) |
+| **Progressive Prompting** | Start with high-level architecture, then drill into components. Don't try to build everything in one prompt. | [AI Prompting Guide →](https://www.taskade.com/blog/ai-prompting-guide) |
+| **Function-Signature Method** | Define function signatures and types first, then ask AI to implement the bodies. Type safety guides the AI. | [HN Community](https://news.ycombinator.com/item?id=43953633) |
+| **Doc Embedding** | Paste documentation snippets into your prompt so the AI uses the correct APIs and conventions. | Practitioner consensus |
+| **Test-First Prompting** | Write tests before asking AI to implement code. Tests become the specification. | [HN Mega-Thread](https://news.ycombinator.com/item?id=46352875) |
+
+### Session & Context Management
+
+Keep AI productive across long coding sessions.
+
+| Practice | Description | Source |
+|----------|-------------|--------|
+| **Preserve Session Logs** | Configure `cleanupPeriodDays: 99999` in Claude Code to keep JSONL logs. Link sessions to git commits for auditability. | [Simon Willison](https://simonwillison.net/2025/Oct/22/claude-code-logs/) |
+| **Know When to Reset** | Start fresh when you notice "context rot" — AI repeating mistakes or losing track of the codebase. Time-box sessions. | [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) |
+| **DISCOVERIES.md Pattern** | Keep a retrospective file of approaches that failed and why. Feed it to new sessions so the AI doesn't repeat mistakes. | [HN Mega-Thread](https://news.ycombinator.com/item?id=46352875) |
+| **Checkpoint with Git** | Commit frequently before asking AI to make large changes. Makes it easy to revert if the AI goes off track. | Practitioner consensus |
+| **Split Complex Tasks** | Break work into small, focused tasks rather than asking for everything at once. Each task = one clear objective. | [Multi-Agent Best Practices →](https://www.taskade.com/blog/best-practices-for-building-multi-agent-ai-teams) |
+
+### Code Quality & Review
+
+Maintain quality when AI generates your code.
+
+| Practice | Description | Source |
+|----------|-------------|--------|
+| **Always Review Diffs** | Never blindly accept AI-generated code. Read every diff, especially security-sensitive changes. | [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) |
+| **Steering Files** | Use .cursorrules, AGENTS.md, or CLAUDE.md to set coding standards, conventions, and constraints. | [Documentation & Templates](#documentation--templates) |
+| **Lock Dependencies** | Specify exact versions in your steering files. AI may suggest outdated or incompatible package versions. | Practitioner consensus |
+| **Run Tests Before & After** | Always run your test suite before and after AI modifications. Catch regressions immediately. | Practitioner consensus |
+
+---
+
 ## Prompt Engineering
 
-Master the art of talking to AI.
+Master the art of talking to AI. [AI Prompt Engineering Guide →](https://www.taskade.com/blog/ai-prompt-engineering)
 
 ### Guides & Courses
 
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
+| [AI Prompting Guide](https://www.taskade.com/blog/ai-prompting-guide) | Guide | Practical prompting techniques for vibe coding workflows. |
+| [Leaked AI Prompts Study](https://www.taskade.com/blog/leaked-ai-prompts-study) | Analysis | Learn from real-world system prompts. What makes them effective. |
 | [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library) | Reference | Official prompts from Claude's creators. |
 | [OpenAI Cookbook](https://cookbook.openai.com/) | Tutorials | Practical examples from OpenAI. |
 | [Learn Prompting](https://learnprompting.org/) | Course | Comprehensive free course. |
@@ -380,6 +465,28 @@ Master the art of talking to AI.
 
 ## Learning Resources
 
+### Essential Reading
+
+Must-read articles from practitioners who shaped the vibe coding conversation.
+
+| Article | Author | Why It's Awesome |
+|---------|--------|------------------|
+| [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) | Armin Ronacher | Flask creator reflects on a full year of AI-assisted coding. Practical lessons on context rot, when to reset, and code review. |
+| [Claude Code Session Logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/) | Simon Willison | How to preserve and analyze Claude Code JSONL logs. Session management as a superpower. |
+| [Claude Code for Web Video](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#the-result) | Simon Willison | Terminal-to-HTML workflow. Building a complete video tool through iterative vibe coding. |
+| [The Future of AI Programming](https://www.taskade.com/blog/ai-programming-future) | Taskade | Where AI-assisted development is heading. Architecture and workflow predictions. |
+| [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) | Andrej Karpathy | The foundational essay on AI-first software. |
+
+### HN Discussions
+
+High-signal Hacker News threads where practitioners share real-world vibe coding experiences.
+
+| Thread | Topic | Why It's Awesome |
+|--------|-------|------------------|
+| [Vibe Coding Tips & Tricks](https://news.ycombinator.com/item?id=43953633) | Techniques | 500+ comments of battle-tested prompting tips. Pseudocode-first and function-signature methods. |
+| [Two Kinds of Vibe Coding](https://news.ycombinator.com/item?id=43942792) | Philosophy | Exploration vs. production vibe coding. When to embrace vibes vs. when to be precise. |
+| [AI Coding Mega-Thread](https://news.ycombinator.com/item?id=46352875) | Best Practices | DISCOVERIES.md pattern, test-first prompting, session management strategies. |
+
 ### Articles & Thought Pieces
 
 | Article | Author | Why It's Awesome |
@@ -391,7 +498,7 @@ Master the art of talking to AI.
 | [What Are AI Agents?](https://www.taskade.com/blog/what-are-ai-agents) | Taskade | Understanding autonomous AI. |
 | [Agentic AI Systems](https://www.taskade.com/blog/agentic-ai-systems) | Taskade | Deep dive into agentic workflows and multi-agent orchestration. |
 | [Multi-Agent Systems](https://www.taskade.com/blog/multi-agent-systems) | Taskade | How multiple AI agents coordinate to solve complex problems. |
-| [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) | Andrej Karpathy | The foundational essay on AI-first software. |
+| [Open Source AI Agents](https://www.taskade.com/blog/open-source-ai-agents) | Taskade | Comprehensive guide to open-source agent frameworks and tools. |
 
 ### Tutorials
 
@@ -474,6 +581,7 @@ Individual voices shaping the vibe coding narrative.
 | Blog | Author | Why It's Awesome |
 |------|--------|------------------|
 | [Simon Willison's Weblog](https://simonwillison.net/) | Simon Willison | Django co-creator. Best practical AI coding content. Hacker News favorite. |
+| [Armin Ronacher's Thoughts](https://lucumr.pocoo.org/) | Armin Ronacher | Flask/Sentry creator. Deeply practical AI coding reflections. [A Year of Vibes →](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) |
 | [Taskade Blog](https://www.taskade.com/blog) | Taskade Team | Vibe coding tutorials, AI agents, workspace architecture. [AI Agents Guide →](https://www.taskade.com/blog/agentic-ai-systems) |
 | [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) | Gergely Orosz | Senior engineering perspective on AI tools. [AI Tools Deep Dive →](https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison) |
 | [Continue Blog](https://blog.continue.dev/) | Continue Team | Open-source AI coding insights. [Vibe Engineering →](https://blog.continue.dev/from-vibe-engineering-to-continuous-ai/) |
@@ -528,7 +636,7 @@ Real-world examples of what you can build with vibe coding.
 
 ### Taskade Genesis Gallery
 
-Browse and clone community-built apps powered by Workspace DNA.
+Browse and clone community-built apps powered by Workspace DNA. [Explore the Gallery →](https://www.taskade.com/blog/community-gallery-app-store)
 
 | Category | Description | Explore |
 |----------|-------------|---------|
