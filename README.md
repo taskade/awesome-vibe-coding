@@ -117,6 +117,8 @@ Complete development environments rebuilt for AI-first workflows.
 |------|---------|----------|------------------|
 | [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Compare →](https://www.taskade.com/blog/ai-coding-tools) |
 | [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Compare →](https://www.taskade.com/blog/ai-coding-tools) |
+| [Trae](https://www.trae.ai/) | Free | ByteDance IDE | Next-gen IDE with dual modes and free GPT-4o/Claude-3.5. Built on VSCode with JetBrains aesthetics. |
+| [Qoder](https://qoder.com) | Free beta | Context engineering | Alibaba's AI IDE with enhanced context understanding. Auto-generates repo wikis and documentation. |
 | [Amazon Kiro](https://kiro.dev/) | Free preview | Spec-driven dev | AWS's agentic IDE. Specs, hooks, and steering files for structured AI development. |
 | [Firebase Studio](https://firebase.studio/) | Free preview | Full-stack AI apps | Google's cloud IDE with App Prototyping agent. Natural language to deployed app. |
 | [Zed](https://zed.dev/) | Free | Performance | Rust-based editor. Blazing fast with built-in AI and multiplayer. |
@@ -134,6 +136,7 @@ Add AI superpowers to your existing editor.
 | [Cline](https://github.com/cline/cline) | Free | Autonomous tasks | 4M+ installs. Full file editing, terminal commands, and browser control with human approval. |
 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Free | Multi-agent dev | Fork of Cline with Architect/Code/Ask modes. Multi-agent orchestration for complex projects. |
 | [Kilo Code](https://kilocode.ai/) | Free | Best of both | Superset of Cline + Roo. MCP marketplace, JetBrains support, $8M funded. |
+| [SuperDesign](https://github.com/superdesigndev/superdesign) | Free | Design agent | First open-source design agent. Generates 10 UI variations in parallel inside your IDE. |
 | [Codeium](https://codeium.com/) | Free | Budget-conscious | Free alternative to Copilot. Supports 70+ languages. |
 | [Supermaven](https://supermaven.com/) | Free tier | Speed | 1M token context window. Extremely fast completions. |
 | [Tabnine](https://www.tabnine.com/) | Free tier | Privacy-focused | Can run locally. Trains on your codebase. |
@@ -233,6 +236,8 @@ Generate UI components, not entire applications.
 | [Claude Artifacts](https://claude.ai) | Free tier | Quick prototypes | Generate interactive React components in chat. |
 | [ChatGPT Canvas](https://chat.openai.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-4. |
 | [HeroUI Chat](https://www.heroui.chat/) | Free tier | UI generation | Generate app UIs and components from prompts with iterative refinement. |
+| [Komposo](https://www.komposo.ai/) | Free tier | UI-first | Fast, high-quality UI generation with clean code export. Top choice for designers and developers. |
+| [Banani](https://www.banani.co/) | Free tier | Visual canvas | Turns text prompts into editable UI designs on a visual canvas. Great for PMs and designers. |
 | [Galileo AI](https://www.usegalileo.ai/) | Waitlist | Design systems | Generate UI designs from text. Outputs to Figma. |
 | [Uizard](https://uizard.io/) | Free tier | Wireframes | Turn sketches into editable designs. |
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
