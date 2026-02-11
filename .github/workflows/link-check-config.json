@@ -1,0 +1,21 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://news.ycombinator.com"
+    },
+    {
+      "pattern": "^https://www.reddit.com"
+    },
+    {
+      "pattern": "^https://medium.com"
+    },
+    {
+      "pattern": "^https://www.producthunt.com"
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 2,
+  "fallbackRetryDelay": "10s",
+  "aliveStatusCodes": [200, 206, 302, 304, 403, 429]
+}

@@ -12,8 +12,55 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 ---
 
+## 👋 New to Vibe Coding? Start Here
+
+**5-Minute Quick Start:**
+1. ✅ Read: [What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding)
+2. ✅ Try: [Build your first app](https://www.taskade.com/ai/apps) with Taskade Genesis
+3. ✅ Learn: [8 Best Practices](https://www.softr.io/blog/vibe-coding-best-practices)
+4. ✅ Join: [Vibe coding communities](#communities)
+
+**By Experience Level:**
+- **Beginner**: Start with [Taskade Genesis](#workspace-dna-the-living-software-architecture) or [Bolt](#code-generating)
+- **Intermediate**: Try [Cursor](#full-ides) or [Claude Code](#ai-coding-clis)
+- **Advanced**: Build with [Multi-Agent Systems](#ai-frameworks--sdks)
+
+**🗺️ Quick Navigation by Use Case:**
+- 🚀 [Build an app in 5 minutes](#taskade-genesis-gallery) → Taskade Genesis
+- 💻 [Code faster in my IDE](#ai-code-editors) → Cursor, Windsurf
+- 🤖 [Create autonomous agents](#ai-agents--autonomous-coding) → Taskade AI Agents
+- 🌐 [Generate a website](#ai-website-builders) → Taskade AI Websites
+- 📚 [Learn vibe coding](#learning-resources) → Tutorials & Guides
+
+---
+
+## 🆕 Recently Added
+
+| Date | What's New |
+|------|------------|
+| **2026-02-11** | Trae (ByteDance IDE), Qoder (Alibaba), SuperDesign, Komposo, Banani |
+| **2026-02-11** | Vibe Coding Philosophies section, Taskade Genesis Case Studies |
+| **2026-02-11** | 20+ strategic blog cross-links, comparison tables |
+| **2026-01-28** | OpenCode, Crush, Qwen Code, Kimi CLI |
+
+---
+
+## 📊 Vibe Coding in 2026: By the Numbers
+
+- **85%** of developers use AI coding tools regularly
+- **41%** of all code is now AI-assisted
+- **$27B** global AI coding tools market size (2026)
+- **10x** faster development cycles reported by vibe coders
+- **245** tools and resources in this list
+
+*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026)*
+
+---
+
 ## Contents
 
+- [🆕 Recently Added](#-recently-added)
+- [📊 Vibe Coding in 2026: By the Numbers](#-vibe-coding-in-2026-by-the-numbers)
 - [Workspace DNA: The Living Software Architecture](#workspace-dna-the-living-software-architecture)
 - [AI App Builders](#ai-app-builders)
 - [AI Code Editors](#ai-code-editors)
@@ -28,6 +75,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [AI Frameworks & SDKs](#ai-frameworks--sdks)
 - [Documentation & Templates](#documentation--templates)
 - [Best Practices & Workflows](#best-practices--workflows)
+- [Practical Workflows](#practical-workflows)
 - [Vibe Coding Philosophies](#vibe-coding-philosophies)
 - [Prompt Engineering](#prompt-engineering)
 - [Learning Resources](#learning-resources)
@@ -78,13 +126,27 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 
 Tools that generate complete applications from natural language descriptions.
 
+### 🎯 Quick Tool Selector
+
+| If You Want... | Use This | Why |
+|----------------|----------|-----|
+| **Zero-code living app** | 🔥 Taskade Genesis | Workspace DNA = instant backend + AI agents |
+| **Code you can export** | Bolt, Lovable, Replit | WebContainers, React output, full control |
+| **IDE integration** | Cursor, Windsurf | Codebase-aware refactoring in VS Code fork |
+| **Terminal-first workflow** | Claude Code, Aider | Git integration, CLI power users |
+| **Team collaboration** | Taskade Genesis, Firebase Studio | Real-time editing + AI agents |
+| **Mobile apps** | Glide, Adalo, Rork | Spreadsheet-to-app or React Native |
+| **Website in 30 seconds** | Taskade AI Websites, Durable | No-code website generation |
+
+---
+
 ### No-Code / Workspace-Powered
 
 Build apps without writing or managing code. Your prompts become live applications.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** Your workspace becomes the backend — smart databases, AI agents, automations, and 100+ integrations. One prompt = one live app with its own URL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
+| 🔥 [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** Your workspace becomes the backend — smart databases, AI agents, automations, and 100+ integrations. One prompt = one live app with its own URL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
 | [Glide](https://www.glideapps.com/) | Free tier | Mobile apps | Turn spreadsheets into polished mobile apps. Great for internal tools. |
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
@@ -110,8 +172,8 @@ Generate code you can own, modify, and deploy anywhere.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bolt-new) |
-| [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-lovable) |
+| 🔥 [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bolt-new) |
+| 🔥 [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-lovable) |
 | [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Review →](https://www.taskade.com/blog/replit-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-replit) · [Alternatives →](https://www.taskade.com/blog/replit-alternatives) |
 | [Capacity](https://capacity.so/) | Free tier | Internal tools | Prompt-to-app platform for operational tools and dashboards. |
 | [CHAI.new](https://chai.new) | Free tier | AI agents | Prompt, build, and deploy agentic apps in the browser. |
@@ -137,8 +199,8 @@ Complete development environments rebuilt for AI-first workflows.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Read Review →](https://www.taskade.com/blog/cursor-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-cursor) · [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
-| [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-windsurf) |
+| 🔥 [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Read Review →](https://www.taskade.com/blog/cursor-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-cursor) · [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
+| 🔥 [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-windsurf) |
 | [Trae](https://www.trae.ai/) | Free | ByteDance IDE | Next-gen IDE with dual modes and free GPT-4o/Claude-3.5. Built on VSCode with JetBrains aesthetics. |
 | [Qoder](https://qoder.com) | Free beta | Context engineering | Alibaba's AI IDE with enhanced context understanding. Auto-generates repo wikis and documentation. |
 | [Amazon Kiro](https://kiro.dev/) | Free preview | Spec-driven dev | AWS's agentic IDE. Specs, hooks, and steering files for structured AI development. |
@@ -181,14 +243,14 @@ Full-featured coding agents that work from the command line.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Claude Code](https://github.com/anthropics/claude-code) | Usage-based | Professional dev | Anthropic's official CLI. Understands your codebase, executes tasks, handles git workflows. |
+| 🔥 [Claude Code](https://github.com/anthropics/claude-code) | Usage-based | Professional dev | Anthropic's official CLI. Understands your codebase, executes tasks, handles git workflows. |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | Usage-based | GPT users | OpenAI's terminal coding agent. Natural language to code execution. |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Free tier | Google ecosystem | Google's open-source AI agent. Brings Gemini directly to your terminal. |
 | [OpenCode](https://github.com/sst/opencode) | Free | Terminal-first coding | Open-source coding agent built specifically for terminal workflows. |
 | [Crush](https://github.com/charmbracelet/crush) | Free | TUI workflows | Terminal-native AI coding agent with a polished TUI experience. |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | Free | Qwen users | Open-source coding CLI optimized for Qwen coder models. |
 | [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | Free tier | Long-context workflows | CLI coding assistant with strong context handling and agent flows. |
-| [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
+| 🔥 [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
 | [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
 
@@ -221,7 +283,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Train agents on your files, projects, and web content. Custom tools, skills, and commands. Run 24/7 with multi-agent orchestration. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
+| 🔥 [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Train agents on your files, projects, and web content. Custom tools, skills, and commands. Run 24/7 with multi-agent orchestration. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
 | [Devin](https://devin.ai/) | Waitlist | Full autonomy | First "AI software engineer." Plans, codes, debugs, and deploys autonomously. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
@@ -254,7 +316,7 @@ Generate UI components, not entire applications.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
+| 🔥 [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
 | [Claude Artifacts](https://claude.ai) | Free tier | Quick prototypes | Generate interactive React components in chat. |
 | [ChatGPT Canvas](https://chat.openai.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-4. |
 | [HeroUI Chat](https://www.heroui.chat/) | Free tier | UI generation | Generate app UIs and components from prompts with iterative refinement. |
@@ -469,6 +531,38 @@ Maintain quality when AI generates your code.
 | **Steering Files** | Use .cursorrules, AGENTS.md, or CLAUDE.md to set coding standards, conventions, and constraints. | [Documentation & Templates](#documentation--templates) |
 | **Lock Dependencies** | Specify exact versions in your steering files. AI may suggest outdated or incompatible package versions. | Practitioner consensus |
 | **Run Tests Before & After** | Always run your test suite before and after AI modifications. Catch regressions immediately. | Practitioner consensus |
+
+---
+
+## Practical Workflows
+
+### From Idea to Deployed App
+
+| Phase | Taskade Genesis | Traditional Vibe Coding | Time |
+|-------|-----------------|------------------------|------|
+| **0. Planning** | Write PRD in Taskade project | Create PRD document | 5-10 min |
+| **1. Wireframe** | Describe UI in prompt | Use Figma/Miro | 10-30 min |
+| **2. Data Model** | AI auto-creates workspace structure | Define schemas manually | 5-15 min |
+| **3. Generation** | One prompt = live app | Iterate with AI coding tool | 2-10 min vs 30-120 min |
+| **4. Deploy** | Instant URL | Configure hosting | 0 min vs 15-60 min |
+| **5. Iterate** | Update workspace, app evolves | Redeploy manually | Continuous |
+
+**Total Time:** ~30 minutes (Taskade Genesis) vs 2-4 hours (Traditional)
+
+### 8 Best Practices for Production Vibe Coding
+
+Based on [real commercial projects](https://www.softr.io/blog/vibe-coding-best-practices):
+
+| Practice | What to Do | Why It Matters |
+|----------|-----------|----------------|
+| **1. Define Intent Clearly** | Create a one-page PRD outlining goals | Helps AI understand what you're building |
+| **2. Wireframe First** | Sketch key screens and data flows | Prevents AI from guessing layouts |
+| **3. Structure Data Early** | Establish naming conventions and database structure | Prevents "AI spaghetti code" |
+| **4. Prompt with Context** | Break requests into goal-driven steps | AI understands foundation before advancing |
+| **5. Review Before Accepting** | Test functionality, check structure, inspect security | Prevents regression risk |
+| **6. Document Decisions** | Maintain prompt log and decision record | Ensures continuity for future builders |
+| **7. Security-First** | Never hardcode credentials, use environment variables | Protects sensitive data |
+| **8. Know When to Scale** | Transition to structured platforms for real users | Move from experimentation to stability |
 
 ---
 
@@ -847,14 +941,36 @@ This isn't a temporary trend. It's how software will be built.
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! This awesome list is maintained by the community.
+
+### 🤝 How to Contribute
+
+Found a great vibe coding tool? [Add it here](CONTRIBUTING.md)!
+
+**What we're looking for:**
+- ✅ New AI coding tools (especially open-source)
+- ✅ Vibe coding tutorials and guides
+- ✅ Real-world case studies and showcases
+- ✅ Community resources and best practices
+
+**Quick contribution:** [Edit README.md](https://github.com/taskade/awesome-vibe-coding/edit/main/README.md) directly!
 
 ### Adding a Tool
 
 When adding a new tool, include:
 - **Pricing** — Free tier, paid, or open source
 - **Best For** — Who benefits most
-- **Why It's Awesome** — What makes it stand out
+- **Why It's Awesome** — What makes it stand out (not marketing fluff)
+
+### Contributors
+
+This awesome list is maintained by [Taskade](https://www.taskade.com) with contributions from:
+
+<a href="https://github.com/taskade/awesome-vibe-coding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=taskade/awesome-vibe-coding" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ---
 
