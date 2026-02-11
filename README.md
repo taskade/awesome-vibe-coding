@@ -88,15 +88,17 @@ Generate code you can own, modify, and deploy anywhere.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
-| [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Alternatives →](https://www.taskade.com/blog/lovable-alternatives) |
-| [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Alternatives →](https://www.taskade.com/blog/replit-alternatives) |
+| [Bolt](https://bolt.new) | Free tier | Fast prototypes | WebContainers run a full dev environment in-browser. Incredibly fast. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-bolt-alternative) |
+| [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-lovable-alternative) |
+| [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-replit-alternative) |
+| [Capacity](https://capacity.so/) | Free tier | Internal tools | Prompt-to-app platform for operational tools and dashboards. |
+| [CHAI.new](https://chai.new) | Free tier | AI agents | Prompt, build, and deploy agentic apps in the browser. |
 | [Create](https://www.create.xyz/) | Waitlist | Rapid MVPs | AI-first app builder with clean UI generation. |
 | [Tempo](https://www.tempo.new/) | Free tier | React apps | Visual React editor with AI. Edit components visually or with prompts. |
 | [Softgen](https://softgen.ai/) | Free tier | Full-stack | AI generates entire full-stack apps. Firebase and Supabase integration. |
 | [Rork](https://rork.app/) | Free tier | Mobile apps | Build React Native apps with AI. Export to Expo. |
+| [Rocket.new](https://www.rocket.new/) | Free tier | Web + mobile | Prompt-driven builder for shipping apps across platforms. |
 | [Marblism](https://www.marblism.com/) | Paid | SaaS boilerplates | Full SaaS applications with auth and payments. |
-| [Lazy AI](https://www.getlazy.ai/) | Free tier | Backend-heavy apps | Focuses on business logic and API generation. |
 | [Creatr](https://www.creatr.app/) | Free tier | Landing pages | AI landing page builder with beautiful templates. |
 | [Google AI Studio](https://aistudio.google.com/) | Free tier | Gemini prototypes | Prototype with Gemini models. Export to code. |
 | [Napkins.dev](https://napkins.dev/) | Free tier | Screenshot-to-code | Turn screenshots and wireframes into working code. |
@@ -120,7 +122,7 @@ Complete development environments rebuilt for AI-first workflows.
 | [Zed](https://zed.dev/) | Free | Performance | Rust-based editor. Blazing fast with built-in AI and multiplayer. |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Subscription | Enterprise | AI assistant across all JetBrains IDEs. Deep language understanding. |
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
-| [Dyad](https://dyad.dev/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
+| [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
 
 ### Editor Extensions
 
@@ -157,6 +159,10 @@ Full-featured coding agents that work from the command line.
 | [Claude Code](https://github.com/anthropics/claude-code) | Usage-based | Professional dev | Anthropic's official CLI. Understands your codebase, executes tasks, handles git workflows. |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | Usage-based | GPT users | OpenAI's terminal coding agent. Natural language to code execution. |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Free tier | Google ecosystem | Google's open-source AI agent. Brings Gemini directly to your terminal. |
+| [OpenCode](https://github.com/sst/opencode) | Free | Terminal-first coding | Open-source coding agent built specifically for terminal workflows. |
+| [Crush](https://github.com/charmbracelet/crush) | Free | TUI workflows | Terminal-native AI coding agent with a polished TUI experience. |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | Free | Qwen users | Open-source coding CLI optimized for Qwen coder models. |
+| [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | Free tier | Long-context workflows | CLI coding assistant with strong context handling and agent flows. |
 | [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
 | [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
@@ -178,8 +184,8 @@ Tools for specific coding workflows.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
+| [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
-| [Mentat](https://github.com/AbanteAI/mentat) | Free | Code coordination | Coordinates AI coding across your project. Context-aware assistance. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
 
 ---
@@ -191,13 +197,13 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Agents that understand your workspace context and execute tasks 24/7. Multi-agent orchestration. |
-| [Devin](https://www.cognition.ai/devin) | Waitlist | Full autonomy | First "AI software engineer." Plans, codes, debugs, and deploys autonomously. |
+| [Devin](https://devin.ai/) | Waitlist | Full autonomy | First "AI software engineer." Plans, codes, debugs, and deploys autonomously. |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
-| [Mentat](https://www.mentat.ai/) | Free | Coordination | Coordinates coding across your project with AI. |
+| [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
 
 ---
 
@@ -208,9 +214,9 @@ Generate websites from descriptions, not wireframes.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [Taskade AI Websites](https://www.taskade.com/ai/websites) | Free tier | Functional sites | Websites with built-in AI, forms, and workspace integration. |
-| [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Compare →](https://www.taskade.com/blog/best-ai-website-generators) |
-| [Framer](https://www.framer.com/) | Free tier | Animations | Beautiful sites with complex interactions. AI layout suggestions. |
-| [Durable](https://durable.co/) | Paid | Small business | Generate a complete business website in 30 seconds. |
+| [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-webflow-alternative) |
+| [Framer](https://www.framer.com/) | Free tier | Animations | Beautiful sites with complex interactions. AI layout suggestions. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-framer-alternative) |
+| [Durable](https://durable.co/) | Paid | Small business | Generate a complete business website in 30 seconds. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-durable-alternative) |
 | [10Web](https://10web.io/) | Paid | WordPress | AI-generated WordPress sites with hosting included. |
 | [Hostinger AI](https://www.hostinger.com/ai-website-builder) | Paid | Beginners | Simple AI website builder with hosting bundled. |
 | [Wix ADI](https://www.wix.com/adi) | Free tier | Non-technical | Answer questions, get a website. Extremely beginner-friendly. |
@@ -226,6 +232,7 @@ Generate UI components, not entire applications.
 | [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Compare →](https://www.taskade.com/blog/best-ai-app-builders) |
 | [Claude Artifacts](https://claude.ai) | Free tier | Quick prototypes | Generate interactive React components in chat. |
 | [ChatGPT Canvas](https://chat.openai.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-4. |
+| [HeroUI Chat](https://www.heroui.chat/) | Free tier | UI generation | Generate app UIs and components from prompts with iterative refinement. |
 | [Galileo AI](https://www.usegalileo.ai/) | Waitlist | Design systems | Generate UI designs from text. Outputs to Figma. |
 | [Uizard](https://uizard.io/) | Free tier | Wireframes | Turn sketches into editable designs. |
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
@@ -276,6 +283,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 21k+ stars. Build MCP servers and clients in Python. |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 11k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
+| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Taskade's official MCP implementation, including server + OpenAPI codegen. |
 
 ### MCP Server Collections
 
@@ -368,7 +376,8 @@ Files and templates that help AI understand your codebase.
 
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
-| [AGENTS.md Guide](https://github.com/anthropics/claude-code/blob/main/AGENTS.md) | Template | Official guide for creating agent instruction files. Tell AI how to work with your repo. |
+| [AGENTS.md](https://agents.md/) | Template | Open format for guiding coding agents in your repository. |
+| [Claude Code Project Configuration](https://docs.anthropic.com/en/docs/claude-code/settings#project-configuration) | Docs | Configure repository-level guidance and behavior for Claude Code. |
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
@@ -550,7 +559,7 @@ Where to learn, share, and get help.
 | Community | Platform | Focus |
 |-----------|----------|-------|
 | [Hacker News](https://news.ycombinator.com/) | Web | Tech community. Front page for AI tool launches. |
-| [Vibehackers](https://vibehackers.com/) | Web | Community for vibe coding enthusiasts. |
+| [Vibehackers](https://vibehackers.io/) | Web | Community for vibe coding enthusiasts. |
 | [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
 
@@ -595,7 +604,7 @@ Where vibe coding news breaks first.
 |------|-------|------------------|
 | [Hacker News](https://news.ycombinator.com/) | Tech | Where AI tools launch. Front page = instant visibility. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Launches | Daily AI tool discoveries. Community voting surfaces the best. |
-| [AI News (Vibe Coding)](https://www.vibecodingnews.ai/) | Vibe Coding | Short weekly roundups of vibe coding tools and tips. |
+| [GitHub Topic: vibe-coding](https://github.com/topics/vibe-coding) | Open source | Track fresh launches and active open-source vibe coding projects. |
 | [HackerNoon](https://hackernoon.com/tagged/ai) | Tech Stories | Developer-written AI content. Deep dives and tutorials. |
 | [Dev.to AI](https://dev.to/t/ai) | Dev Community | Community tutorials and discussions on AI coding. |
 
@@ -621,7 +630,6 @@ Where vibe coding news breaks first.
 | [Fireship](https://www.youtube.com/@Fireship) | Dev tools | Fast, entertaining 100-second explainers. Best for quick tool overviews. |
 | [Theo](https://www.youtube.com/@t3dotgg) | Web dev | In-depth reviews of vibe coding tools. Honest takes on Cursor, Bolt, etc. |
 | [All About AI](https://www.youtube.com/@AllAboutAI) | Tutorials | Practical AI coding tutorials. Shows building 10,000 lines in hours. |
-| [Matt Wolfe](https://www.youtube.com/@maboroshi) | AI tools | Weekly AI tool roundups. Great for discovering new tools. |
 | [Sentdex](https://www.youtube.com/@sentdex) | ML/AI | Hands-on ML and AI tutorials. Code-heavy, end-to-end systems. |
 | [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) | Research | AI research explained in 2 minutes. Makes papers accessible. |
 | [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Education | Free full courses including AI and ML. Democratizing education. |
@@ -640,10 +648,10 @@ Browse and clone community-built apps powered by Workspace DNA. [Explore the Gal
 
 | Category | Description | Explore |
 |----------|-------------|---------|
-| Business Apps | CRMs, dashboards, project trackers | [Browse Business Apps →](https://www.taskade.com/templates/business) |
-| Productivity Tools | Task managers, note systems, workflows | [Browse Productivity →](https://www.taskade.com/templates/productivity) |
+| Business Apps | CRMs, dashboards, project trackers | [Browse Project Management →](https://www.taskade.com/templates/project-management) |
+| Productivity Tools | Task managers, note systems, workflows | [Browse Task Management →](https://www.taskade.com/templates/task-management) |
 | AI Agents | Custom agents for specific tasks | [Browse AI Agents →](https://www.taskade.com/ai/agents) |
-| Automations | Workflow templates with integrations | [Browse Automations →](https://www.taskade.com/templates/automation) |
+| Automations | Workflow templates with integrations | [Browse Marketing Automations →](https://www.taskade.com/templates/marketing) |
 
 **Featured tutorials:**
 - [Build a Finance Dashboard](https://www.taskade.com/blog/build-finance-dashboard-tutorial) — Real-time financial tracking
@@ -660,8 +668,8 @@ Notable projects built with vibe coding tools.
 | [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Various | Curated collection of AI agent use cases across industries |
 | [Awesome Agents](https://github.com/kyrolabs/awesome-agents) | Various | Community list of AI agent projects and implementations |
 | [Built with Replit](https://replit.com/community) | Replit | Community projects from the Replit platform |
-| [Made with Supabase](https://github.com/supabase-community/made-with-supabase) | Supabase | Apps built with Supabase (common vibe coding backend) |
-| [Awesome Claude](https://github.com/anthropics/anthropic-cookbook) | Claude | Official examples and recipes from Anthropic |
+| [Supabase Projects Topic](https://github.com/topics/supabase) | Supabase | Community projects and production apps built on Supabase. |
+| [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) | Claude | Official examples and recipes from Anthropic. |
 
 ### Building in Public
 
