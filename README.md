@@ -14,6 +14,12 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 ## 👋 New to Vibe Coding? Start Here
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  💭 Describe what you want  →  🤖 AI builds it  →  ✨ Ship  │
+└─────────────────────────────────────────────────────────────┘
+```
+
 **5-Minute Quick Start:**
 1. ✅ Read: [What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding)
 2. ✅ Try: [Build your first app](https://www.taskade.com/ai/apps) with Taskade Genesis
@@ -47,13 +53,17 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 ## 📊 Vibe Coding in 2026: By the Numbers
 
-- **85%** of developers use AI coding tools regularly
-- **41%** of all code is now AI-assisted
-- **$27B** global AI coding tools market size (2026)
-- **10x** faster development cycles reported by vibe coders
-- **245** tools and resources in this list
+```
+╔═══════════════════════════════════════════════════════════╗
+║  📈  85%  developers use AI coding tools regularly        ║
+║  🤖  41%  of all code is now AI-assisted                  ║
+║  💰  $27B global AI coding tools market size              ║
+║  ⚡  10x  faster development cycles with vibe coding      ║
+║  🎯  245  tools and resources in this list                ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026)*
+*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
 
 ---
 
@@ -127,6 +137,15 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 Tools that generate complete applications from natural language descriptions.
 
 ### 🎯 Quick Tool Selector
+
+```
+    Choose Your Path:
+    ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐
+    │  No-Code │  │   Code   │  │   IDE    │  │   CLI    │
+    └──────────┘  └──────────┘  └──────────┘  └──────────┘
+         ↓             ↓             ↓             ↓
+     Genesis        Bolt        Cursor      Claude Code
+```
 
 | If You Want... | Use This | Why |
 |----------------|----------|-----|
@@ -536,6 +555,19 @@ Maintain quality when AI generates your code.
 
 ## Practical Workflows
 
+```
+Traditional Development          Vibe Coding
+─────────────────────           ────────────
+Weeks of planning        →       5-min PRD
+Design in Figma         →       Describe UI
+Build backend           →       AI generates
+Write frontend          →       One prompt
+Test manually           →       AI suggests tests
+Deploy setup            →       Instant URL
+───────────────────────         ────────────
+Time: 2-4 weeks                 Time: 30 mins
+```
+
 ### From Idea to Deployed App
 
 | Phase | Taskade Genesis | Traditional Vibe Coding | Time |
@@ -676,6 +708,28 @@ High-signal Hacker News threads where practitioners share real-world vibe coding
 | [Train AI Agents with Your Knowledge](https://www.taskade.com/blog/how-to-train-ai-agents-with-your-knowledge) | Intermediate | Custom knowledge bases for agents. |
 | [AI Automation Guide](https://www.taskade.com/blog/task-automation-guide) | Beginner | Automate workflows with AI. |
 | [Create Your First App](https://help.taskade.com/en/articles/11957643) | Beginner | Step-by-step Taskade Genesis tutorial. |
+
+### YouTube & Video Tutorials
+
+Top-tier channels for learning vibe coding in 2026.
+
+| Channel/Creator | Focus | Why Watch |
+|-----------------|-------|-----------|
+| [Conner Ardman](https://www.youtube.com/@connerardman) | Tool comparisons | "Vibe Coding for 100 Hours" series. Deep dives comparing Lovable, Bolt, Cursor, Claude Code, V0. |
+| [The AI Advantage](https://www.youtube.com/@aiadvantage) | Practical workflows | Igor Pogany teaches real-world AI automations and productivity workflows. |
+| [AI Foundations](https://www.youtube.com/@aifoundations) | Beginner-friendly | Drake Surach simplifies AI for creators and entrepreneurs. |
+| [Fireship](https://www.youtube.com/@Fireship) | Quick overviews | Fast-paced 100-second explainers and JavaScript ecosystem coverage. |
+| [Theo - t3.gg](https://www.youtube.com/@t3dotgg) | Developer perspective | Honest reviews of AI coding tools from a TypeScript/React expert. |
+| [Builder.io](https://www.youtube.com/@builderio) | AI + design | Visual development and AI-powered design-to-code workflows. |
+| [Taskade](https://www.youtube.com/@taskade) | Workspace DNA | Official tutorials for Taskade Genesis, AI Agents, and Automations. |
+
+**Tool-Specific Tutorials:**
+- [Cursor AI Tutorial 2026](https://cursor101.com/) — Cursor 101: Complete beginner-to-advanced guide
+- [Claude Code in 15 Minutes](https://creatoreconomy.so/p/claude-code-beginners-tutorial-build-a-movie-app-in-15-minutes) — Build a movie app from scratch
+- [Bolt.new Complete Guide](https://www.udemy.com/course/cursor-ai-ide/) — Udemy course on full-stack vibe coding
+
+**Free Courses:**
+- [Learn Vibe Coding with AI Tools](https://www.mygreatlearning.com/academy/learn-for-free/courses/learn-vibe-coding-with-ai-tools) — Great Learning's free comprehensive course
 
 ### Books
 
@@ -936,6 +990,23 @@ The most advanced vibe coding creates **living software** powered by **Workspace
 This isn't a temporary trend. It's how software will be built.
 
 **[Start vibe coding →](https://www.taskade.com/ai/apps)**
+
+---
+
+## 📢 Distribution & Promotion
+
+Want to share this list with your community? Check out the **[Distribution Guide](DISTRIBUTION.md)** for:
+
+- Platform-specific strategies (Hacker News, Reddit, Product Hunt, Twitter, Dev.to)
+- Optimal posting times and title formats
+- Coordinated launch plans
+- Copy-paste ready titles for each platform
+- Success metrics and tracking
+
+**Quick Links:**
+- Submit to [Hacker News](https://news.ycombinator.com/submit) (Best: Wed 8 AM EST)
+- Share on Reddit: [r/programming](https://reddit.com/r/programming), [r/vibecoding](https://reddit.com/r/vibecoding), [r/ChatGPTCoding](https://reddit.com/r/ChatGPTCoding)
+- Launch on [Product Hunt](https://www.producthunt.com/posts/awesome-vibe-coding) (Mon-Wed 12:01 AM PST)
 
 ---
 
