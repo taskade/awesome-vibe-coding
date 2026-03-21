@@ -45,8 +45,9 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 | Date | What's New |
 |------|------------|
+| **2026-03-21** | Taskade Genesis deep dive (Loop, 3×3, use cases, "Others vs Genesis"), 12 new glossary terms, bolt.diy, Plandex, Same.new, HeyBoss, aichat, llms.txt |
 | **2026-03-21** | Emergent, Base44, Figma Make, Context7, Cloudflare VibeSDK, CodeWords, Trending MCP Servers, Context Engineering, Business Playbook, 15+ new backlinks |
-| **2026-03-20** | Workspace DNA messaging refresh, Genesis Community Gallery (12 apps), Genesis tutorials playlist, FastMCP, Claude Agent SDK, Mastra, Gumloop, Browser Agents section, MCP Design Principles, Harness Engineering practices |
+| **2026-03-20** | Workspace DNA messaging refresh, Taskade Genesis Community Gallery (12 apps), Taskade Genesis tutorials playlist, FastMCP, Claude Agent SDK, Mastra, Gumloop, Browser Agents section, MCP Design Principles, Harness Engineering practices |
 | **2026-03-20** | Gemini Code Assist, Jules, GitHub Copilot Workspace, Qodo, PearAI, Void |
 | **2026-02-11** | Trae (ByteDance IDE), Qoder (Alibaba), SuperDesign, Komposo, Banani |
 | **2026-02-11** | Vibe Coding Philosophies section, Taskade Genesis Case Studies |
@@ -64,7 +65,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ║  💰  $2B  Cursor ARR — AI-native tools are here to stay   ║
 ║  ⚡  10x  faster development cycles with vibe coding      ║
 ║  🏆  MIT Technology Review: 2026 Breakthrough Technology  ║
-║  🎯  275+ tools and resources in this list                ║
+║  🎯  285+ tools and resources in this list                ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -140,7 +141,72 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 - [5 Genesis Apps in 10 Minutes](https://www.taskade.com/blog/5-genesis-apps-10-minutes) — Rapid development showcase
 - [Anatomy of a Genesis App](https://www.taskade.com/blog/anatomy-of-genesis-app) — Deep dive into app structure
 
-### Genesis Capabilities at a Glance
+### Not Features. Organs.
+
+> *Projects are not documents. Agents are not chatbots. Automations are not triggers.*
+>
+> *Most tools give you features. Taskade Genesis gives you a system that remembers, reasons, and moves on its own.*
+
+### The Taskade Genesis Loop
+
+Every Taskade Genesis app runs a self-reinforcing cycle:
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    THE TASKADE GENESIS LOOP                        │
+│                                                                     │
+│         🧠 MEMORY                                                   │
+│        ╱         ╲                                                  │
+│       ╱   feeds   ╲                                                 │
+│      ╱             ╲                                                │
+│  ⚡ EXECUTION ←── 🤖 INTELLIGENCE                                   │
+│      ╲             ╱                                                │
+│       ╲  creates  ╱                                                 │
+│        ╲         ╱                                                  │
+│         🧠 MEMORY  ← loop continues                                │
+│                                                                     │
+│  Memory feeds Intelligence → Intelligence triggers Execution →     │
+│  Execution writes back to Memory → system gets smarter over time   │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### What One Prompt Builds
+
+Example: *"Build a customer feedback portal with AI scoring"*
+
+| Step | Layer | What Happens |
+|------|-------|-------------|
+| 1 | 🧠 Memory | Creates **Feedback Inbox**, **Sentiment Log**, and **Response Templates** as smart databases |
+| 2 | 🤖 Intelligence | Deploys a **Scoring Agent** — reads every submission, classifies sentiment, assigns priority |
+| 3 | ⚡ Execution | Fires **Slack alert** on negative feedback, **auto-categorizes** by topic, sends **follow-up email** |
+| 4 | 🔄 Loop | Agent results write back to Memory → system learns patterns → responses improve over time |
+
+**More examples:**
+
+| Use Case | Build Time | What You Get |
+|----------|-----------|--------------|
+| Restaurant feedback system | ~3 min | Collect reviews, Slack alerts for ratings below 4 stars, auto-respond |
+| Yoga studio booking | ~5 min | Calendar sync, payments, automatic class confirmations |
+| Freelancer CRM | ~5 min | Pipeline tracking, follow-up emails, deal stage automations |
+| Inventory tracker | ~7 min | Stock levels, auto-email suppliers when products run low |
+| [Business-in-a-Box](https://www.taskade.com/blog/business-in-a-box-genesis) | ~15 min | CRM + Finance + Support + Content + Client Portal — all connected |
+
+### A Page, or a Living System?
+
+What ships when you press deploy? [Learn more →](https://www.taskade.com/blog/ai-app-builder-vs-website-builder-vs-agent-builder)
+
+| Dimension | Other Builders | Taskade Genesis |
+|-----------|---------------|-----------------|
+| **Creation** | Prototype UI, needs wiring | One prompt → live app |
+| **Backend** | Empty — BYO database | Workspace *is* the backend |
+| **Memory** | Ephemeral sessions | Persistent shared context across every layer |
+| **Intelligence** | Chatbot bolted on | Embedded agents that read Memory, reason, and act |
+| **Automation** | Webhooks, scripts, glue code | Native event-driven workflows with 100+ integrations |
+| **Lifecycle** | Generate, then export and maintain | Generate, run, publish — one loop. Apps evolve with your data. |
+
+> **Published Taskade Genesis apps consume zero credits.** Build once, run forever.
+
+### Taskade Genesis Capabilities at a Glance
 
 ```
 ┌─────────────────┬─────────────────────┬─────────────────────────────┐
@@ -172,7 +238,8 @@ Tools that generate complete applications from natural language descriptions.
     │  No-Code │  │   Code   │  │   IDE    │  │   CLI    │
     └──────────┘  └──────────┘  └──────────┘  └──────────┘
          ↓             ↓             ↓             ↓
-     Genesis        Bolt        Cursor      Claude Code
+   Taskade       Bolt        Cursor      Claude Code
+   Genesis
 ```
 
 | If You Want... | Use This | Why |
@@ -236,6 +303,8 @@ Generate code you can own, modify, and deploy anywhere.
 | [Creatr](https://www.creatr.app/) | Free tier | Landing pages | AI landing page builder with beautiful templates. |
 | [Google AI Studio](https://aistudio.google.com/) | Free tier | Gemini prototypes | Prototype with Gemini models. Export to code. |
 | [Napkins.dev](https://napkins.dev/) | Free tier | Screenshot-to-code | Turn screenshots and wireframes into working code. |
+| [Same.new](https://same.new) | Free tier | Website cloning | Clone any website and customize it with AI. Instant starting points. |
+| [HeyBoss](https://heyboss.ai) | Free tier | Full AI team | AI team (CEO, Designer, Developer) builds your app collaboratively. |
 
 ---
 
@@ -307,6 +376,7 @@ Full-featured coding agents that work from the command line.
 | 🔥 [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
 | [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
+| [aichat](https://github.com/sigoden/aichat) | Free | Multi-provider CLI | All-in-one LLM CLI supporting 20+ providers. Shell integration, RAG, and function calling. |
 
 ### AI-Enhanced Terminals
 
@@ -517,6 +587,8 @@ Self-host and customize your vibe coding stack.
 | [Ollama](https://ollama.ai/) | Go | Local models | Run LLMs locally. Essential for private vibe coding. |
 | [PearAI](https://github.com/trypear/pearai-app) | TypeScript | Open-source IDE | Community-driven AI code editor forked from VS Code. |
 | [Void](https://github.com/voideditor/void) | TypeScript | Privacy-first IDE | Open-source Cursor alternative with zero telemetry. |
+| [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | TypeScript | Self-hosted Bolt | Open-source fork of Bolt.new. Run locally with any LLM provider. Community-driven. |
+| [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Beautiful interface for running local models. |
 
@@ -579,6 +651,7 @@ Files and templates that help AI understand your codebase.
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
+| [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 
 ### Prompt Templates
 
@@ -727,11 +800,11 @@ Based on [real commercial projects](https://www.softr.io/blog/vibe-coding-best-p
 
 How builders are monetizing vibe-coded apps in 2026.
 
-| Revenue Model | How It Works | Genesis Fit |
+| Revenue Model | How It Works | Taskade Genesis Fit |
 |---------------|-------------|-------------|
 | **Micro-SaaS** | Build niche tools (invoice generators, booking systems) and charge monthly | One prompt = deployed SaaS with Stripe payments built in |
 | **Agency / Freelance** | Build client apps 10x faster, charge the same | Clone community apps, customize per client, deploy on custom domains |
-| **Templates & App Kits** | Sell pre-built app templates on marketplaces | Publish to Genesis Gallery, earn from clones and customization |
+| **Templates & App Kits** | Sell pre-built app templates on marketplaces | Publish to Taskade Genesis Gallery, earn from clones and customization |
 | **Internal Tools** | Replace expensive enterprise software with custom-built alternatives | Workspace DNA means apps connect to existing data instantly |
 | **AI Agent Services** | Deploy trained agents as standalone products | Train on client data, share with password protection, embed anywhere |
 
@@ -999,7 +1072,7 @@ Where vibe coding news breaks first.
 | [The Changelog](https://changelog.com/podcast) | Open Source | Open-source software and the people who make it. AI tool deep dives. |
 | [Software Engineering Daily](https://softwareengineeringdaily.com/) | Engineering | Technical interviews covering AI infrastructure and tools. |
 
-### Genesis Video Tutorials
+### Taskade Genesis Video Tutorials
 
 | Resource | Videos | What You'll Learn |
 |----------|--------|-------------------|
@@ -1108,7 +1181,19 @@ Key terms in the vibe coding ecosystem.
 | **Living Systems** | Applications that evolve with your data, learn from patterns, and act autonomously — Memory, Intelligence, and Execution wired as one organism. |
 | **Workspace DNA** | Architecture where your workspace (projects, databases, automations) becomes the backend for AI-generated apps. [Learn more →](https://www.taskade.com/blog/how-workspace-dna-works) |
 | **Prompt-to-App** | The workflow of generating a complete application from a single natural language prompt. |
+| **Prompt-to-System** | The next evolution beyond prompt-to-app: one prompt creates a complete system with backend, agents, and workflows — not just a UI. Pioneered by [Taskade Genesis](https://www.taskade.com/ai/apps). |
 | **AI Agents** | Autonomous AI systems that can understand context, make decisions, and execute tasks without human intervention. [Learn more →](https://www.taskade.com/blog/what-are-ai-agents) |
+
+### Taskade Genesis Terms
+
+| Term | Definition |
+|------|------------|
+| **Taskade Genesis** | Taskade's AI app builder that creates living systems from natural language. One prompt generates a complete app with Memory, Intelligence, and Execution layers pre-wired. [Try it →](https://www.taskade.com/ai/apps) |
+| **The Taskade Genesis Loop** | The self-reinforcing cycle at the heart of every Taskade Genesis app: Memory feeds Intelligence → Intelligence triggers Execution → Execution writes back to Memory → system gets smarter over time. |
+| **Not Features. Organs.** | The Taskade Genesis design philosophy: projects are not documents (they're Memory), agents are not chatbots (they're Intelligence), automations are not triggers (they're Execution). Each is an organ in a living system. |
+| **Business-in-a-Box** | A complete business system built from a single Taskade Genesis prompt: CRM + Finance + Support + Content + Client Portal, all interconnected through Workspace DNA. [Learn more →](https://www.taskade.com/blog/business-in-a-box-genesis) |
+| **EVE** | Taskade's unified AI assistant that orchestrates agents, workflows, and memory across your entire workspace. Available in every Taskade Genesis app, chat, and automation. |
+| **Clone and Customize** | The Taskade Genesis workflow: browse community apps, clone any app with one click, customize it for your use case. Every cloned app inherits the original's Workspace DNA. [Browse apps →](https://www.taskade.com/community) |
 
 ### Development Terms
 
@@ -1119,6 +1204,8 @@ Key terms in the vibe coding ecosystem.
 | **Code Generation** | AI producing actual source code that developers can modify and deploy. |
 | **Context Window** | The amount of text (measured in tokens) an AI can consider at once. Larger = better codebase understanding. |
 | **Human-in-the-Loop** | AI workflow where humans approve or modify AI actions before execution. Common in Cline, Roo Code. |
+| **Context Engineering** | The discipline of designing the information architecture around AI agents — steering files, progressive disclosure, and context budgeting. The 2026 evolution beyond prompt engineering. |
+| **Harness Engineering** | Designing the scaffolding (tools, verification, memory) around AI models. The harness, not the model, is the 2026 bottleneck. |
 
 ### Architecture Terms
 
@@ -1140,6 +1227,9 @@ Key terms in the vibe coding ecosystem.
 | **Spec-Driven Development** | Writing specifications that AI uses to generate and maintain code. Used by Amazon Kiro. |
 | **Steering Files** | Configuration files (like .cursorrules or AGENTS.md) that guide AI behavior in a project. |
 | **Workspace Backend** | Using a collaborative workspace as the database and API layer for applications. |
+| **The Middle Loop** | The new category of engineering work between writing code (inner loop) and shipping to users (outer loop): delegating to agents, evaluating output, and maintaining coherence. |
+| **Token Trap** | Pricing model where AI tools charge per token/credit, making costs unpredictable. Contrast with flat-rate pricing where published apps consume zero credits. |
+| **llms.txt** | An emerging standard for making websites AI-friendly by providing structured context at a known URL path. [Spec →](https://llmstxt.org/) |
 
 ---
 
