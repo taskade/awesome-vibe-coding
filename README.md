@@ -228,9 +228,9 @@ Complete development environments rebuilt for AI-first workflows.
 | [Zed](https://zed.dev/) | Free | Performance | Rust-based editor. Blazing fast with built-in AI and multiplayer. |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Subscription | Enterprise | AI assistant across all JetBrains IDEs. Deep language understanding. |
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
-| [PearAI](https://trypear.ai/) | Free | Open-source IDE | Open-source AI code editor built on VS Code. Community-driven with integrated chat and inline editing. |
-| [Void](https://voideditor.com/) | Free | Privacy-first IDE | Open-source Cursor alternative. Use any AI model with full local control and zero telemetry. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
+| [PearAI](https://trypear.ai/) | Free | Open-source IDE | Open-source AI code editor built on VS Code. Community-driven with integrated chat and inline editing. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
+| [Void](https://voideditor.com/) | Free | Privacy-first IDE | Open-source Cursor alternative. Use any AI model with full local control and zero telemetry. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
 
 ### Editor Extensions
 
@@ -250,10 +250,10 @@ Add AI superpowers to your existing editor.
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Free tier | Large codebases | Best-in-class codebase understanding. Enterprise-ready. |
 | [Continue](https://continue.dev/) | Free | Open source | Open-source autopilot. Use any model, any IDE. |
 | [Augment Code](https://www.augmentcode.com/) | Free tier | Enterprise | Context-aware AI that understands your entire codebase and dependencies. |
-| [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
-| [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. |
-| [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. |
 | [avante.nvim](https://github.com/yetone/avante.nvim) | Free | Neovim users | Cursor-like AI features for Neovim. Diff-based editing in your terminal. |
+| [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
+| [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
+| [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. [Alternatives →](https://www.taskade.com/blog/best-vibe-coding-tools) |
 
 ---
 
@@ -314,8 +314,8 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
-| [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. |
-| [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. |
+| [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
+| [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
 
 ---
