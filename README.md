@@ -27,7 +27,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 4. ✅ Join: [Vibe coding communities](#communities)
 
 **By Experience Level:**
-- **Beginner**: Start with [Taskade Genesis](#workspace-dna-the-living-software-architecture) or [Bolt](#code-generating)
+- **Beginner**: Start with [Taskade Genesis](#workspace-dna-the-living-systems-architecture) or [Bolt](#code-generating)
 - **Intermediate**: Try [Cursor](#full-ides) or [Claude Code](#ai-coding-clis)
 - **Advanced**: Build with [Multi-Agent Systems](#ai-frameworks--sdks)
 
@@ -36,6 +36,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - 💻 [Code faster in my IDE](#ai-code-editors) → Cursor, Windsurf
 - 🤖 [Create autonomous agents](#ai-agents--autonomous-coding) → Taskade AI Agents
 - 🌐 [Generate a website](#ai-website-builders) → Taskade AI Websites
+- 🏗️ [See what others built](#taskade-genesis-gallery) → Community Gallery
 - 📚 [Learn vibe coding](#learning-resources) → Tutorials & Guides
 
 ---
@@ -44,6 +45,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 | Date | What's New |
 |------|------------|
+| **2026-03-20** | Workspace DNA messaging refresh, Genesis Community Gallery (12 apps), Genesis tutorials playlist, FastMCP, Claude Agent SDK, Mastra, Gumloop, Browser Agents section, MCP Design Principles, Harness Engineering practices |
 | **2026-03-20** | Gemini Code Assist, Jules, GitHub Copilot Workspace, Qodo, PearAI, Void |
 | **2026-02-11** | Trae (ByteDance IDE), Qoder (Alibaba), SuperDesign, Komposo, Banani |
 | **2026-02-11** | Vibe Coding Philosophies section, Taskade Genesis Case Studies |
@@ -58,13 +60,14 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ╔═══════════════════════════════════════════════════════════╗
 ║  📈  85%  developers use AI coding tools regularly        ║
 ║  🤖  41%  of all code is now AI-assisted                  ║
-║  💰  $27B global AI coding tools market size              ║
+║  💰  $2B  Cursor ARR — AI-native tools are here to stay   ║
 ║  ⚡  10x  faster development cycles with vibe coding      ║
-║  🎯  251  tools and resources in this list                ║
+║  🏆  MIT Technology Review: 2026 Breakthrough Technology  ║
+║  🎯  260+ tools and resources in this list                ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
+*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/01/06/1109188/vibe-coding/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
 
 ---
 
@@ -72,10 +75,11 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 - [🆕 Recently Added](#-recently-added)
 - [📊 Vibe Coding in 2026: By the Numbers](#-vibe-coding-in-2026-by-the-numbers)
-- [Workspace DNA: The Living Software Architecture](#workspace-dna-the-living-software-architecture)
+- [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
 - [AI App Builders](#ai-app-builders)
 - [AI Code Editors](#ai-code-editors)
 - [CLI & Terminal Tools](#cli--terminal-tools)
+- [AI Browser Agents](#ai-browser-agents)
 - [AI Agents & Autonomous Coding](#ai-agents--autonomous-coding)
 - [AI Website Builders](#ai-website-builders)
 - [AI Component & UI Generators](#ai-component--ui-generators)
@@ -98,26 +102,28 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 ---
 
-## Workspace DNA: The Living Software Architecture
+## Workspace DNA: The Living Systems Architecture
 
-The most powerful vibe coding tools don't just generate code — they create **living software** that evolves with your data. This architecture, pioneered by [Taskade Genesis](https://www.taskade.com/ai/apps), has three pillars:
+The most powerful vibe coding tools don't just generate code — they create **living systems** that evolve with your data. This architecture, pioneered by [Taskade Genesis](https://www.taskade.com/ai/apps), treats your workspace as a living organism — not features, but organs:
 
-### The Three Pillars
+### The Three Layers
 
-| Pillar | What It Does | Why It Matters |
-|--------|--------------|----------------|
-| **🧠 Memory (Projects & Databases)** | Your workspace stores all data — tasks, docs, files, knowledge | No external database needed. Your app inherits your existing data. |
-| **🤖 Intelligence (AI Agents)** | Autonomous agents that understand context and execute work | Apps don't just display data — they act on it 24/7. |
-| **⚡ Execution (Automations)** | Triggers, workflows, and 100+ integrations | Work happens automatically without manual intervention. |
+| Layer | What It Does | Why It Matters |
+|-------|--------------|----------------|
+| **🧠 Memory (Projects & Databases)** | Persistent memory substrates — tasks, docs, files, knowledge | Not just storage. Your app's living foundation that every agent and workflow reads from. |
+| **🤖 Intelligence (AI Agents)** | Minds that read your Memory, reason with context, and act with purpose | Not chatbots. Agents that understand your workspace DNA and execute autonomously 24/7. |
+| **⚡ Execution (Automations & Workflows)** | Autonomous nervous system — triggers, workflows, 100+ integrations | Not simple triggers. Workflows that fire on agent decisions and write back to Memory. |
 
 ### Why This Matters for Vibe Coding
 
-Traditional vibe coding tools generate **code** you must deploy and maintain. Workspace DNA creates **living apps** that:
+Traditional vibe coding tools generate **code** you must deploy and maintain. Workspace DNA creates **living systems** where Memory, Intelligence, and Execution are already wired together:
 
-- **Already have a backend** — Your workspace is the database
-- **Already have intelligence** — AI agents handle logic
-- **Already have integrations** — Automations connect everything
-- **Already have collaboration** — Real-time editing, chat, and video
+- **Memory is the backend** — Your workspace is the database. No schemas to design.
+- **Intelligence is built in** — AI agents reason with your data, not just display it.
+- **Execution runs autonomously** — Workflows fire on agent decisions and write back to Memory.
+- **Collaboration is native** — Real-time editing, chat, and video across every layer.
+
+> *"One prompt. Memory, intelligence, and execution — already wired, already running."*
 
 **Learn more:**
 - [How Workspace DNA Works](https://www.taskade.com/blog/how-workspace-dna-works) — The architecture explained
@@ -130,6 +136,24 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 - [Genesis Workspace Intelligence](https://www.taskade.com/blog/genesis-workspace-intelligence) — How apps learn from your data
 - [5 Genesis Apps in 10 Minutes](https://www.taskade.com/blog/5-genesis-apps-10-minutes) — Rapid development showcase
 - [Anatomy of a Genesis App](https://www.taskade.com/blog/anatomy-of-genesis-app) — Deep dive into app structure
+
+### Genesis Capabilities at a Glance
+
+```
+┌─────────────────┬─────────────────────┬─────────────────────────────┐
+│  🧠 MEMORY      │  🤖 INTELLIGENCE    │  ⚡ EXECUTION               │
+│                 │                     │                             │
+│  Smart databases│  Multi-model agents │  50+ trigger types          │
+│  Media library  │  (Claude/GPT/Gemini)│  100+ actions               │
+│  File uploads   │  AI Teams           │  Stripe payments            │
+│  CSV/Excel      │  Continuous learning│  Slack, Gmail, HubSpot      │
+│  Version history│  MCP v2 connectors  │  Scheduled workflows        │
+│  Knowledge base │  Custom commands    │  Conditional logic          │
+├─────────────────┴─────────────────────┴─────────────────────────────┤
+│  📱 Mobile building  · 🌐 Custom domains  · 📊 Built-in analytics  │
+│  🖼️ AI image gen     · 🔒 Password protect · 🔄 Clone any app       │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -155,7 +179,7 @@ Tools that generate complete applications from natural language descriptions.
 | **IDE integration** | Cursor, Windsurf | Codebase-aware refactoring in VS Code fork |
 | **Terminal-first workflow** | Claude Code, Aider | Git integration, CLI power users |
 | **Team collaboration** | Taskade Genesis, Firebase Studio | Real-time editing + AI agents |
-| **Mobile apps** | Glide, Adalo, Rork | Spreadsheet-to-app or React Native |
+| **Mobile apps** | Taskade Genesis, Glide, Rork | Genesis builds mobile-responsive apps. Glide/Rork for native mobile. |
 | **Website in 30 seconds** | Taskade AI Websites, Durable | No-code website generation |
 
 ---
@@ -166,7 +190,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| 🔥 [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** Your workspace becomes the backend — smart databases, AI agents, automations, and 100+ integrations. One prompt = one live app with its own URL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
+| 🔥 [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** One prompt = one living system with Memory (databases), Intelligence (AI agents), and Execution (workflows). 100+ integrations including Stripe payments. Build on mobile. Clone any community app. Custom domains with SSL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
 | [Glide](https://www.glideapps.com/) | Free tier | Mobile apps | Turn spreadsheets into polished mobile apps. Great for internal tools. |
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
@@ -180,11 +204,11 @@ Generate code you can own, modify, and deploy anywhere.
 
 | Feature | Code Generators (Bolt, Lovable, etc.) | Taskade Genesis |
 |---------|---------------------------------------|-----------------|
-| **Output** | Static code files you must deploy | Living apps, instantly deployed |
-| **Backend** | You build and manage databases | Workspace *is* the database |
-| **Updates** | Manual redeployment | Apps evolve as workspace changes |
-| **AI Integration** | You add AI features manually | AI agents built-in, 24/7 execution |
-| **Workflow Automation** | You integrate tools separately | 100+ integrations ready to use |
+| **Output** | Static code files you must deploy | Living systems, instantly deployed |
+| **Memory** | You build and manage databases | Workspace *is* the database — persistent memory layer |
+| **Intelligence** | You add AI features manually | AI agents built-in — read Memory, reason, act 24/7 |
+| **Execution** | You integrate tools separately | 100+ integrations — workflows fire on agent decisions |
+| **Lifecycle** | Manual redeployment | Apps evolve as workspace changes — one living system |
 | **Collaboration** | External tools needed | Real-time editing, chat, video built-in |
 | **Best For** | Developers who want code control | Teams who want working apps now |
 
@@ -301,13 +325,30 @@ Tools for specific coding workflows.
 
 ---
 
+## AI Browser Agents
+
+AI that automates your browser — recording workflows, triaging inboxes, filling forms, and synthesizing data across tabs.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [browser-use](https://github.com/browser-use/browser-use) | Free | Open source | Open-source browser automation for AI agents. Python-based, works with any LLM. |
+| [Bardeen](https://www.bardeen.ai/) | Free tier | No-code | AI automates repetitive browser tasks with a visual builder. Integrates with 100+ web apps. |
+| [Skyvern](https://github.com/Skyvern-AI/skyvern) | Free | Enterprise | AI agent for browser workflows. Visual + LLM navigation for complex web tasks. |
+| [Multion](https://www.multion.ai/) | Waitlist | Personal assistant | AI that browses the web for you. Books flights, fills forms, does research. |
+
+> **Use cases:** Email triage, customer service follow-ups, competitive research, data entry, scheduled web scraping, cross-tab analysis, and QA testing.
+>
+> **Tip:** Browser agents interact with live web pages. Use trusted sites only and review agent actions before granting access to sensitive accounts.
+
+---
+
 ## AI Agents & Autonomous Coding
 
 AI that doesn't just assist — it works independently on complex tasks. [Creating AI Agents for Coding →](https://www.taskade.com/blog/creating-ai-agents-for-coding) · [AI Agent Builders →](https://www.taskade.com/blog/ai-agent-builders)
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| 🔥 [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Train agents on your files, projects, and web content. Custom tools, skills, and commands. Run 24/7 with multi-agent orchestration. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
+| 🔥 [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Persistent agents that learn continuously from your workspace DNA. Choose from Claude, GPT, or Gemini models. Create AI Teams for multi-agent collaboration. 100+ MCP connectors for tool use. Custom commands, skills, and sharing with password protection. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
 | [Devin](https://devin.ai/) | Waitlist | Full autonomy | First "AI software engineer." Plans, codes, debugs, and deploys autonomously. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
@@ -326,7 +367,7 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Taskade AI Websites](https://www.taskade.com/ai/websites) | Free tier | Functional sites | Websites with built-in AI assistant, forms, and workspace integration. Every app gets its own URL — no deployment needed. |
+| [Taskade AI Websites](https://www.taskade.com/ai/websites) | Free tier | Functional sites | Websites with built-in AI assistant (EVE), forms, and full workspace integration. Every app gets its own URL with custom domain and SSL. Embed AI agents trained on your data. Mobile-responsive by default. |
 | [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-webflow) |
 | [Framer](https://www.framer.com/) | Free tier | Animations | Beautiful sites with complex interactions. AI layout suggestions. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-framer-alternative) |
 | [Durable](https://durable.co/) | Paid | Small business | Generate a complete business website in 30 seconds. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-durable-alternative) |
@@ -376,12 +417,12 @@ Connect apps and automate workflows with AI. [Advanced automation workflows →]
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| [Taskade Automations](https://www.taskade.com/ai/automations) | Free tier | Workspace workflows | Event-driven triggers, 100+ integrations, and AI agents that orchestrate complex workflows. Automations are the execution layer of Workspace DNA. [Learn more →](https://www.taskade.com/blog/autonomous-agent-actions-generate-automations) |
+| [Taskade Automations](https://www.taskade.com/ai/automations) | Free tier | Workspace workflows | 50+ trigger types (Slack, Gmail, GitHub, Calendly, Stripe, HubSpot, RSS, Discord). 100+ actions including AI-powered steps (Ask Agent, Run Agent Command). Multi-step workflows with conditional logic, scheduling, and variables. [Learn more →](https://www.taskade.com/blog/autonomous-agent-actions-generate-automations) |
 | [Zapier AI](https://zapier.com/) | Free tier | App connections | Natural language automation. 6,000+ integrations. |
 | [Make (Integromat)](https://www.make.com/) | Free tier | Complex flows | Visual automation with AI scenario builder. |
 | [n8n](https://n8n.io/) | Free | Self-hosted | Open-source automation with AI nodes. |
 | [Lindy](https://www.lindy.ai/) | Paid | AI employees | Create AI agents for entire job functions. |
-| [Bardeen](https://www.bardeen.ai/) | Free tier | Browser automation | AI automates repetitive browser tasks. |
+| [Gumloop](https://www.gumloop.com/) | Free tier | Visual workflows | AI-powered workflow automation. 4M+ workflows processed daily. Visual builder for non-technical users. |
 | [Activepieces](https://www.activepieces.com/) | Free | Open source | Open-source Zapier alternative with AI. |
 
 ---
@@ -399,6 +440,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 11k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
 | [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Taskade's official open-source MCP server. Connect AI coding agents to your Taskade workspace, projects, and agents. |
+| [FastMCP](https://github.com/PrefectHQ/fastmcp) | Framework | The fastest way to build MCP servers. Pythonic API that makes agent-friendly tools easy. From the creator of Prefect. |
 
 ### MCP Server Collections
 
@@ -410,6 +452,20 @@ Curated collections of ready-to-use MCP servers.
 | [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | High | Community-curated list of MCP servers for every use case. |
 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Growing | Official registry service. Like an app store for MCP servers. |
 | [Microsoft MCP Servers](https://github.com/microsoft/mcp) | Growing | Official Microsoft/Azure MCP integrations. |
+
+### MCP Design Principles
+
+Best practices for building MCP servers that agents can actually use. Based on [Jeremiah Lowin's](https://github.com/PrefectHQ/fastmcp) research and practitioner experience.
+
+| Principle | What To Do | Why It Matters |
+|-----------|-----------|----------------|
+| **Design for outcomes** | Name tools by what they achieve (`get_customer_status`), not HTTP operations (`post_api_v2_customers`) | Agents think in goals, not API specs. Outcome-oriented tools get selected more reliably. |
+| **Flatten arguments** | Use simple, flat parameters instead of nested JSON schemas | Nested objects confuse agents. Flat args = fewer hallucinated parameters. |
+| **Keep tool count under 50** | Curate ruthlessly. Remove tools agents never select. | Performance degrades sharply above ~50 tools. Less is more for agent accuracy. |
+| **Errors are prompts** | Return helpful error messages that guide the agent to self-correct | `"Missing required field: customer_id (use list_customers to find it)"` > `"400 Bad Request"` |
+| **Don't auto-convert OpenAPI** | Hand-design agent-facing tools instead of auto-generating from REST specs | Auto-generated servers inherit REST assumptions that confuse agents. |
+
+> **Anti-patterns to avoid:** Kitchen-sink servers with 200+ tools, nested JSON schemas, generic CRUD wrappers, and treating MCP as "REST with extra steps." Start with [FastMCP](https://github.com/PrefectHQ/fastmcp) to build MCP servers the right way.
 
 ### Agent Memory & Context
 
@@ -459,6 +515,8 @@ Build custom AI agents and multi-agent systems. [Open source AI agents →](http
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Python | 10k+ | Type-safe AI agent framework from the Pydantic team. Production-ready. |
 | [AutoGen](https://github.com/microsoft/autogen) | Python | 40k+ | Microsoft's multi-agent framework. Agents that chat with each other. |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C#/Python | 25k+ | Microsoft's SDK for integrating AI into existing applications. |
+| [Claude Agent SDK](https://github.com/anthropics/claude-code) | Python/TS | Growing | Anthropic's official SDK for building custom AI agents. Progressive context disclosure and skills system. |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript | 10k+ | Open-source AI agent framework. Workflows, RAG, integrations, and evals in TypeScript. |
 
 ### AI SDKs & Libraries
 
@@ -560,6 +618,30 @@ Maintain quality when AI generates your code.
 | **Lock Dependencies** | Specify exact versions in your steering files. AI may suggest outdated or incompatible package versions. | Practitioner consensus |
 | **Run Tests Before & After** | Always run your test suite before and after AI modifications. Catch regressions immediately. | Practitioner consensus |
 
+### Harness Engineering
+
+The 2026 meta-skill: designing the scaffolding around AI models for maximum agent effectiveness.
+
+| Principle | What It Means | Source |
+|-----------|--------------|--------|
+| **Fewer tools > more tools** | Agent accuracy drops sharply above ~50 tools. Generic tools (bash, file read/write) outperform specialized ones. | Practitioner consensus |
+| **File system as memory** | Use markdown files (CLAUDE.md, DISCOVERIES.md) as persistent memory instead of complex databases. Agents read files naturally. | [Documentation & Templates](#documentation--templates) |
+| **Verify, don't trust** | Always validate agent output. Plan mode achieves 2-3x higher success on complex tasks. Diff review and test suites are non-negotiable. | Practitioner consensus |
+| **Context > prompts** | Progressive context disclosure (agents discover context via --help, file reading) beats pre-loaded mega-prompts. | [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code) |
+| **Simplify relentlessly** | Each model generation makes simpler harnesses more effective. Complexity you add today becomes drag tomorrow. | [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) |
+
+> **Key insight:** "The model is no longer the bottleneck. The harness is." — The best vibe coders in 2026 aren't prompt engineers; they're harness engineers.
+
+### Spec-Driven Development
+
+Write specifications first, then let agents implement. Rigor migrates from code review to specs and tests.
+
+| Technique | Description | Source |
+|-----------|-------------|--------|
+| **TDD as Specification** | Write tests before asking agents to implement. Tests prevent agents from "cheating" by writing code that passes trivially. | [HN Mega-Thread](https://news.ycombinator.com/item?id=46352875) |
+| **Risk Tiering** | Match verification effort to blast radius. Low-risk (UI copy) → quick review. High-risk (auth, payments) → full test suite + manual review. | Practitioner consensus |
+| **Decision Tables** | For complex business logic, define all input/output combinations in a table before implementing. Agents excel at table-to-code. | Practitioner consensus |
+
 ---
 
 ## Practical Workflows
@@ -633,12 +715,33 @@ The evolution from code assistance to autonomous agents represents a fundamental
 1. **Code Completion** (Copilot) — Suggests next lines
 2. **Code Generation** (ChatGPT) — Writes functions from descriptions
 3. **Agentic Coding** (Cursor, Devin) — Plans, implements, and iterates
-4. **Living Software** (Taskade Genesis) — Apps that evolve continuously
+4. **Living Systems** (Taskade Genesis) — Memory + Intelligence + Execution in one organism
 
 **Learn more:**
 - [Agentic AI Systems](https://www.taskade.com/blog/agentic-ai-systems) — Deep dive into autonomous coding workflows
 - [Agentic Workflows for Startups](https://www.taskade.com/blog/agentic-workflows-startup-automation) — Practical automation patterns
 - [Single vs Multi-Agent Systems](https://www.taskade.com/blog/single-agent-systems-versus-multi-agent-ai-teams) — When to orchestrate multiple agents
+
+### The Middle Loop
+
+A new category of engineering work is emerging between the inner loop (writing code) and the outer loop (shipping to users):
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  INNER LOOP        MIDDLE LOOP         OUTER LOOP      │
+│  (Code)            (Orchestrate)       (Ship)           │
+│                                                         │
+│  Write code    →   Delegate to agents  →  Deploy        │
+│  Debug         →   Evaluate output     →  Monitor       │
+│  Test          →   Maintain coherence  →  Iterate       │
+│                                                         │
+│  Shrinking ←──    THE NEW WORK    ──→  Unchanged       │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Middle loop skills:** Decomposing tasks into agent-sized units, evaluating agent output quality, maintaining architectural coherence across parallel agents, and knowing when to intervene vs. let agents iterate.
+
+> **Taskade Genesis shortcut:** Genesis handles the middle loop for you — Memory, Intelligence, and Execution are pre-wired. Describe your app, and the system orchestrates the rest.
 
 ---
 
@@ -842,6 +945,12 @@ Where vibe coding news breaks first.
 | [The Changelog](https://changelog.com/podcast) | Open Source | Open-source software and the people who make it. AI tool deep dives. |
 | [Software Engineering Daily](https://softwareengineeringdaily.com/) | Engineering | Technical interviews covering AI infrastructure and tools. |
 
+### Genesis Video Tutorials
+
+| Resource | Videos | What You'll Learn |
+|----------|--------|-------------------|
+| [Taskade Genesis Official Playlist](https://www.youtube.com/playlist?list=PL6AK9nQTVp4rA4tpzXAifJ37-YuAuBAjs) | 11 | Complete walkthrough: [Workspace DNA explained](https://www.youtube.com/watch?v=pgMl8GY_6t4), [train AI on your data](https://www.youtube.com/watch?v=WwYePfEgVfw), [UI customization](https://www.youtube.com/watch?v=IjhYI6xKSIw), [model selection](https://www.youtube.com/watch?v=SB1NX8xgyGk), [clone & customize apps](https://www.youtube.com/watch?v=GZsJGDSqchs), and [multi-device building](https://www.youtube.com/watch?v=2tG-plwn-d8). |
+
 ### YouTube Channels
 
 | Channel | Focus | Why It's Awesome |
@@ -863,7 +972,24 @@ Real-world examples of what you can build with vibe coding.
 
 ### Taskade Genesis Gallery
 
-Browse and clone community-built apps powered by Workspace DNA. [Explore the Gallery →](https://www.taskade.com/blog/community-gallery-app-store)
+Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/blog/community-gallery-app-store)
+
+| App | Category | What It Does |
+|-----|----------|--------------|
+| [Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) | Business | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
+| [Invoice Generator](https://www.taskade.com/share/apps/v71ywf2zs5bu9a5m) | Finance | Create, send, and track invoices with Stripe-ready payment flows. |
+| [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Hospitality | Calendar sync, auto-confirmations, and waitlist management. |
+| [Finance Tracker Dashboard](https://www.taskade.com/share/apps/tmnju1vsp3ggajo7) | Finance | Real-time financial tracking with charts and AI-powered insights. |
+| [Small Business Inventory Manager](https://www.taskade.com/share/apps/dytf0veorield4pl) | Operations | Stock levels, reorder alerts, and supplier management. |
+| [Event Management Portal](https://www.taskade.com/share/apps/scv62ou1yocu3sno) | Events | RSVPs, schedules, and vendor coordination — all from one prompt. |
+| [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Education | Flashcard creation, study tracking, and AI-powered quiz generation. |
+| [Smart Feedback Form](https://www.taskade.com/share/apps/roq58dgczybbc08l) | Business | Collects feedback, routes to agents, and generates insights automatically. |
+| [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Utilities | Generate, customize, and manage QR codes instantly. |
+| [Multi-Platform Publisher](https://www.taskade.com/share/apps/qngl9kn1vwun7bag) | Marketing | Multi-channel content planning with AI suggestions and auto-publishing. |
+| [Smart Meal Planner](https://www.taskade.com/share/apps/4doegcveur9de5xc) | Health | Meal planning, nutrition tracking, and grocery list generation. |
+| [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Games | Fully playable Tetris — built with one prompt. |
+
+> **130,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/community)
 
 | Category | Description | Explore |
 |----------|-------------|---------|
@@ -874,7 +1000,7 @@ Browse and clone community-built apps powered by Workspace DNA. [Explore the Gal
 
 ### Taskade Genesis Case Studies
 
-Real examples of living software built with Workspace DNA.
+Real examples of living systems built with Workspace DNA.
 
 **Beginner-Friendly Tutorials:**
 - [Build a Finance Dashboard](https://www.taskade.com/blog/build-finance-dashboard-tutorial) — Real-time financial tracking with charts
@@ -925,7 +1051,7 @@ Key terms in the vibe coding ecosystem.
 | Term | Definition |
 |------|------------|
 | **Vibe Coding** | Building software by describing what you want in natural language, letting AI handle implementation. Coined by [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383). |
-| **Living Software** | Applications that evolve with your data, learn from patterns, and act autonomously through AI agents. |
+| **Living Systems** | Applications that evolve with your data, learn from patterns, and act autonomously — Memory, Intelligence, and Execution wired as one organism. |
 | **Workspace DNA** | Architecture where your workspace (projects, databases, automations) becomes the backend for AI-generated apps. [Learn more →](https://www.taskade.com/blog/how-workspace-dna-works) |
 | **Prompt-to-App** | The workflow of generating a complete application from a single natural language prompt. |
 | **AI Agents** | Autonomous AI systems that can understand context, make decisions, and execute tasks without human intervention. [Learn more →](https://www.taskade.com/blog/what-are-ai-agents) |
@@ -984,11 +1110,11 @@ Traditional coding requires you to think in code — variables, functions, synta
 | No-Code | Visual builders only | Technical users |
 | **Vibe Coding** | Natural language | **Everyone** |
 
-### Living Software vs Generated Code
+### Living Systems vs Generated Code
 
-The most advanced vibe coding creates **living software** powered by **Workspace DNA**:
+The most advanced vibe coding creates **living systems** powered by **Workspace DNA**:
 
-| Aspect | Generated Code | Living Software |
+| Aspect | Generated Code | Living Systems |
 |--------|----------------|-----------------|
 | Backend | You build it | Workspace is the backend |
 | Database | You connect it | Already connected |
