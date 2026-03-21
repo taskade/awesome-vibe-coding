@@ -44,6 +44,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 | Date | What's New |
 |------|------------|
+| **2026-03-20** | Gemini Code Assist, Jules, GitHub Copilot Workspace, Qodo, PearAI, Void |
 | **2026-02-11** | Trae (ByteDance IDE), Qoder (Alibaba), SuperDesign, Komposo, Banani |
 | **2026-02-11** | Vibe Coding Philosophies section, Taskade Genesis Case Studies |
 | **2026-02-11** | 20+ strategic blog cross-links, comparison tables |
@@ -59,7 +60,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ║  🤖  41%  of all code is now AI-assisted                  ║
 ║  💰  $27B global AI coding tools market size              ║
 ║  ⚡  10x  faster development cycles with vibe coding      ║
-║  🎯  245  tools and resources in this list                ║
+║  🎯  251  tools and resources in this list                ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -228,6 +229,8 @@ Complete development environments rebuilt for AI-first workflows.
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Subscription | Enterprise | AI assistant across all JetBrains IDEs. Deep language understanding. |
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
+| [PearAI](https://trypear.ai/) | Free | Open-source IDE | Open-source AI code editor built on VS Code. Community-driven with integrated chat and inline editing. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
+| [Void](https://voideditor.com/) | Free | Privacy-first IDE | Open-source Cursor alternative. Use any AI model with full local control and zero telemetry. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
 
 ### Editor Extensions
 
@@ -247,8 +250,10 @@ Add AI superpowers to your existing editor.
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Free tier | Large codebases | Best-in-class codebase understanding. Enterprise-ready. |
 | [Continue](https://continue.dev/) | Free | Open source | Open-source autopilot. Use any model, any IDE. |
 | [Augment Code](https://www.augmentcode.com/) | Free tier | Enterprise | Context-aware AI that understands your entire codebase and dependencies. |
-| [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
 | [avante.nvim](https://github.com/yetone/avante.nvim) | Free | Neovim users | Cursor-like AI features for Neovim. Diff-based editing in your terminal. |
+| [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
+| [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
+| [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. [Alternatives →](https://www.taskade.com/blog/best-vibe-coding-tools) |
 
 ---
 
@@ -309,6 +314,8 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
+| [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
+| [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
 
 ---
@@ -430,6 +437,8 @@ Self-host and customize your vibe coding stack.
 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Python | Computer use | AI that controls your computer through code. |
 | [Tabby](https://github.com/TabbyML/tabby) | Rust | Self-hosted Copilot | Run your own code completion server. |
 | [Ollama](https://ollama.ai/) | Go | Local models | Run LLMs locally. Essential for private vibe coding. |
+| [PearAI](https://github.com/trypear/pearai-app) | TypeScript | Open-source IDE | Community-driven AI code editor forked from VS Code. |
+| [Void](https://github.com/voideditor/void) | TypeScript | Privacy-first IDE | Open-source Cursor alternative with zero telemetry. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Beautiful interface for running local models. |
 
 ---
