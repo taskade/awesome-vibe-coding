@@ -373,6 +373,7 @@ Full-featured coding agents that work from the command line.
 | [Crush](https://github.com/charmbracelet/crush) | Free | TUI workflows | Terminal-native AI coding agent with a polished TUI experience. |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | Free | Qwen users | Open-source coding CLI optimized for Qwen coder models. |
 | [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | Free tier | Long-context workflows | CLI coding assistant with strong context handling and agent flows. |
+| [Toprank](https://github.com/nowork-studio/toprank) | Free | SEO & marketing workflows | Open-source Claude Code plugin for SEO, Google Ads, content writing, and CMS optimization workflows. |
 | 🔥 [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
 | [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
