@@ -10,7 +10,7 @@
 
 # Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools, platforms, and resources for vibe coding — building software through natural language prompts instead of traditional code.
+> Building software through natural language prompts — describe what you want, and AI generates, tests, and ships the code.
 
 Vibe coding represents a paradigm shift: describe what you want in plain English, and AI builds it. No syntax to memorize, no frameworks to learn, no deployment to configure.
 
@@ -19,6 +19,36 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 📖 **[Complete Guide: What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding)** — Deep dive into the concept, workflow, and best practices.
 
 🚀 **[Try Vibe Coding Now](https://www.taskade.com/ai/coding)** — Build your first app in minutes.
+
+## Contents
+
+- [👋 New to Vibe Coding? Start Here](#-new-to-vibe-coding-start-here)
+- [🆕 Recently Added](#-recently-added)
+- [📊 Vibe Coding in 2026: By the Numbers](#-vibe-coding-in-2026-by-the-numbers)
+- [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
+- [AI App Builders](#ai-app-builders)
+- [AI Code Editors](#ai-code-editors)
+- [CLI & Terminal Tools](#cli--terminal-tools)
+- [AI Browser Agents](#ai-browser-agents)
+- [AI Agents & Autonomous Coding](#ai-agents--autonomous-coding)
+- [AI Website Builders](#ai-website-builders)
+- [AI Component & UI Generators](#ai-component--ui-generators)
+- [AI Database & Backend Tools](#ai-database--backend-tools)
+- [AI Automation Platforms](#ai-automation-platforms)
+- [MCP & Model Context Protocol](#mcp--model-context-protocol)
+- [Open Source Tools](#open-source-tools)
+- [AI Frameworks & SDKs](#ai-frameworks--sdks)
+- [Documentation & Templates](#documentation--templates)
+- [Best Practices & Workflows](#best-practices--workflows)
+- [Practical Workflows](#practical-workflows)
+- [Vibe Coding Philosophies](#vibe-coding-philosophies)
+- [Prompt Engineering](#prompt-engineering)
+- [Learning Resources](#learning-resources)
+- [Communities](#communities)
+- [News & Media](#news--media)
+- [Podcasts & YouTube](#podcasts--youtube)
+- [Showcases](#showcases)
+- [Glossary](#glossary)
 
 ---
 
@@ -81,37 +111,6 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ```
 
 *Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/01/06/1109188/vibe-coding/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
-
----
-
-## Contents
-
-- [🆕 Recently Added](#-recently-added)
-- [📊 Vibe Coding in 2026: By the Numbers](#-vibe-coding-in-2026-by-the-numbers)
-- [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
-- [AI App Builders](#ai-app-builders)
-- [AI Code Editors](#ai-code-editors)
-- [CLI & Terminal Tools](#cli--terminal-tools)
-- [AI Browser Agents](#ai-browser-agents)
-- [AI Agents & Autonomous Coding](#ai-agents--autonomous-coding)
-- [AI Website Builders](#ai-website-builders)
-- [AI Component & UI Generators](#ai-component--ui-generators)
-- [AI Database & Backend Tools](#ai-database--backend-tools)
-- [AI Automation Platforms](#ai-automation-platforms)
-- [MCP & Model Context Protocol](#mcp--model-context-protocol)
-- [Open Source Tools](#open-source-tools)
-- [AI Frameworks & SDKs](#ai-frameworks--sdks)
-- [Documentation & Templates](#documentation--templates)
-- [Best Practices & Workflows](#best-practices--workflows)
-- [Practical Workflows](#practical-workflows)
-- [Vibe Coding Philosophies](#vibe-coding-philosophies)
-- [Prompt Engineering](#prompt-engineering)
-- [Learning Resources](#learning-resources)
-- [Communities](#communities)
-- [News & Media](#news--media)
-- [Podcasts & YouTube](#podcasts--youtube)
-- [Showcases](#showcases)
-- [Glossary](#glossary)
 
 ---
 
