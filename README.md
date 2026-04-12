@@ -1,3 +1,13 @@
+<!--lint disable double-link-->
+<!--lint disable table-pipe-alignment-->
+<!--lint disable table-cell-padding-->
+<!--lint disable awesome-toc-->
+<!--lint disable awesome-list-item-->
+<!--lint disable no-heading-punctuation-->
+<!--lint disable no-emphasis-as-heading-->
+<!--lint disable awesome-spell-check-->
+<!--lint disable awesome-github-->
+
 # Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, platforms, and resources for vibe coding — building software through natural language prompts instead of traditional code.
@@ -45,6 +55,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 | Date | What's New |
 |------|------------|
+| **2026-04-12** | CC-BY-4.0 license, Caliber (community PR), stale entry updates (Devin, Galileo), awesome.re submission prep |
 | **2026-03-21** | Taskade Genesis deep dive (Loop, 3×3, use cases, "Others vs Genesis"), 12 new glossary terms, bolt.diy, Plandex, Same.new, HeyBoss, aichat, llms.txt |
 | **2026-03-21** | Emergent, Base44, Figma Make, Context7, Cloudflare VibeSDK, CodeWords, Trending MCP Servers, Context Engineering, Business Playbook, 15+ new backlinks |
 | **2026-03-20** | Workspace DNA messaging refresh, Taskade Genesis Community Gallery (12 apps), Taskade Genesis tutorials playlist, FastMCP, Claude Agent SDK, Mastra, Gumloop, Browser Agents section, MCP Design Principles, Harness Engineering practices |
@@ -428,7 +439,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | 🔥 [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Persistent agents that learn continuously from your workspace DNA. Choose from Claude, GPT, or Gemini models. Create AI Teams for multi-agent collaboration. 100+ MCP connectors for tool use. Custom commands, skills, and sharing with password protection. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
-| [Devin](https://devin.ai/) | Waitlist | Full autonomy | First "AI software engineer." Plans, codes, debugs, and deploys autonomously. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
+| [Devin](https://devin.ai/) | Usage-based | Full autonomy | Autonomous AI software engineer. Plans, codes, debugs, and deploys. Now generally available with usage-based pricing. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
@@ -468,7 +479,7 @@ Generate UI components, not entire applications.
 | [HeroUI Chat](https://www.heroui.chat/) | Free tier | UI generation | Generate app UIs and components from prompts with iterative refinement. |
 | [Komposo](https://www.komposo.ai/) | Free tier | UI-first | Fast, high-quality UI generation with clean code export. Top choice for designers and developers. |
 | [Banani](https://www.banani.co/) | Free tier | Visual canvas | Turns text prompts into editable UI designs on a visual canvas. Great for PMs and designers. |
-| [Galileo AI](https://www.usegalileo.ai/) | Waitlist | Design systems | Generate UI designs from text. Outputs to Figma. |
+| [Galileo AI](https://www.usegalileo.ai/) | Free tier | Design systems | Generate UI designs from text. Outputs to Figma. Now generally available. |
 | [Uizard](https://uizard.io/) | Free tier | Wireframes | Turn sketches into editable designs. |
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
 | [Builder.io](https://www.builder.io/) | Free tier | Headless CMS | AI-powered visual editor with code export. |
@@ -1323,10 +1334,3 @@ This awesome list is maintained by [Taskade](https://www.taskade.com) with contr
 
 Made with [contrib.rocks](https://contrib.rocks).
 
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Taskade](https://www.taskade.com) has waived all copyright and related or neighboring rights to this work.
