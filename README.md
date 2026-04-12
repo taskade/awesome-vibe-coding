@@ -63,7 +63,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 **5-Minute Quick Start:**
 1. ✅ Read: [What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding)
 2. ✅ Try: [Build your first app](https://www.taskade.com/ai/apps) with Taskade Genesis
-3. ✅ Learn: [8 Best Practices](https://www.softr.io/blog/vibe-coding-best-practices)
+3. ✅ Learn: [Vibe Coding for Non-Developers](https://www.taskade.com/blog/vibe-coding-for-non-developers)
 4. ✅ Join: [Vibe coding communities](#communities)
 
 **By Experience Level:**
@@ -794,7 +794,7 @@ Time: 2-4 weeks                 Time: 30 mins
 
 ### 8 Best Practices for Production Vibe Coding
 
-Based on [real commercial projects](https://www.softr.io/blog/vibe-coding-best-practices):
+Based on [real commercial projects](https://www.taskade.com/blog/vibe-coding-for-teams):
 
 | Practice | What to Do | Why It Matters |
 |----------|-----------|----------------|
