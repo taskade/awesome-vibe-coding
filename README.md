@@ -341,6 +341,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Napkins.dev](https://napkins.dev/) | Free tier | Screenshot-to-code | Turn screenshots and wireframes into working code. |
 | [Same.new](https://same.new) | Free tier | Website cloning | Clone any website and customize it with AI. Instant starting points. |
 | [HeyBoss](https://heyboss.ai) | Free tier | Full AI team | AI team (CEO, Designer, Developer) builds your app collaboratively. |
+| [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 
 ---
 
