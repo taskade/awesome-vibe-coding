@@ -447,6 +447,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | Free | Multi-agent orchestration | Self-hosted runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, and more. Org chart, schedules, runtime skills, persistent memory, MCP-native. |
 
 ---
 
@@ -553,6 +554,7 @@ The most popular MCP servers in 2026, ranked by community adoption.
 | [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Terminal control, file search, and diff editing | 26K+ weekly downloads. Supports Excel, PDF, DOCX reading. |
 | [ReactBits MCP](https://github.com/ceorkm/reactbits-mcp-server) | Access to 135+ animated React components | Smart component search with CSS and Tailwind variants. |
 | [Docfork](https://github.com/docfork/docfork) | Up-to-date docs for 10K+ libraries | ~200ms edge retrieval. Clean structured Markdown output. |
+| [SwarmVault](https://github.com/swarmclawai/swarmvault) | Local-first RAG knowledge vault for raw sources | Compiles books, notes, transcripts, exports, docs, code into a markdown wiki with knowledge graph and SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of full file reads. |
 
 > **See also:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (83K+ ★) for the comprehensive community-curated MCP server directory.
 
