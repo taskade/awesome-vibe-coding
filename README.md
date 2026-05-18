@@ -409,6 +409,7 @@ Tools for specific coding workflows.
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
+| [codex-profiles](https://github.com/Ducksss/codex-profiles) | Free | Codex profiles | Switches Codex CLI and Desktop accounts with isolated CODEX_HOME profiles. |
 
 ---
 
