@@ -644,6 +644,7 @@ Measure AI coding capabilities.
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Benchmark | Tests AI on real GitHub issues. The standard for measuring coding ability. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent | Princeton's AI agent that resolves GitHub issues. Top SWE-bench performer. |
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
+| [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
 
 ---
 
@@ -1332,4 +1333,3 @@ This awesome list is maintained by [Taskade](https://www.taskade.com) with contr
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-
