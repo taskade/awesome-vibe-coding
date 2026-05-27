@@ -662,6 +662,7 @@ Files and templates that help AI understand your codebase.
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
+| [harness-starter-kit](https://github.com/baskduf/harness-starter-kit) | Starter kit | Prompt-first workflow for turning repeated coding-agent instructions into durable repo rules, knowledge stores, feedback loops, and drift checks. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 
 ### Prompt Templates
