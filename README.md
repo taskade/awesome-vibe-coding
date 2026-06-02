@@ -110,7 +110,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/01/06/1109188/vibe-coding/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
+*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
 
 ---
 
@@ -200,6 +200,22 @@ Example: *"Build a customer feedback portal with AI scoring"*
 | Freelancer CRM | ~5 min | Pipeline tracking, follow-up emails, deal stage automations |
 | Inventory tracker | ~7 min | Stock levels, auto-email suppliers when products run low |
 | [Business-in-a-Box](https://www.taskade.com/blog/business-in-a-box-genesis) | ~15 min | CRM + Finance + Support + Content + Client Portal — all connected |
+
+### Build These Without Code
+
+Describe what you need in plain English and **Taskade Genesis** ships a working app — a database, an AI agent, and automations already wired together. Clone any live demo below and make it yours in about a minute. No developer, no setup. [Start building →](https://www.taskade.com/ai/apps)
+
+| I want to… | Clone this live app | What you get — no code |
+|------------|---------------------|------------------------|
+| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
+| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
+| **Track inventory** | [Inventory Management →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
+| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
+| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/share/apps/h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
+| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
+| **Run a support desk** | [Support Agent →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
+
+Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/community)
 
 ### A Page, or a Living System?
 
@@ -321,6 +337,8 @@ Generate code you can own, modify, and deploy anywhere.
 ## AI Code Editors
 
 IDEs and editors with deep AI integration for assisted development. [Compare AI coding tools →](https://www.taskade.com/blog/best-vibe-coding-tools) · [Claude Code vs Cursor vs Taskade →](https://www.taskade.com/blog/claude-code-vs-cursor-vs-taskade)
+
+> **Not a developer? Skip the IDE.** The editors below are built for engineers. If you'd rather describe an outcome and get a finished, running app — no IDE, no terminal, no git — start with [Taskade Genesis](https://www.taskade.com/ai/apps) instead. [Why non-developers pick Taskade Genesis over Cursor →](https://www.taskade.com/blog/best-cursor-alternatives)
 
 ### Full IDEs
 
@@ -970,14 +988,14 @@ Top-tier channels for learning vibe coding in 2026.
 |-----------------|-------|-----------|
 | [Conner Ardman](https://www.youtube.com/@connerardman) | Tool comparisons | "Vibe Coding for 100 Hours" series. Deep dives comparing Lovable, Bolt, Cursor, Claude Code, V0. |
 | [The AI Advantage](https://www.youtube.com/@aiadvantage) | Practical workflows | Igor Pogany teaches real-world AI automations and productivity workflows. |
-| [AI Foundations](https://www.youtube.com/@aifoundations) | Beginner-friendly | Drake Surach simplifies AI for creators and entrepreneurs. |
+| [AI Foundations](https://www.youtube.com/@ai-foundations) | Beginner-friendly | Drake Surach simplifies AI for creators and entrepreneurs. |
 | [Fireship](https://www.youtube.com/@Fireship) | Quick overviews | Fast-paced 100-second explainers and JavaScript ecosystem coverage. |
 | [Theo - t3.gg](https://www.youtube.com/@t3dotgg) | Developer perspective | Honest reviews of AI coding tools from a TypeScript/React expert. |
 | [Builder.io](https://www.youtube.com/@builderio) | AI + design | Visual development and AI-powered design-to-code workflows. |
 | [Taskade](https://www.youtube.com/@taskade) | Workspace DNA | Official tutorials for Taskade Genesis, AI Agents, and Automations. |
 
 **Tool-Specific Tutorials:**
-- [Cursor AI Tutorial 2026](https://cursor101.com/) — Cursor 101: Complete beginner-to-advanced guide
+- [Cursor Docs & Guides](https://docs.cursor.com/) — Official Cursor documentation: beginner-to-advanced setup, features, and workflows
 - [Claude Code in 15 Minutes](https://creatoreconomy.so/p/claude-code-beginners-tutorial-build-a-movie-app-in-15-minutes) — Build a movie app from scratch
 - [Bolt.new Complete Guide](https://www.udemy.com/course/cursor-ai-ide/) — Udemy course on full-stack vibe coding
 
@@ -1040,7 +1058,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 |------------|-----------|------------------|
 | [The Rundown AI](https://www.therundown.ai/) | Daily | 1.75M+ readers. The industry standard for AI news. Major breakthroughs and tool launches. |
 | [TLDR AI](https://tldr.tech/ai) | Daily | 1.25M+ readers. Technical AI developments in 5-minute reads. Research papers, tools, and news. |
-| [Ben's Bites](https://bensbites.beehiiv.com/) | Daily | Curated AI news for builders. Focused on practical applications. |
+| [Ben's Bites](https://bensbites.com/) | Daily | Curated AI news for builders. Focused on practical applications. |
 | [The Neuron](https://www.theneurondaily.com/) | Daily | AI news explained simply. Great for staying current without the hype. |
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
@@ -1288,7 +1306,7 @@ This isn't a temporary trend. It's how software will be built.
 
 ## 📢 Distribution & Promotion
 
-Want to share this list with your community? Check out the **[Distribution Guide](DISTRIBUTION.md)** for:
+Want to share this list with your community? Here's a quick **distribution playbook**:
 
 - Platform-specific strategies (Hacker News, Reddit, Product Hunt, Twitter, Dev.to)
 - Optimal posting times and title formats
