@@ -86,7 +86,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 | Date | What's New |
 |------|------------|
 | **2026-04-12** | CC-BY-4.0 license, Caliber (community PR), stale entry updates (Devin, Galileo), awesome.re submission prep |
-| **2026-03-21** | Taskade Genesis deep dive (Loop, 3×3, use cases, "Others vs Genesis"), 12 new glossary terms, bolt.diy, Plandex, Same.new, HeyBoss, aichat, llms.txt |
+| **2026-03-21** | Taskade Genesis deep dive (Loop, 3×3, use cases, "Others vs Taskade Genesis"), 12 new glossary terms, bolt.diy, Plandex, Same.new, HeyBoss, aichat, llms.txt |
 | **2026-03-21** | Emergent, Base44, Figma Make, Context7, Cloudflare VibeSDK, CodeWords, Trending MCP Servers, Context Engineering, Business Playbook, 15+ new backlinks |
 | **2026-03-20** | Workspace DNA messaging refresh, Taskade Genesis Community Gallery (12 apps), Taskade Genesis tutorials playlist, FastMCP, Claude Agent SDK, Mastra, Gumloop, Browser Agents section, MCP Design Principles, Harness Engineering practices |
 | **2026-03-20** | Gemini Code Assist, Jules, GitHub Copilot Workspace, Qodo, PearAI, Void |
@@ -142,14 +142,14 @@ Traditional vibe coding tools generate **code** you must deploy and maintain. Wo
 - [The Origin of Living Software](https://www.taskade.com/blog/origin-of-living-software) — Why living software changes everything
 - [Understanding Workspace DNA](https://help.taskade.com/en/articles/12578949) — Technical documentation
 - [The Ultimate Guide to Taskade Genesis 2026](https://www.taskade.com/blog/ultimate-guide-taskade-genesis-2026) — Comprehensive deep dive
-- [Genesis Press Reviews](https://www.taskade.com/blog/genesis-press-reviews) — What reviewers are saying
+- [Taskade Genesis Press Reviews](https://www.taskade.com/blog/genesis-press-reviews) — What reviewers are saying
 
 **Real-World Taskade Genesis Examples:**
-- [Business in a Box with Genesis](https://www.taskade.com/blog/business-in-a-box-genesis) — Complete business systems in minutes
-- [Genesis Analytics, Domains & Security](https://www.taskade.com/blog/genesis-analytics-domains-security) — Enterprise features
-- [Genesis Workspace Intelligence](https://www.taskade.com/blog/genesis-workspace-intelligence) — How apps learn from your data
-- [5 Genesis Apps in 10 Minutes](https://www.taskade.com/blog/5-genesis-apps-10-minutes) — Rapid development showcase
-- [Anatomy of a Genesis App](https://www.taskade.com/blog/anatomy-of-genesis-app) — Deep dive into app structure
+- [Business in a Box with Taskade Genesis](https://www.taskade.com/blog/business-in-a-box-genesis) — Complete business systems in minutes
+- [Taskade Genesis Analytics, Domains & Security](https://www.taskade.com/blog/genesis-analytics-domains-security) — Enterprise features
+- [Taskade Genesis Workspace Intelligence](https://www.taskade.com/blog/genesis-workspace-intelligence) — How apps learn from your data
+- [5 Taskade Genesis Apps in 10 Minutes](https://www.taskade.com/blog/5-genesis-apps-10-minutes) — Rapid development showcase
+- [Anatomy of a Taskade Genesis App](https://www.taskade.com/blog/anatomy-of-genesis-app) — Deep dive into app structure
 
 ### Not Features. Organs.
 
@@ -256,27 +256,22 @@ What ships when you press deploy? [Learn more →](https://www.taskade.com/blog/
 
 Tools that generate complete applications from natural language descriptions.
 
-### 🎯 Quick Tool Selector
+### AI App Builder Comparison Matrix
 
-```
-    Choose Your Path:
-    ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐
-    │  No-Code │  │   Code   │  │   IDE    │  │   CLI    │
-    └──────────┘  └──────────┘  └──────────┘  └──────────┘
-         ↓             ↓             ↓             ↓
-   Taskade       Bolt        Cursor      Claude Code
-   Genesis
-```
+The fastest way to pick: do you want **code you own and deploy yourself**, or a **living app that ships already wired** (database, sign-in, agents)? All facts current for 2026; pricing *models* shown (exact dollars shift — check each vendor's page).
 
-| If You Want... | Use This | Why |
-|----------------|----------|-----|
-| **Zero-code living app** | 🔥 Taskade Genesis | Workspace DNA = instant backend + AI agents |
-| **Code you can export** | Bolt, Lovable, Replit | WebContainers, React output, full control |
-| **IDE integration** | Cursor, Windsurf | Codebase-aware refactoring in VS Code fork |
-| **Terminal-first workflow** | Claude Code, Aider | Git integration, CLI power users |
-| **Team collaboration** | Taskade Genesis, Firebase Studio | Real-time editing + AI agents |
-| **Mobile apps** | Taskade Genesis, Glide, Rork | Genesis builds mobile-responsive apps. Glide/Rork for native mobile. |
-| **Website in 30 seconds** | Taskade AI Websites, Durable | No-code website generation |
+| Builder | Code export | Backend included | Auth built-in | Pricing model | Cost to run a published app | Best for |
+|---------|:-----------:|:----------------:|:-------------:|---------------|------------------------------|----------|
+| 🔥 **[Taskade Genesis](https://www.taskade.com/ai/apps)** | No | ✅ Yes — workspace *is* the database | ✅ Yes — no-code sign-in | Free tier + credits | 🟢 **Zero — published apps run free** | Non-technical teams who want a living app + database + login in one place |
+| [Bolt](https://bolt.new) | ✅ Yes | ⚠️ Partial — bring your own Supabase | ⚠️ Partial — via Supabase | Free tier + per-token | Metered (Supabase backend) | Fast full-stack MVPs you can export and self-host |
+| [Lovable](https://lovable.dev) | ✅ Yes | ⚠️ Partial — bring your own Supabase | ⚠️ Partial — via Supabase | Free tier + per-credit | Metered (Supabase backend) | Polished React apps you own, chat-built backend |
+| [Replit](https://replit.com) | ✅ Yes | ✅ Yes — native Postgres | ✅ Yes — Replit Auth | Free tier + per-seat + usage | Metered (deployment compute) | A full IDE with native DB + hosting in one place |
+| [v0](https://v0.dev) | ✅ Yes | ⚠️ Partial — external | ⚠️ Partial — external | Free tier + per-token | Metered (Vercel hosting) | Frontend-first React/Next.js + shadcn UI |
+| [Base44](https://base44.com) | ⚠️ Partial — frontend, one-way | ✅ Yes — native | ✅ Yes | Free tier + per-credit | Metered (integration credits) | All-in-one no-code with native DB + auth |
+
+> **The honest tradeoff:** code generators (Bolt, Lovable, v0) hand you **source you own and host anywhere** — but you wire up the backend, auth, and ongoing run-cost yourself. **Taskade Genesis** doesn't export code; instead the app ships live with database, sign-in, and AI agents already connected, and **published apps run at zero credits**. [Compare builders →](https://www.taskade.com/blog/best-ai-app-builders)
+
+**Quick router:** No-code living app → **Taskade Genesis** · Export the code → Bolt / Lovable / v0 · IDE refactoring → [Cursor / Windsurf](#ai-code-editors) · Terminal-first → [Claude Code / Aider](#cli--terminal-tools) · Website in 30s → [AI Website Builders](#ai-website-builders)
 
 ---
 
@@ -291,6 +286,21 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-softr) |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | Most powerful no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
+
+### No-Code AI Agent Builders
+
+Build an AI agent or chatbot trained on your own PDFs, docs, and website — no code. For non-technical teams who want a smart assistant grounded in *their* content, not generic answers.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| 🔥 [Taskade Genesis](https://www.taskade.com/ai/agents) | Free tier | Business teams | Agents trained on your projects, PDFs, docs, and the web. Multi-model (Claude/GPT/Gemini), 100+ integrations, and AI Teams — all no-code. |
+| [MindStudio](https://www.mindstudio.ai) | Free tier | Visual builders | Ship agents that scrape URLs and query your documents across 200+ models in minutes, no developer required. |
+| [Chipp](https://chipp.ai) | Free tier | Small business | Upload docs, connect your site, add FAQs — your agent learns your business in about five minutes. |
+| [CustomGPT.ai](https://customgpt.ai) | Trial + paid | Accuracy-critical | Point it at your website, PDFs, and videos for an anti-hallucination chatbot trained only on your content. |
+| [Stack AI](https://www.stackai.com) | Free tier | Document workflows | Drag-and-drop builder with document upload and web scraping to ground agents in your PDFs, Word, and slides. |
+| [Chatbase](https://www.chatbase.co) | Free tier | Website chatbots | Train a support agent on your docs and embed it on your site with no coding. |
+| [Botpress](https://botpress.com) | Free tier | Omnichannel | Drag-and-drop Agent Studio with shared knowledge bases; deploy to web and messaging apps. |
+| [Dust](https://dust.tt) | Trial + paid | Connected teams | Connect Google Drive, Notion, Slack, and GitHub and spin up agents grounded in company knowledge. |
 
 ### Code-Generating
 
@@ -896,7 +906,7 @@ A new category of engineering work is emerging between the inner loop (writing c
 
 **Middle loop skills:** Decomposing tasks into agent-sized units, evaluating agent output quality, maintaining architectural coherence across parallel agents, and knowing when to intervene vs. let agents iterate.
 
-> **Taskade Genesis shortcut:** Genesis handles the middle loop for you — Memory, Intelligence, and Execution are pre-wired. Describe your app, and the system orchestrates the rest.
+> **Taskade Genesis shortcut:** Taskade Genesis handles the middle loop for you — Memory, Intelligence, and Execution are pre-wired. Describe your app, and the system orchestrates the rest.
 
 ---
 
@@ -1133,22 +1143,94 @@ Real-world examples of what you can build with vibe coding.
 
 Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/blog/community-gallery-app-store)
 
-| App | Category | What It Does |
-|-----|----------|--------------|
-| [Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) | Business | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
-| [Invoice Generator](https://www.taskade.com/share/apps/v71ywf2zs5bu9a5m) | Finance | Create, send, and track invoices with Stripe-ready payment flows. |
-| [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Hospitality | Calendar sync, auto-confirmations, and waitlist management. |
-| [Finance Tracker Dashboard](https://www.taskade.com/share/apps/tmnju1vsp3ggajo7) | Finance | Real-time financial tracking with charts and AI-powered insights. |
-| [Small Business Inventory Manager](https://www.taskade.com/share/apps/dytf0veorield4pl) | Operations | Stock levels, reorder alerts, and supplier management. |
-| [Event Management Portal](https://www.taskade.com/share/apps/scv62ou1yocu3sno) | Events | RSVPs, schedules, and vendor coordination — all from one prompt. |
-| [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Education | Flashcard creation, study tracking, and AI-powered quiz generation. |
-| [Smart Feedback Form](https://www.taskade.com/share/apps/roq58dgczybbc08l) | Business | Collects feedback, routes to agents, and generates insights automatically. |
-| [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Utilities | Generate, customize, and manage QR codes instantly. |
-| [Multi-Platform Publisher](https://www.taskade.com/share/apps/qngl9kn1vwun7bag) | Marketing | Multi-channel content planning with AI suggestions and auto-publishing. |
-| [Smart Meal Planner](https://www.taskade.com/share/apps/4doegcveur9de5xc) | Health | Meal planning, nutrition tracking, and grocery list generation. |
-| [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Games | Fully playable Tetris — built with one prompt. |
+#### What Should I Build? (Start by Role)
 
-> **130,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/community)
+Not sure where to begin? Pick your role, clone a working app, and make it yours — every link below is a live Taskade Genesis app.
+
+| You're a… | Start with | What you get |
+|-----------|------------|--------------|
+| **Founder** | [Investor Dashboard →](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers without rebuilding slides every time |
+| **Salesperson** | [Sales Pipeline →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | Every deal and what stage it's at, so nothing slips through the cracks |
+| **Marketer** | [Content Calendar →](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | Everything you're posting this month on one simple calendar |
+| **Ops / Admin** | [Team Capacity →](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work |
+| **Support lead** | [Support Workflow →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered |
+| **People / HR** | [Recruitment Workflow →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every candidate from application to offer in one place |
+
+#### Browse the Gallery by Job
+
+**Sales & CRM**
+
+| App | What it does |
+|-----|--------------|
+| [Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
+| [Sales Pipeline](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | See every deal and what stage it's at, so nothing slips through the cracks. |
+| [Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) | An AI helper that drafts your sales replies and follow-ups for you. |
+| [Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua) | Spot which customers are happy and which might leave before it's too late. |
+| [Client Portal Dashboard](https://www.taskade.com/share/apps/a0x7katem0zdu8vb) | Give each client their own login to check their progress and files. |
+| [Project Portal](https://www.taskade.com/share/apps/jxoj7dbpp8d2rqdo) | One shared space where clients follow every project from start to finish. |
+
+**Support & Success**
+
+| App | What it does |
+|-----|--------------|
+| [Smart Feedback Form](https://www.taskade.com/share/apps/roq58dgczybbc08l) | Collects feedback, routes it to agents, and generates insights automatically. |
+| [Support Workflow](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
+| [Support Rating Dashboard](https://www.taskade.com/share/apps/f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
+| [Testimonial Portal](https://www.taskade.com/share/apps/3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
+
+**Marketing & Content**
+
+| App | What it does |
+|-----|--------------|
+| [Multi-Platform Publisher](https://www.taskade.com/share/apps/qngl9kn1vwun7bag) | Multi-channel content planning with AI suggestions and auto-publishing. |
+| [Event Management Portal](https://www.taskade.com/share/apps/scv62ou1yocu3sno) | RSVPs, schedules, and vendor coordination — all from one prompt. |
+| [Campaign Planner](https://www.taskade.com/share/apps/r6lxd31ymwsthdmn) | Plan all your marketing campaigns so the team knows what's launching when. |
+| [Content Workflow](https://www.taskade.com/share/apps/hvu1z1ab0fyp9dkh) | Move every blog post or video from idea to published without losing track. |
+| [Content Calendar](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | See everything you're posting this month on one simple calendar. |
+| [Content Agent](https://www.taskade.com/share/apps/cibvdbpnmfh8ql8k) | An AI writer that drafts your posts and content for you. |
+| [Research Bot](https://www.taskade.com/share/apps/ckhj4d7yyntrkyb8) | Ask a question and get the research gathered and summarized for you. |
+
+**Operations & Projects**
+
+| App | What it does |
+|-----|--------------|
+| [Small Business Inventory Manager](https://www.taskade.com/share/apps/dytf0veorield4pl) | Stock levels, reorder alerts, and supplier management. |
+| [Sprint Tracker](https://www.taskade.com/share/apps/3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
+| [Project Tracker](https://www.taskade.com/share/apps/qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
+| [Team Capacity](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
+| [Fleet Management](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr) | Keep tabs on every vehicle, its status, and when it's due for service. |
+| [Internal Docs](https://www.taskade.com/share/apps/v2tnnxhuxrihssv8) | One home for all your team's how-to guides and policies, easy to search. |
+| [License Manager](https://www.taskade.com/share/apps/rlfk7lsd3kxtla1z) | Track your software subscriptions so nothing expires or auto-renews by surprise. |
+
+**People & HR**
+
+| App | What it does |
+|-----|--------------|
+| [Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every job candidate from application to offer in one place. |
+| [Onboarding Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) | Walk new hires through their first-week steps so nothing gets missed. |
+| [Team Mood Pulse](https://www.taskade.com/share/apps/f94okgmxbhz6n3yy) | Check in on how your team is feeling and act before morale dips. |
+
+**Founder & Finance**
+
+| App | What it does |
+|-----|--------------|
+| [Invoice Generator](https://www.taskade.com/share/apps/v71ywf2zs5bu9a5m) | Create, send, and track invoices with Stripe-ready payment flows. |
+| [Finance Tracker Dashboard](https://www.taskade.com/share/apps/tmnju1vsp3ggajo7) | Real-time financial tracking with charts and AI-powered insights. |
+| [Investor Dashboard](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers and progress without building slides each time. |
+| [Product Launch](https://www.taskade.com/share/apps/q0o0x1v413818rkg) | Line up every task for a launch so the big day goes off without a hitch. |
+| [Simple Store Manager](https://www.taskade.com/share/apps/ujtqojrsimcct6io) | Run a small online shop's products and orders without the headache. |
+
+**Commerce, Learning & Utilities**
+
+| App | What it does |
+|-----|--------------|
+| [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
+| [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
+| [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
+| [Smart Meal Planner](https://www.taskade.com/share/apps/4doegcveur9de5xc) | Meal planning, nutrition tracking, and grocery list generation. |
+| [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
+
+> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/community)
 
 | Category | Description | Explore |
 |----------|-------------|---------|
@@ -1262,6 +1344,20 @@ Key terms in the vibe coding ecosystem.
 | **The Middle Loop** | The new category of engineering work between writing code (inner loop) and shipping to users (outer loop): delegating to agents, evaluating output, and maintaining coherence. |
 | **Token Trap** | Pricing model where AI tools charge per token/credit, making costs unpredictable. Contrast with flat-rate pricing where published apps consume zero credits. |
 | **llms.txt** | An emerging standard for making websites AI-friendly by providing structured context at a known URL path. [Spec →](https://llmstxt.org/) |
+
+### Security & Cost Terms
+
+The vocabulary every non-technical builder should know before shipping an AI-generated app.
+
+| Term | Definition |
+|------|------------|
+| **Token Burn (Credit Burn)** | The ongoing consumption of paid tokens or credits each time an AI tool generates, edits, or runs your app, which makes monthly costs hard to predict. Contrast with published Taskade Genesis apps, which run at zero credits. |
+| **IDOR (Insecure Direct Object Reference)** | A flaw where an app trusts a user-supplied ID (like `?id=123`) to fetch a record without checking the user is allowed to see it — so changing the number exposes other people's data. A common gap in AI-generated apps that skip authorization checks. |
+| **RLS (Row-Level Security)** | A database feature (notably in Postgres and Supabase) that enforces which rows each user can read or write at the data layer, so access rules hold even if the app's own code has a bug. The safety net every AI-built app should enable. |
+| **Placeholder Auth** | Login or permission code an AI scaffolds as a stub or hard-coded shortcut to make a demo work — it looks like real security but verifies nothing, and must be replaced before shipping. |
+| **Context Rot** | The gradual decline in an AI's output quality as a chat or codebase outgrows its context window, causing it to forget earlier decisions, contradict itself, or reintroduce bugs you already fixed. |
+| **The Vibe Coding Gap** | The distance between an AI-generated app that demos beautifully and one that's actually production-ready — the security, error handling, edge cases, and maintenance the prompt-to-app moment leaves unfinished. |
+| **One-Shot vs Iterative Generation** | Two ways to build with AI: one-shot produces a whole app from a single prompt (fast but rigid), while iterative generation refines it through back-and-forth (slower but easier to steer and correct). |
 
 ---
 
