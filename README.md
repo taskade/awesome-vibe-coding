@@ -433,6 +433,7 @@ Tools for specific coding workflows.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
+| [Agent FM](https://github.com/agentfm-ai/agent-fm) | Free (BYOK) | Agent monitoring | Local macOS companion for Claude Code and Codex sessions, with Global Mix, blocker alerts, and BYOK narration. |
 | [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
