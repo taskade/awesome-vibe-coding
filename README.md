@@ -110,7 +110,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/01/06/1109188/vibe-coding/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
+*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
 
 ---
 
@@ -988,14 +988,14 @@ Top-tier channels for learning vibe coding in 2026.
 |-----------------|-------|-----------|
 | [Conner Ardman](https://www.youtube.com/@connerardman) | Tool comparisons | "Vibe Coding for 100 Hours" series. Deep dives comparing Lovable, Bolt, Cursor, Claude Code, V0. |
 | [The AI Advantage](https://www.youtube.com/@aiadvantage) | Practical workflows | Igor Pogany teaches real-world AI automations and productivity workflows. |
-| [AI Foundations](https://www.youtube.com/@aifoundations) | Beginner-friendly | Drake Surach simplifies AI for creators and entrepreneurs. |
+| [AI Foundations](https://www.youtube.com/@ai-foundations) | Beginner-friendly | Drake Surach simplifies AI for creators and entrepreneurs. |
 | [Fireship](https://www.youtube.com/@Fireship) | Quick overviews | Fast-paced 100-second explainers and JavaScript ecosystem coverage. |
 | [Theo - t3.gg](https://www.youtube.com/@t3dotgg) | Developer perspective | Honest reviews of AI coding tools from a TypeScript/React expert. |
 | [Builder.io](https://www.youtube.com/@builderio) | AI + design | Visual development and AI-powered design-to-code workflows. |
 | [Taskade](https://www.youtube.com/@taskade) | Workspace DNA | Official tutorials for Taskade Genesis, AI Agents, and Automations. |
 
 **Tool-Specific Tutorials:**
-- [Cursor AI Tutorial 2026](https://cursor101.com/) — Cursor 101: Complete beginner-to-advanced guide
+- [Cursor Docs & Guides](https://docs.cursor.com/) — Official Cursor documentation: beginner-to-advanced setup, features, and workflows
 - [Claude Code in 15 Minutes](https://creatoreconomy.so/p/claude-code-beginners-tutorial-build-a-movie-app-in-15-minutes) — Build a movie app from scratch
 - [Bolt.new Complete Guide](https://www.udemy.com/course/cursor-ai-ide/) — Udemy course on full-stack vibe coding
 
@@ -1058,7 +1058,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 |------------|-----------|------------------|
 | [The Rundown AI](https://www.therundown.ai/) | Daily | 1.75M+ readers. The industry standard for AI news. Major breakthroughs and tool launches. |
 | [TLDR AI](https://tldr.tech/ai) | Daily | 1.25M+ readers. Technical AI developments in 5-minute reads. Research papers, tools, and news. |
-| [Ben's Bites](https://bensbites.beehiiv.com/) | Daily | Curated AI news for builders. Focused on practical applications. |
+| [Ben's Bites](https://bensbites.com/) | Daily | Curated AI news for builders. Focused on practical applications. |
 | [The Neuron](https://www.theneurondaily.com/) | Daily | AI news explained simply. Great for staying current without the hype. |
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
@@ -1306,7 +1306,7 @@ This isn't a temporary trend. It's how software will be built.
 
 ## 📢 Distribution & Promotion
 
-Want to share this list with your community? Check out the **[Distribution Guide](DISTRIBUTION.md)** for:
+Want to share this list with your community? Here's a quick **distribution playbook**:
 
 - Platform-specific strategies (Hacker News, Reddit, Product Hunt, Twitter, Dev.to)
 - Optimal posting times and title formats
