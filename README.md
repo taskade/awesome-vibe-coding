@@ -254,6 +254,9 @@ What ships when you press deploy? [Learn more →](https://www.taskade.com/blog/
 
 ## AI App Builders
 
+* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+
+
 Tools that generate complete applications from natural language descriptions.
 
 ### AI App Builder Comparison Matrix
