@@ -201,6 +201,22 @@ Example: *"Build a customer feedback portal with AI scoring"*
 | Inventory tracker | ~7 min | Stock levels, auto-email suppliers when products run low |
 | [Business-in-a-Box](https://www.taskade.com/blog/business-in-a-box-genesis) | ~15 min | CRM + Finance + Support + Content + Client Portal — all connected |
 
+### Build These Without Code
+
+Describe what you need in plain English and **Taskade Genesis** ships a working app — a database, an AI agent, and automations already wired together. Clone any live demo below and make it yours in about a minute. No developer, no setup. [Start building →](https://www.taskade.com/ai/apps)
+
+| I want to… | Clone this live app | What you get — no code |
+|------------|---------------------|------------------------|
+| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
+| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
+| **Track inventory** | [Inventory Management →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
+| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
+| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/share/apps/h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
+| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
+| **Run a support desk** | [Support Agent →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
+
+Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/community)
+
 ### A Page, or a Living System?
 
 What ships when you press deploy? [Learn more →](https://www.taskade.com/blog/ai-app-builder-vs-website-builder-vs-agent-builder)
@@ -321,6 +337,8 @@ Generate code you can own, modify, and deploy anywhere.
 ## AI Code Editors
 
 IDEs and editors with deep AI integration for assisted development. [Compare AI coding tools →](https://www.taskade.com/blog/best-vibe-coding-tools) · [Claude Code vs Cursor vs Taskade →](https://www.taskade.com/blog/claude-code-vs-cursor-vs-taskade)
+
+> **Not a developer? Skip the IDE.** The editors below are built for engineers. If you'd rather describe an outcome and get a finished, running app — no IDE, no terminal, no git — start with [Taskade Genesis](https://www.taskade.com/ai/apps) instead. [Why non-developers pick Taskade Genesis over Cursor →](https://www.taskade.com/blog/best-cursor-alternatives)
 
 ### Full IDEs
 
