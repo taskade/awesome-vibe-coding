@@ -757,6 +757,7 @@ Maintain quality when AI generates your code.
 | **Steering Files** | Use .cursorrules, AGENTS.md, or CLAUDE.md to set coding standards, conventions, and constraints. | [Documentation & Templates](#documentation--templates) |
 | **Lock Dependencies** | Specify exact versions in your steering files. AI may suggest outdated or incompatible package versions. | Practitioner consensus |
 | **Run Tests Before & After** | Always run your test suite before and after AI modifications. Catch regressions immediately. | Practitioner consensus |
+| **Security Review Checklist** | Run a structured 5-dimension security review — CAPTCHA/rate limiting, UGC moderation, file upload safety, prompt injection, and demo-as-product pitfalls. | [vibe-coding-security](https://github.com/2023liushuya-lab/vibe-coding-security) |
 
 ### Harness Engineering
 
