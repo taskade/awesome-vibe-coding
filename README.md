@@ -335,6 +335,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Softgen](https://softgen.ai/) | Free tier | Full-stack | AI generates entire full-stack apps. Firebase and Supabase integration. |
 | [Rork](https://rork.app/) | Free tier | Mobile apps | Build React Native apps with AI. Export to Expo. |
 | [Rocket.new](https://www.rocket.new/) | Free tier | Web + mobile | Prompt-driven builder for shipping apps across platforms. |
+| [VibeKit.bot](https://vibekit.bot) | Free tier + BYOK | Building from your phone | Describe an app on iOS (or web) and the agent writes a real GitHub repo you own, then hosts it live at a `vibekit.bot` subdomain. BYOK (Claude/GPT) or platform credits; custom domains. |
 | [Marblism](https://www.marblism.com/) | Paid | SaaS boilerplates | Full SaaS applications with auth and payments. |
 | [Creatr](https://www.creatr.app/) | Free tier | Landing pages | AI landing page builder with beautiful templates. |
 | [Google AI Studio](https://aistudio.google.com/) | Free tier | Gemini prototypes | Prototype with Gemini models. Export to code. |
