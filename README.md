@@ -947,6 +947,7 @@ Must-read articles from practitioners who shaped the vibe coding conversation.
 
 | Article | Author | Why It's Awesome |
 |---------|--------|------------------|
+| [AI Book: AI Coding](https://aibook.ren/categories/ai-coding) | AI Book | Chinese AI coding handbook covering coding-agent workflows, tool selection, prompts, and practical AI-assisted development guides. |
 | [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) | Armin Ronacher | Flask creator reflects on a full year of AI-assisted coding. Practical lessons on context rot, when to reset, and code review. |
 | [Claude Code Session Logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/) | Simon Willison | How to preserve and analyze Claude Code JSONL logs. Session management as a superpower. |
 | [Claude Code for Web Video](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#the-result) | Simon Willison | Terminal-to-HTML workflow. Building a complete video tool through iterative vibe coding. |
