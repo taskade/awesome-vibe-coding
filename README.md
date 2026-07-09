@@ -441,6 +441,7 @@ Tools for specific coding workflows.
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | Free | Session observability | Local TUI for auditing AI coding-agent runs, token usage, costs, tool failures, latency, anomalies, diffs, and CI gates. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
+| [AgentBox](https://github.com/madarco/agentbox) | Free (MIT) | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
 
 ---
 
