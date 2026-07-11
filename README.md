@@ -473,6 +473,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [Devin](https://devin.ai/) | Usage-based | Full autonomy | Autonomous AI software engineer. Plans, codes, debugs, and deploys. Now generally available with usage-based pricing. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
+| [Agent Island](https://github.com/tristan666666/agent-island) | Swift | Status monitoring | Menu-bar companion for Claude Code & Codex — live session status, usage & reset countdowns, turn alarms, optional auto-resume. Mac & Windows. |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
