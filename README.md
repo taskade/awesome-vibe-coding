@@ -757,6 +757,7 @@ Maintain quality when AI generates your code.
 | **Steering Files** | Use .cursorrules, AGENTS.md, or CLAUDE.md to set coding standards, conventions, and constraints. | [Documentation & Templates](#documentation--templates) |
 | **Lock Dependencies** | Specify exact versions in your steering files. AI may suggest outdated or incompatible package versions. | Practitioner consensus |
 | **Run Tests Before & After** | Always run your test suite before and after AI modifications. Catch regressions immediately. | Practitioner consensus |
+| **UI Finish Gate** | Before shipping an agent-built interface, compare it with real product references and reject it if its hierarchy, density, responsive behavior, states, or copy could belong to any product. | [UIZZE workflow](https://uizze.com) |
 
 ### Harness Engineering
 
