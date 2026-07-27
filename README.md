@@ -480,6 +480,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
 | [Parallel Code](https://github.com/johannesjo/parallel-code) | Free | Parallel local agents | Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal agents in parallel, with per-task Git worktrees, terminal panes, diff review, and merge controls. |
+| [PinkCode](https://github.com/3xian/PinkCode) | Free | Grok Build GUI | Open-source desktop workspace for parallel Grok Build coding sessions with live activity, usage, file-change review, and permission controls. |
 
 ---
 
