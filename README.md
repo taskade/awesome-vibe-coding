@@ -530,6 +530,7 @@ Generate and manage data layers with AI.
 | [Neon](https://neon.tech/) | Free tier | Serverless Postgres | Branching databases with AI queries. |
 | [Convex](https://www.convex.dev/) | Free tier | Real-time apps | Backend-as-a-service with AI code generation. |
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
+| [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. 
 
 ---
 
