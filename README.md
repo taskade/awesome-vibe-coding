@@ -609,6 +609,7 @@ Tools that give AI agents persistent memory and context.
 
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
+| [Blume](https://blume.codes/) | Desktop context companion | Monitors coding-agent sessions, surfaces the rules, skills, and hooks shaping each run, proposes reviewable context improvements, and keeps chat history local. |
 | [Byterover Cipher](https://github.com/campfirein/cipher) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer | Self-improving memory for AI agents. Learns from interactions. |
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | Agent framework | Agents with persistent memory and self-editing capabilities. |
