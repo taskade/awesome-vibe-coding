@@ -435,6 +435,7 @@ Tools for specific coding workflows.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [Agent FM](https://github.com/agentfm-ai/agent-fm) | Free (BYOK) | Agent monitoring | Local macOS companion for Claude Code and Codex sessions, with Global Mix, blocker alerts, and BYOK narration. |
+| [Agent Island](https://github.com/tristan666666/agent-island) | Free | Session monitoring | Native macOS notch and Windows tray companion for Claude Code, Codex, Antigravity, Grok, and Cursor. Live session state, your-turn alerts, quota and cost computed locally. |
 | [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
@@ -473,7 +474,6 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [Devin](https://devin.ai/) | Usage-based | Full autonomy | Autonomous AI software engineer. Plans, codes, debugs, and deploys. Now generally available with usage-based pricing. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
-| [Agent Island](https://github.com/tristan666666/agent-island) | Free | Session monitoring | Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views. |
 | [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
