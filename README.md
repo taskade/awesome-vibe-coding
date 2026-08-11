@@ -696,6 +696,7 @@ Files and templates that help AI understand your codebase.
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
+| [Vibe Coding UI Specification](https://github.com/Mdx2025/horizonx-ui/blob/main/VIBE-CODING-UI-SPEC.md) | Spec | Reusable UI contract for coding agents covering tokens, states, responsive behavior, WCAG 2.2 AA, reduced motion, production gates, and a 16-point review scorecard. |
 
 ### Prompt Templates
 
