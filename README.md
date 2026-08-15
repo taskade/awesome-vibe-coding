@@ -622,6 +622,7 @@ Self-host and customize your vibe coding stack.
 
 | Tool | Language | Best For | Why It's Awesome |
 |------|----------|----------|------------------|
+| [agent-qa](https://github.com/vostride/agent-qa) | TypeScript | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Python | Autonomous agents | Open-source Devin alternative. Full coding agent. |
 | [Aider](https://github.com/paul-gauthier/aider) | Python | Terminal pairing | Best open-source AI pair programmer. |
 | [Continue](https://github.com/continuedev/continue) | TypeScript | IDE extension | Open-source Copilot. Use any model. |
