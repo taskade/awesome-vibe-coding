@@ -499,6 +499,7 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 | [10Web](https://10web.io/) | Paid | WordPress | AI-generated WordPress sites with hosting included. |
 | [Hostinger AI](https://www.hostinger.com/ai-website-builder) | Paid | Beginners | Simple AI website builder with hosting bundled. |
 | [Wix ADI](https://www.wix.com/adi) | Free tier | Non-technical | Answer questions, get a website. Extremely beginner-friendly. |
+| [Playcode](https://playcode.io/ai-website-builder) | Free tier | Non-technical teams | Describe a site in plain English and Playcode's AI builds it, then Playcode Cloud runs it with hosting, a database, custom domains, SSL, snapshots, and one-click rollback. Visual editing and AI chat iteration included. |
 
 ---
 
