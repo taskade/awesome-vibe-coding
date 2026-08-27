@@ -18,13 +18,12 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 📖 **[Complete Guide: What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding)** — Deep dive into the concept, workflow, and best practices.
 
-🚀 **[Try Vibe Coding Now](https://www.taskade.com/ai/coding)** — Build your first app in minutes.
+> **Updated 2026-08-27.** Contributions welcome — [open a pull request](CONTRIBUTING.md). Every entry is checked for a live URL and recent activity.
 
 ## Contents
 
 - [👋 New to Vibe Coding? Start Here](#-new-to-vibe-coding-start-here)
 - [🆕 Recently Added](#-recently-added)
-- [📊 Vibe Coding in 2026: By the Numbers](#-vibe-coding-in-2026-by-the-numbers)
 - [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
 - [AI App Builders](#ai-app-builders)
 - [AI Code Editors](#ai-code-editors)
@@ -36,10 +35,12 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [AI Database & Backend Tools](#ai-database--backend-tools)
 - [AI Automation Platforms](#ai-automation-platforms)
 - [MCP & Model Context Protocol](#mcp--model-context-protocol)
+- [Agent Skills](#agent-skills)
 - [Open Source Tools](#open-source-tools)
 - [AI Frameworks & SDKs](#ai-frameworks--sdks)
 - [Documentation & Templates](#documentation--templates)
 - [Best Practices & Workflows](#best-practices--workflows)
+- [Security & Pre-Deploy Checks](#security--pre-deploy-checks)
 - [Practical Workflows](#practical-workflows)
 - [Vibe Coding Philosophies](#vibe-coding-philosophies)
 - [Prompt Engineering](#prompt-engineering)
@@ -49,6 +50,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 - [Podcasts & YouTube](#podcasts--youtube)
 - [Showcases](#showcases)
 - [Glossary](#glossary)
+- [The Vibe Coding Philosophy](#the-vibe-coding-philosophy)
 
 ---
 
@@ -73,7 +75,7 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 **🗺️ Quick Navigation by Use Case:**
 - 🚀 [Build an app in 5 minutes](#taskade-genesis-gallery) → Taskade Genesis
-- 💻 [Code faster in my IDE](#ai-code-editors) → Cursor, Windsurf
+- 💻 [Code faster in my IDE](#ai-code-editors) → Cursor, Antigravity, Devin Desktop
 - 🤖 [Create autonomous agents](#ai-agents--autonomous-coding) → Taskade AI Agents
 - 🌐 [Generate a website](#ai-website-builders) → Taskade AI Websites
 - 🏗️ [See what others built](#taskade-genesis-gallery) → Community Gallery
@@ -85,6 +87,8 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 
 | Date | What's New |
 |------|------------|
+| **2026-08-27** | New sections: Agent Skills, Security & Pre-Deploy Checks, Agent Orchestration. New tools: OpenClaw, superpowers, Pi, Google Antigravity (IDE + CLI), Grok Build, OpenDesign, Onlook, Google Stitch, Claude Design, Headroom, Chrome DevTools MCP, Serena, codebase-memory-mcp, Beads, Gas Town, Claude Squad, oh-my-claudecode, Manus, a0.dev, gitleaks, Semgrep. Community PRs: Nhost, AgentBox, ax, AI Badger, Tree Ring Memory, Playcode, Blume, PinkCode, DevIntern, agent-qa, BuilderStudio, Vibe Coding Profiler, *Vibe Coding with Confidence*. Removed dead, archived, and renamed products. Refreshed every star count. |
+| **2026-06-02** | AI App Builder Comparison Matrix, No-Code AI Agent Builders, "Build These Without Code" table, Metain, agenttrace, Ivy Tendril, Parallel Code |
 | **2026-04-12** | CC-BY-4.0 license, Caliber (community PR), stale entry updates (Devin, Galileo), awesome.re submission prep |
 | **2026-03-21** | Taskade Genesis deep dive (Loop, 3×3, use cases, "Others vs Taskade Genesis"), 12 new glossary terms, bolt.diy, Plandex, Same.new, HeyBoss, aichat, llms.txt |
 | **2026-03-21** | Emergent, Base44, Figma Make, Context7, Cloudflare VibeSDK, CodeWords, Trending MCP Servers, Context Engineering, Business Playbook, 15+ new backlinks |
@@ -94,23 +98,6 @@ Vibe coding represents a paradigm shift: describe what you want in plain English
 | **2026-02-11** | Vibe Coding Philosophies section, Taskade Genesis Case Studies |
 | **2026-02-11** | 20+ strategic blog cross-links, comparison tables |
 | **2026-01-28** | OpenCode, Crush, Qwen Code, Kimi CLI |
-
----
-
-## 📊 Vibe Coding in 2026: By the Numbers
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  📈  85%  developers use AI coding tools regularly        ║
-║  🤖  41%  of all code is now AI-assisted                  ║
-║  💰  $2B  Cursor ARR — AI-native tools are here to stay   ║
-║  ⚡  10x  faster development cycles with vibe coding      ║
-║  🏆  MIT Technology Review: 2026 Breakthrough Technology  ║
-║  🎯  285+ tools and resources in this list                ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-*Source: [Faros AI Developer Survey 2026](https://www.faros.ai/blog/best-ai-coding-agents-2026) · [MIT Technology Review 2026](https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/) · [WorldNationWire 2026](https://worldnationwire.com/vibe-coding-2026/)*
 
 ---
 
@@ -254,8 +241,6 @@ What ships when you press deploy? [Learn more →](https://www.taskade.com/blog/
 
 ## AI App Builders
 
-* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
-
 
 Tools that generate complete applications from natural language descriptions.
 
@@ -329,14 +314,14 @@ Generate code you can own, modify, and deploy anywhere.
 | 🔥 [Lovable](https://lovable.dev) | Free tier | Full-stack apps | Generates complete React + Supabase apps. Clean, production-ready code. [Review →](https://www.taskade.com/blog/lovable-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-lovable) · [Alternatives →](https://www.taskade.com/blog/lovable-alternatives) |
 | [Replit](https://replit.com) | Free tier | Learning | Cloud IDE with AI. Zero setup, instant deployment. [Review →](https://www.taskade.com/blog/replit-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-replit) · [Alternatives →](https://www.taskade.com/blog/replit-alternatives) |
 | [Capacity](https://capacity.so/) | Free tier | Internal tools | Prompt-to-app platform for operational tools and dashboards. |
-| [CHAI.new](https://chai.new) | Free tier | AI agents | Prompt, build, and deploy agentic apps in the browser. |
+| [Command.new (formerly CHAI.new)](https://command.new) | Free tier | AI agents | Prompt, build, and deploy agentic apps in the browser. |
 | [Anything](https://www.create.xyz/) | Free tier | Rapid MVPs | 700K+ users. Autonomous "Max" mode that builds and tests apps like a user. 50+ integrations. |
 | [Emergent](https://emergent.sh) | Free tier | Full-stack apps | $50M ARR in 7 months. 5M+ users. Fastest-growing AI app builder in 2026. |
 | [Base44](https://base44.com) | Free tier | Full-stack apps | AI app builder with built-in database, auth, and hosting. Acquired by Wix. |
 | [Figma Make](https://www.figma.com/make/) | Free tier | Designers | No-code AI app builder within Figma's ecosystem. Design-to-live-app. |
 | [Tempo](https://www.tempo.new/) | Free tier | React apps | Visual React editor with AI. Edit components visually or with prompts. |
 | [Softgen](https://softgen.ai/) | Free tier | Full-stack | AI generates entire full-stack apps. Firebase and Supabase integration. |
-| [Rork](https://rork.app/) | Free tier | Mobile apps | Build React Native apps with AI. Export to Expo. |
+| [Rork](https://rork.com/) | Free tier | Mobile apps | Build React Native apps with AI. Export to Expo. |
 | [Rocket.new](https://www.rocket.new/) | Free tier | Web + mobile | Prompt-driven builder for shipping apps across platforms. |
 | [Marblism](https://www.marblism.com/) | Paid | SaaS boilerplates | Full SaaS applications with auth and payments. |
 | [Creatr](https://www.creatr.app/) | Free tier | Landing pages | AI landing page builder with beautiful templates. |
@@ -344,6 +329,8 @@ Generate code you can own, modify, and deploy anywhere.
 | [Napkins.dev](https://napkins.dev/) | Free tier | Screenshot-to-code | Turn screenshots and wireframes into working code. |
 | [Same.new](https://same.new) | Free tier | Website cloning | Clone any website and customize it with AI. Instant starting points. |
 | [HeyBoss](https://heyboss.ai) | Free tier | Full AI team | AI team (CEO, Designer, Developer) builds your app collaboratively. |
+| [Manus](https://manus.im) | Free tier | Full-stack builds | General agent with a web app builder that ships database, Stripe payments, and SEO, plus a local desktop agent. |
+| [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 
 ---
@@ -361,8 +348,9 @@ Complete development environments rebuilt for AI-first workflows.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | 🔥 [Cursor](https://cursor.com) | Free tier | Professional dev | VS Code fork with codebase-aware AI. Multi-file editing feels like magic. [Read Review →](https://www.taskade.com/blog/cursor-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-cursor) · [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
-| 🔥 [Windsurf](https://codeium.com/windsurf) | Free tier | Multi-file refactoring | Cascade AI understands your entire codebase. Runs terminal commands autonomously. [Review →](https://www.taskade.com/blog/windsurf-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-windsurf) · [Alternatives →](https://www.taskade.com/blog/windsurf-alternatives) |
-| [Trae](https://www.trae.ai/) | Free | ByteDance IDE | Next-gen IDE with dual modes and free GPT-4o/Claude-3.5. Built on VSCode with JetBrains aesthetics. |
+| 🔥 [Devin Desktop (formerly Windsurf)](https://devin.ai/desktop) | Free tier | Multi-file refactoring | Cognition renamed Windsurf to Devin Desktop in June 2026. The Cascade agent reads your whole codebase and runs terminal commands. [Review →](https://www.taskade.com/blog/windsurf-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-windsurf) · [Alternatives →](https://www.taskade.com/blog/windsurf-alternatives) |
+| 🔥 [Google Antigravity](https://antigravity.google/) | Free tier | Agent-first IDE | Google's agent-first IDE. Version 2.0 adds multi-agent orchestration, subagents, and scheduled background tasks. |
+| [Trae](https://www.trae.ai/) | Free | ByteDance IDE | Next-gen IDE with dual modes and free access to frontier models. Built on VS Code with JetBrains aesthetics. |
 | [Qoder](https://qoder.com) | Free beta | Context engineering | Alibaba's AI IDE with enhanced context understanding. Auto-generates repo wikis and documentation. |
 | [Amazon Kiro](https://kiro.dev/) | Free preview | Spec-driven dev | AWS's agentic IDE. Specs, hooks, and steering files for structured AI development. |
 | [Firebase Studio](https://firebase.studio/) | Free preview | Full-stack AI apps | Google's cloud IDE with App Prototyping agent. Natural language to deployed app. |
@@ -370,8 +358,7 @@ Complete development environments rebuilt for AI-first workflows.
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Subscription | Enterprise | AI assistant across all JetBrains IDEs. Deep language understanding. |
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
-| [PearAI](https://trypear.ai/) | Free | Open-source IDE | Open-source AI code editor built on VS Code. Community-driven with integrated chat and inline editing. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
-| [Void](https://voideditor.com/) | Free | Privacy-first IDE | Open-source Cursor alternative. Use any AI model with full local control and zero telemetry. [Alternatives →](https://www.taskade.com/blog/cursor-alternatives) |
+| [BuilderStudio](https://builderstudio.dev) | Free tier | macOS agent workspace | Native macOS workspace for coding agents with container-only execution, reusable skills, MCP integrations, parallel agents, and app previews. |
 
 ### Editor Extensions
 
@@ -381,17 +368,15 @@ Add AI superpowers to your existing editor.
 |------|---------|----------|------------------|
 | [GitHub Copilot](https://github.com/features/copilot) | $10/month | General coding | The original AI pair programmer. Best training data from GitHub. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Cline](https://github.com/cline/cline) | Free | Autonomous tasks | 4M+ installs. Full file editing, terminal commands, and browser control with human approval. |
-| [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Free | Multi-agent dev | Fork of Cline with Architect/Code/Ask modes. Multi-agent orchestration for complex projects. |
-| [Kilo Code](https://kilocode.ai/) | Free | Best of both | Superset of Cline + Roo. MCP marketplace, JetBrains support, $8M funded. |
+| [Kilo Code](https://github.com/Kilo-Org/kilocode) | Free | All-in-one agentic coding | Open-source agentic coding extension and CLI (27k+ stars). MCP marketplace, JetBrains support, and a hosted platform at kilo.ai. |
 | [SuperDesign](https://github.com/superdesigndev/superdesign) | Free | Design agent | First open-source design agent. Generates 10 UI variations in parallel inside your IDE. |
-| [Codeium](https://codeium.com/) | Free | Budget-conscious | Free alternative to Copilot. Supports 70+ languages. |
 | [Supermaven](https://supermaven.com/) | Free tier | Speed | 1M token context window. Extremely fast completions. |
 | [Tabnine](https://www.tabnine.com/) | Free tier | Privacy-focused | Can run locally. Trains on your codebase. |
 | [Amazon Q](https://aws.amazon.com/q/) | Free tier | AWS developers | Deep AWS integration. Security scanning built in. |
 | [Sourcegraph Cody](https://sourcegraph.com/cody) | Free tier | Large codebases | Best-in-class codebase understanding. Enterprise-ready. |
 | [Continue](https://continue.dev/) | Free | Open source | Open-source autopilot. Use any model, any IDE. |
 | [Augment Code](https://www.augmentcode.com/) | Free tier | Enterprise | Context-aware AI that understands your entire codebase and dependencies. |
-| [avante.nvim](https://github.com/yetone/avante.nvim) | Free | Neovim users | Cursor-like AI features for Neovim. Diff-based editing in your terminal. |
+| [avante.nvim](https://github.com/avante-corp/avante.nvim) | Free | Neovim users | Cursor-like AI features for Neovim. Diff-based editing in your terminal. |
 | [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
 | [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. [Alternatives →](https://www.taskade.com/blog/best-vibe-coding-tools) |
@@ -411,12 +396,15 @@ Full-featured coding agents that work from the command line.
 | 🔥 [Claude Code](https://github.com/anthropics/claude-code) | Usage-based | Professional dev | Anthropic's official CLI. Understands your codebase, executes tasks, handles git workflows. |
 | [OpenAI Codex CLI](https://github.com/openai/codex) | Usage-based | GPT users | OpenAI's terminal coding agent. Natural language to code execution. |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Free tier | Google ecosystem | Google's open-source AI agent. Brings Gemini directly to your terminal. |
-| [OpenCode](https://github.com/sst/opencode) | Free | Terminal-first coding | Open-source coding agent built specifically for terminal workflows. |
+| 🔥 [OpenCode](https://github.com/anomalyco/opencode) | Free | Terminal-first coding | Open-source terminal coding agent with 200k+ stars, one of the largest projects in the space. |
+| 🔥 [Pi](https://github.com/earendil-works/pi) | Free | Minimal harness | Deliberately minimal terminal coding agent: a system prompt under 1,000 tokens, no MCP, no subagents. 96k+ stars. |
+| [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | Free tier | Google ecosystem | Google's Go terminal agent with Skills, Hooks, and Subagents. Companion to the Antigravity IDE. |
+| [Grok Build](https://github.com/xai-org/grok-build) | Free | Parallel subagents | xAI's Rust TUI coding agent. 8 parallel subagents, 2M-token context, Apache-2.0. |
 | [Crush](https://github.com/charmbracelet/crush) | Free | TUI workflows | Terminal-native AI coding agent with a polished TUI experience. |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | Free | Qwen users | Open-source coding CLI optimized for Qwen coder models. |
 | [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | Free tier | Long-context workflows | CLI coding assistant with strong context handling and agent flows. |
 | 🔥 [Aider](https://aider.chat/) | Free | Git integration | Best open-source AI pair programmer. Works with any editor, commits changes. |
-| [Goose](https://github.com/block/goose) | Free | Extensibility | Block's open-source AI developer agent. Plugin system for custom tools. |
+| [Goose](https://github.com/aaif-goose/goose) | Free | Extensibility | Open-source AI developer agent (53k+ stars). Plugin system for custom tools. |
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
 | [aichat](https://github.com/sigoden/aichat) | Free | Multi-provider CLI | All-in-one LLM CLI supporting 20+ providers. Shell integration, RAG, and function calling. |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | Free | Config generation | Fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality, auto-refreshes. |
@@ -438,15 +426,26 @@ Tools for specific coding workflows.
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | [AI Badger](https://github.com/PVRLabs/aibadger) | Free | Context extraction | Local-first CLI/TUI that maps your repo and lets AI models request specific files and spans for manual paste. No API keys, telemetry, or full-repo upload. |
-| [Agent FM](https://github.com/agentfm-ai/agent-fm) | Free (BYOK) | Agent monitoring | Local macOS companion for Claude Code and Codex sessions, with Global Mix, blocker alerts, and BYOK narration. |
 | [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
-| [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
-| [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | Free | Session observability | Local TUI for auditing AI coding-agent runs, token usage, costs, tool failures, latency, anomalies, diffs, and CI gates. |
 | [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
-| [AgentBox](https://github.com/madarco/agentbox) | Free (MIT) | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
+
+---
+
+### Agent Orchestration
+
+Run many coding agents in parallel and keep them coordinated.
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Free | Claude Code teams | Teams-first multi-agent orchestration for Claude Code. 38k+ stars. |
+| [Gas Town](https://github.com/gastownhall/gastown) | Free | Agent colonies | Steve Yegge's manager for colonies of 20–30 parallel agents. Defined the "agent factory floor" idiom. |
+| [Claude Squad](https://github.com/smtg-ai/claude-squad) | Free | Terminal agents | Manage multiple terminal agents (Claude Code, Codex, OpenCode, Amp) in isolated workspaces. |
+| [AgentBox](https://github.com/madarco/agentbox) | Free | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
+| [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
+| [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
 
 ---
 
@@ -459,7 +458,6 @@ AI that automates your browser — recording workflows, triaging inboxes, fillin
 | [browser-use](https://github.com/browser-use/browser-use) | Free | Open source | Open-source browser automation for AI agents. Python-based, works with any LLM. |
 | [Bardeen](https://www.bardeen.ai/) | Free tier | No-code | AI automates repetitive browser tasks with a visual builder. Integrates with 100+ web apps. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Free | Enterprise | AI agent for browser workflows. Visual + LLM navigation for complex web tasks. |
-| [Multion](https://www.multion.ai/) | Waitlist | Personal assistant | AI that browses the web for you. Books flights, fills forms, does research. |
 
 > **Use cases:** Email triage, customer service follow-ups, competitive research, data entry, scheduled web scraping, cross-tab analysis, and QA testing.
 >
@@ -471,21 +469,22 @@ AI that automates your browser — recording workflows, triaging inboxes, fillin
 
 AI that doesn't just assist — it works independently on complex tasks. [Creating AI Agents for Coding →](https://www.taskade.com/blog/creating-ai-agents-for-coding) · [AI Agent Builders →](https://www.taskade.com/blog/ai-agent-builders) · [AI Agent Memory →](https://www.taskade.com/blog/ai-agent-memory)
 
-> **See also:** [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) (26K+ ★) for a comprehensive catalog of every AI agent project.
+> **See also:** [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) (29K+ ★) for a comprehensive catalog of every AI agent project.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
 | 🔥 [Taskade AI Agents](https://www.taskade.com/ai/agents) | Free tier | Business workflows | Persistent agents that learn continuously from your workspace DNA. Choose from Claude, GPT, or Gemini models. Create AI Teams for multi-agent collaboration. 100+ MCP connectors for tool use. Custom commands, skills, and sharing with password protection. [How to Build →](https://www.taskade.com/blog/how-to-build-ai-agents) |
 | [Devin](https://devin.ai/) | Usage-based | Full autonomy | Autonomous AI software engineer. Plans, codes, debugs, and deploys. Now generally available with usage-based pricing. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent. Run locally or in cloud. |
+| 🔥 [OpenClaw](https://github.com/openclaw/openclaw) | Free | Personal AI agent | Self-hosted, model-agnostic personal agent you drive from iMessage, WhatsApp, or Slack. MIT. The most-starred repository on GitHub (387k+). |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent (85k+ stars). Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
-| [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Free | Prototyping | Specify what you want, AI generates entire codebase. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
 | [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
-| [OpenCode](https://github.com/sst/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
+| [OpenCode](https://github.com/anomalyco/opencode) | Free | Coordination | Open-source coding agent for iterative implementation and review loops. |
 | [Parallel Code](https://github.com/johannesjo/parallel-code) | Free | Parallel local agents | Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal agents in parallel, with per-task Git worktrees, terminal panes, diff review, and merge controls. |
+| [DevIntern](https://github.com/getdevintern/devintern) | Free tier | Ticket-to-PR workflows | Turns Jira, Linear, GitHub, and other tickets into self-reviewed pull requests with the coding agent of your choice, on your machines with your own keys. |
 | [PinkCode](https://github.com/3xian/PinkCode) | Free | Grok Build GUI | Open-source desktop workspace for parallel Grok Build coding sessions with live activity, usage, file-change review, and permission controls. |
 
 ---
@@ -499,10 +498,10 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 | [Taskade AI Websites](https://www.taskade.com/ai/websites) | Free tier | Functional sites | Websites with built-in AI assistant (EVE), forms, and full workspace integration. Every app gets its own URL with custom domain and SSL. Embed AI agents trained on your data. Mobile-responsive by default. |
 | [Webflow](https://webflow.com) | Free tier | Design control | Visual builder with AI content. Professional-grade output. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-webflow) |
 | [Framer](https://www.framer.com/) | Free tier | Animations | Beautiful sites with complex interactions. AI layout suggestions. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-framer-alternative) |
-| [Durable](https://durable.co/) | Paid | Small business | Generate a complete business website in 30 seconds. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-durable-alternative) |
+| [Durable](https://durable.com/) | Paid | Small business | Generate a complete business website in 30 seconds. [Taskade Genesis Alternative →](https://www.taskade.com/compare/free-durable-alternative) |
 | [10Web](https://10web.io/) | Paid | WordPress | AI-generated WordPress sites with hosting included. |
 | [Hostinger AI](https://www.hostinger.com/ai-website-builder) | Paid | Beginners | Simple AI website builder with hosting bundled. |
-| [Wix ADI](https://www.wix.com/adi) | Free tier | Non-technical | Answer questions, get a website. Extremely beginner-friendly. |
+| [Wix AI Website Builder](https://www.wix.com/ai-website-builder) | Free tier | Non-technical | Answer questions, get a website. Extremely beginner-friendly. |
 | [Playcode](https://playcode.io/ai-website-builder) | Free tier | Non-technical teams | Describe a site in plain English and Playcode's AI builds it, then Playcode Cloud runs it with hosting, a database, custom domains, SSL, snapshots, and one-click rollback. Visual editing and AI chat iteration included. |
 
 ---
@@ -515,11 +514,14 @@ Generate UI components, not entire applications.
 |------|---------|----------|------------------|
 | 🔥 [V0](https://v0.dev) | Free tier | React/shadcn | Vercel's AI generates beautiful React components. Production-ready. [Review →](https://www.taskade.com/blog/v0-review) · [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-v0) · [Alternatives →](https://www.taskade.com/blog/v0-alternatives) |
 | [Claude Artifacts](https://claude.ai) | Free tier | Quick prototypes | Generate interactive React components in chat. |
-| [ChatGPT Canvas](https://chat.openai.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-4. |
+| [ChatGPT Canvas](https://chatgpt.com) | Plus/Team | Iteration | Edit code collaboratively with GPT-5. |
+| 🔥 [OpenDesign](https://github.com/nexu-io/open-design) | Free | Agent-driven design | Local-first, bring-your-own-key design workspace that turns your coding agent into a design engine. 91k+ stars in four months. |
+| [Onlook](https://github.com/onlook-dev/onlook) | Free | Visual React editing | Open-source "Cursor for designers". Edit a live React + Tailwind app visually; changes land in code. |
+| [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) | Subscription | Prototypes and decks | Anthropic Labs tool that turns prompts, images, and codebases into prototypes, slides, and mockups. |
 | [HeroUI Chat](https://www.heroui.chat/) | Free tier | UI generation | Generate app UIs and components from prompts with iterative refinement. |
 | [Komposo](https://www.komposo.ai/) | Free tier | UI-first | Fast, high-quality UI generation with clean code export. Top choice for designers and developers. |
 | [Banani](https://www.banani.co/) | Free tier | Visual canvas | Turns text prompts into editable UI designs on a visual canvas. Great for PMs and designers. |
-| [Galileo AI](https://www.usegalileo.ai/) | Free tier | Design systems | Generate UI designs from text. Outputs to Figma. Now generally available. |
+| [Google Stitch](https://stitch.withgoogle.com) | Free tier | Design-to-code | Google's AI design canvas (formerly Galileo AI). Exports to Figma, React, Vue, Flutter, and SwiftUI. |
 | [Uizard](https://uizard.io/) | Free tier | Wireframes | Turn sketches into editable designs. |
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
 | [Builder.io](https://www.builder.io/) | Free tier | Headless CMS | AI-powered visual editor with code export. |
@@ -538,7 +540,7 @@ Generate and manage data layers with AI.
 | [Neon](https://neon.tech/) | Free tier | Serverless Postgres | Branching databases with AI queries. |
 | [Convex](https://www.convex.dev/) | Free tier | Real-time apps | Backend-as-a-service with AI code generation. |
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
-| [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. 
+| [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
 
 ---
 
@@ -568,8 +570,8 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
 | [MCP Specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | Docs | The official protocol specification. Understand how MCP works. |
-| [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 21k+ stars. Build MCP servers and clients in Python. |
-| [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 11k+ stars. Build MCP servers and clients in TypeScript. |
+| [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 24k+ stars. Build MCP servers and clients in Python. |
+| [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 13k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
 | [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Taskade's official open-source MCP server. Connect AI coding agents to your Taskade workspace, projects, and agents. |
 | [FastMCP](https://github.com/PrefectHQ/fastmcp) | Framework | The fastest way to build MCP servers. Pythonic API that makes agent-friendly tools easy. From the creator of Prefect. |
@@ -593,10 +595,11 @@ The most popular MCP servers in 2026, ranked by community adoption.
 |--------|-------------|------------------|
 | [Context7](https://github.com/upstash/context7) | Injects version-specific library docs into AI prompts | #1 most popular MCP server. Eliminates hallucinated APIs. By Upstash. |
 | [Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Terminal control, file search, and diff editing | 26K+ weekly downloads. Supports Excel, PDF, DOCX reading. |
-| [ReactBits MCP](https://github.com/ceorkm/reactbits-mcp-server) | Access to 135+ animated React components | Smart component search with CSS and Tailwind variants. |
-| [Docfork](https://github.com/docfork/docfork) | Up-to-date docs for 10K+ libraries | ~200ms edge retrieval. Clean structured Markdown output. |
+| [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Wires agents to a live Chrome over the DevTools Protocol | Official Google server. The standard answer to "the agent cannot see what it built". 49k+ stars. |
+| [Serena](https://github.com/oraios/serena) | Symbol-level code retrieval and editing | Semantic navigation for large codebases. 28k+ stars. |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Indexes a codebase into a persistent knowledge graph | 158 languages, single binary. 40k+ stars. |
 
-> **See also:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (83K+ ★) for the comprehensive community-curated MCP server directory.
+> **See also:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (92K+ ★) for the comprehensive community-curated MCP server directory.
 
 ### MCP Design Principles
 
@@ -619,11 +622,27 @@ Tools that give AI agents persistent memory and context.
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
 | [Blume](https://blume.codes/) | Desktop context companion | Monitors coding-agent sessions, surfaces the rules, skills, and hooks shaping each run, proposes reviewable context improvements, and keeps chat history local. |
-| [Byterover Cipher](https://github.com/campfirein/cipher) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | Context compression | Compresses tool output, logs, and RAG chunks before they reach the model. About 20% fewer tokens. Library, proxy, and MCP server. 67k+ stars. |
+| [Beads](https://github.com/gastownhall/beads) | Issue and memory ledger | Version-controlled ledger for agent work so sessions resume after crashes. 26k+ stars. |
+| [Byterover CLI (formerly Cipher)](https://github.com/campfirein/byterover-cli) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer | Self-improving memory for AI agents. Learns from interactions. |
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | Agent framework | Agents with persistent memory and self-editing capabilities. |
 | [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Memory layer | Framework-agnostic Rust CLI memory layer for coding agents with local recall, forgetting, audit, and TUI workflows. |
 | [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
+
+---
+
+## Agent Skills
+
+Skills are reusable, versioned instruction packages (a `SKILL.md` file plus optional scripts) that any coding agent can load. The open [Agent Skills](https://agentskills.io) standard has contributions from Anthropic, Microsoft, and Google, and more than 40 products read the same format.
+
+| Resource | Type | Why It's Awesome |
+|----------|------|------------------|
+| [Agent Skills Specification](https://github.com/agentskills/agentskills) | Spec | The open `SKILL.md` standard. 24k+ stars. Start here to understand the format. |
+| [superpowers](https://github.com/obra/superpowers) | Skills + methodology | Agentic skills framework and software-development methodology. 277k+ stars, the second most-starred repository in this space. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Collection | Production engineering skills for coding agents from Addy Osmani. 89k+ stars. |
+| [skills.sh](https://github.com/vercel-labs/skills) | Package manager | `npx skills add owner/repo` installs a skill across 40+ agents. From Vercel Labs. 29k+ stars. |
+| [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin and skill examples for Claude Code. |
 
 ---
 
@@ -633,16 +652,12 @@ Self-host and customize your vibe coding stack.
 
 | Tool | Language | Best For | Why It's Awesome |
 |------|----------|----------|------------------|
-| [agent-qa](https://github.com/vostride/agent-qa) | TypeScript | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Python | Autonomous agents | Open-source Devin alternative. Full coding agent. |
-| [Aider](https://github.com/paul-gauthier/aider) | Python | Terminal pairing | Best open-source AI pair programmer. |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Python | Autonomous agents | Open-source Devin alternative. Full coding agent. |
+| [Aider](https://github.com/Aider-AI/aider) | Python | Terminal pairing | Best open-source AI pair programmer. |
 | [Continue](https://github.com/continuedev/continue) | TypeScript | IDE extension | Open-source Copilot. Use any model. |
-| [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Python | Code generation | Specify what you want, get a codebase. |
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Python | Computer use | AI that controls your computer through code. |
+| [Open Interpreter](https://github.com/openinterpreter/openinterpreter) | Python | Computer use | AI that controls your computer through code. |
 | [Tabby](https://github.com/TabbyML/tabby) | Rust | Self-hosted Copilot | Run your own code completion server. |
 | [Ollama](https://ollama.ai/) | Go | Local models | Run LLMs locally. Essential for private vibe coding. |
-| [PearAI](https://github.com/trypear/pearai-app) | TypeScript | Open-source IDE | Community-driven AI code editor forked from VS Code. |
-| [Void](https://github.com/voideditor/void) | TypeScript | Privacy-first IDE | Open-source Cursor alternative with zero telemetry. |
 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | TypeScript | Self-hosted Bolt | Open-source fork of Bolt.new. Run locally with any LLM provider. Community-driven. |
 | [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
@@ -660,14 +675,14 @@ Build custom AI agents and multi-agent systems. [Open source AI agents →](http
 
 | Framework | Language | Stars | Why It's Awesome |
 |-----------|----------|-------|------------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | Python | 110k+ | The most popular LLM framework. Chains, agents, RAG, and tool use. |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Python | 30k+ | Multi-agent orchestration. Assign roles, goals, and tools to AI crews. [Multi-Agent Best Practices →](https://www.taskade.com/blog/best-practices-for-building-multi-agent-ai-teams) |
-| [Dify](https://github.com/langgenius/dify) | Python/TS | 114k+ | Open-source LLMOps platform. Visual prompt engineering and agent builder. |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Python | 10k+ | Type-safe AI agent framework from the Pydantic team. Production-ready. |
-| [AutoGen](https://github.com/microsoft/autogen) | Python | 40k+ | Microsoft's multi-agent framework. Agents that chat with each other. |
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C#/Python | 25k+ | Microsoft's SDK for integrating AI into existing applications. |
-| [Claude Agent SDK](https://github.com/anthropics/claude-code) | Python/TS | Growing | Anthropic's official SDK for building custom AI agents. Progressive context disclosure and skills system. |
-| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript | 10k+ | Open-source AI agent framework. Workflows, RAG, integrations, and evals in TypeScript. |
+| [LangChain](https://github.com/langchain-ai/langchain) | Python | 144k+ | The most popular LLM framework. Chains, agents, RAG, and tool use. |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | Python | 57k+ | Multi-agent orchestration. Assign roles, goals, and tools to AI crews. [Multi-Agent Best Practices →](https://www.taskade.com/blog/best-practices-for-building-multi-agent-ai-teams) |
+| [Dify](https://github.com/langgenius/dify) | Python/TS | 153k+ | Open-source LLMOps platform. Visual prompt engineering and agent builder. |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Python | 19k+ | Type-safe AI agent framework from the Pydantic team. Production-ready. |
+| [AutoGen](https://github.com/microsoft/autogen) | Python | 60k+ | Microsoft's multi-agent framework. Agents that chat with each other. |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | C#/Python | 28k+ | Microsoft's SDK for integrating AI into existing applications. |
+| [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) | Python/TS | 8k+ | Anthropic's official SDK for building custom AI agents. Progressive context disclosure and skills system. |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript | 27k+ | Open-source AI agent framework. Workflows, RAG, integrations, and evals in TypeScript. |
 
 ### AI SDKs & Libraries
 
@@ -686,7 +701,7 @@ Measure AI coding capabilities.
 
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
-| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Benchmark | Tests AI on real GitHub issues. The standard for measuring coding ability. |
+| [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Benchmark | Tests AI on real GitHub issues. The standard for measuring coding ability. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent | Princeton's AI agent that resolves GitHub issues. Top SWE-bench performer. |
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
 | [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
@@ -707,7 +722,6 @@ Files and templates that help AI understand your codebase.
 | [Claude Code Project Configuration](https://docs.anthropic.com/en/docs/claude-code/settings#project-configuration) | Docs | Configure repository-level guidance and behavior for Claude Code. |
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
-| [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin examples for extending Claude Code capabilities. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 
 ### Prompt Templates
@@ -717,7 +731,7 @@ Reusable prompts for common vibe coding tasks.
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
 | [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Collection | 100k+ stars. Community prompts including dev-focused ones. |
+| [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
 
 ### Boilerplates & Starters
@@ -807,6 +821,34 @@ Write specifications first, then let agents implement. Rigor migrates from code 
 | **TDD as Specification** | Write tests before asking agents to implement. Tests prevent agents from "cheating" by writing code that passes trivially. | [HN Mega-Thread](https://news.ycombinator.com/item?id=46352875) |
 | **Risk Tiering** | Match verification effort to blast radius. Low-risk (UI copy) → quick review. High-risk (auth, payments) → full test suite + manual review. | Practitioner consensus |
 | **Decision Tables** | For complex business logic, define all input/output combinations in a table before implementing. Agents excel at table-to-code. | Practitioner consensus |
+
+---
+
+## Security & Pre-Deploy Checks
+
+The most common objection to vibe coding is "the app demos well and ships insecure". Run these checks before you put real users on an AI-built app. See also the [Security & Cost Terms](#security--cost-terms) glossary.
+
+### Pre-Deploy Checklist
+
+| Check | What To Do | Why It Matters |
+|-------|-----------|----------------|
+| **Secrets out of the code** | Move every key and password to environment variables. Scan the repository history. | AI scaffolds often hard-code credentials to make a demo work. |
+| **Real authorization, not placeholder auth** | Test that user A cannot read user B's records by changing an ID in the URL. | IDOR is the most common flaw in AI-generated apps. |
+| **Row-level security on** | Enable RLS in Postgres or Supabase and write a policy for every table. | Access rules then hold even when the app code has a bug. |
+| **Input validation at the edge** | Validate and size-limit every request body and query parameter on the server. | The model writes the happy path first. Hostile input comes later. |
+| **Dependency audit** | Run `npm audit`, `pip-audit`, or the equivalent, and pin versions. | AI suggests packages from training data, some of which are outdated or typosquatted. |
+| **Rate limits and cost caps** | Add rate limits on public endpoints and a hard spend cap on every AI API key. | One public form plus one unmetered key equals a surprise bill. |
+| **Agent QA pass** | Run an automated agent or a browser MCP against the deployed app before launch. | Catches the flows nobody clicked through by hand. |
+
+### Security Tools
+
+| Tool | Pricing | Best For | Why It's Awesome |
+|------|---------|----------|------------------|
+| [gitleaks](https://github.com/gitleaks/gitleaks) | Free | Secret scanning | Finds hard-coded secrets in code and git history. 28k+ stars. Runs as a pre-commit hook or in CI. |
+| [Semgrep](https://github.com/semgrep/semgrep) | Free tier | Static analysis | Fast, rule-based code scanning with thousands of community rules for injection, auth, and secrets. |
+| [agent-qa](https://github.com/vostride/agent-qa) | Free (source-available) | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
+| [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
+| [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
 
 ---
 
@@ -1088,7 +1130,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [The Neuron](https://www.theneurondaily.com/) | Daily | AI news explained simply. Great for staying current without the hype. |
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
-| [Vibe Coding Newsletter](https://www.vibecoding-newsletter.com/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+| [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
 
 ### Blogs & Writers
 
@@ -1100,7 +1142,7 @@ Individual voices shaping the vibe coding narrative.
 | [Armin Ronacher's Thoughts](https://lucumr.pocoo.org/) | Armin Ronacher | Flask/Sentry creator. Deeply practical AI coding reflections. [A Year of Vibes →](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) |
 | [Taskade Blog](https://www.taskade.com/blog) | Taskade Team | Vibe coding tutorials, AI agents, workspace architecture. [AI Agents Guide →](https://www.taskade.com/blog/agentic-ai-systems) |
 | [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) | Gergely Orosz | Senior engineering perspective on AI tools. [AI Tools Deep Dive →](https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison) |
-| [Continue Blog](https://blog.continue.dev/) | Continue Team | Open-source AI coding insights. [Vibe Engineering →](https://blog.continue.dev/from-vibe-engineering-to-continuous-ai/) |
+| [Continue Blog](https://blog.continue.dev/) | Continue Team | Open-source AI coding insights. [Chiseling: The Art of Polishing Vibe Code →](https://blog.continue.dev/chiseling-the-art-of-polishing-vibe-code) |
 | [Lenny's Newsletter](https://www.lennysnewsletter.com/) | Lenny Rachitsky | Product management meets AI. Building with agents. |
 
 ### News Sites
@@ -1189,7 +1231,6 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | App | What it does |
 |-----|--------------|
-| [Smart Feedback Form](https://www.taskade.com/share/apps/roq58dgczybbc08l) | Collects feedback, routes it to agents, and generates insights automatically. |
 | [Support Workflow](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
 | [Support Rating Dashboard](https://www.taskade.com/share/apps/f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
 | [Testimonial Portal](https://www.taskade.com/share/apps/3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
@@ -1210,7 +1251,6 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | App | What it does |
 |-----|--------------|
-| [Small Business Inventory Manager](https://www.taskade.com/share/apps/dytf0veorield4pl) | Stock levels, reorder alerts, and supplier management. |
 | [Sprint Tracker](https://www.taskade.com/share/apps/3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
 | [Project Tracker](https://www.taskade.com/share/apps/qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
 | [Team Capacity](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
@@ -1243,7 +1283,6 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 | [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
 | [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
 | [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
-| [Smart Meal Planner](https://www.taskade.com/share/apps/4doegcveur9de5xc) | Meal planning, nutrition tracking, and grocery list generation. |
 | [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
 
 > **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/community)
@@ -1261,7 +1300,6 @@ Real examples of living systems built with Workspace DNA.
 
 **Beginner-Friendly Tutorials:**
 - [Build a Finance Dashboard](https://www.taskade.com/blog/build-finance-dashboard-tutorial) — Real-time financial tracking with charts
-- [Build a Support Dashboard](https://www.taskade.com/blog/build-support-dashboard-tutorial) — Customer service hub with agent assignment
 - [Build a Room Booking System](https://www.taskade.com/blog/build-room-booking-tutorial) — Resource management with calendar integration
 - [Build a QR Code Generator](https://www.taskade.com/blog/build-qr-code-generator-tutorial) — Utility app with instant generation
 
@@ -1329,11 +1367,11 @@ Key terms in the vibe coding ecosystem.
 
 | Term | Definition |
 |------|------------|
-| **Agentic IDE** | Development environment where AI acts as an autonomous collaborator, not just an assistant. Examples: Cursor, Windsurf, Kiro. |
+| **Agentic IDE** | Development environment where AI acts as an autonomous collaborator, not just an assistant. Examples: Cursor, Antigravity, Devin Desktop, Kiro. |
 | **Agentic Workflow** | Multi-step processes where AI agents coordinate to complete complex tasks. |
 | **Code Generation** | AI producing actual source code that developers can modify and deploy. |
 | **Context Window** | The amount of text (measured in tokens) an AI can consider at once. Larger = better codebase understanding. |
-| **Human-in-the-Loop** | AI workflow where humans approve or modify AI actions before execution. Common in Cline, Roo Code. |
+| **Human-in-the-Loop** | AI workflow where humans approve or modify AI actions before execution. Common in Cline and Claude Code. |
 | **Context Engineering** | The discipline of designing the information architecture around AI agents — steering files, progressive disclosure, and context budgeting. The 2026 evolution beyond prompt engineering. |
 | **Harness Engineering** | Designing the scaffolding (tools, verification, memory) around AI models. The harness, not the model, is the 2026 bottleneck. |
 
@@ -1416,23 +1454,6 @@ This isn't a temporary trend. It's how software will be built.
 
 ---
 
-## 📢 Distribution & Promotion
-
-Want to share this list with your community? Here's a quick **distribution playbook**:
-
-- Platform-specific strategies (Hacker News, Reddit, Product Hunt, Twitter, Dev.to)
-- Optimal posting times and title formats
-- Coordinated launch plans
-- Copy-paste ready titles for each platform
-- Success metrics and tracking
-
-**Quick Links:**
-- Submit to [Hacker News](https://news.ycombinator.com/submit) (Best: Wed 8 AM EST)
-- Share on Reddit: [r/programming](https://reddit.com/r/programming), [r/vibecoding](https://reddit.com/r/vibecoding), [r/ChatGPTCoding](https://reddit.com/r/ChatGPTCoding)
-- Launch on [Product Hunt](https://www.producthunt.com/posts/awesome-vibe-coding) (Mon-Wed 12:01 AM PST)
-
----
-
 ## Contributing
 
 Contributions welcome! This awesome list is maintained by the community.
@@ -1451,10 +1472,12 @@ Found a great vibe coding tool? [Add it here](CONTRIBUTING.md)!
 
 ### Adding a Tool
 
-When adding a new tool, include:
+When adding a new tool, add one table row that includes:
 - **Pricing** — Free tier, paid, or open source
 - **Best For** — Who benefits most
 - **Why It's Awesome** — What makes it stand out (not marketing fluff)
+
+Every entry must have a live URL, a license, documentation, and a commit in the last 90 days. We close pull requests that are part of a mass submission campaign across many lists.
 
 ### Contributors
 

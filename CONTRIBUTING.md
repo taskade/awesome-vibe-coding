@@ -1,51 +1,50 @@
 # Contributing to Awesome Vibe Coding
 
-Thank you for your interest in contributing to this list!
+Thank you for your interest in this list.
 
-## Guidelines
+## What to Add
 
-### What to Add
-
-We're looking for:
-
-- **AI-powered tools** that enable building software through natural language
+- **AI-powered tools** that build software from natural language
+- **Agent infrastructure** — CLIs, orchestrators, MCP servers, skills, memory, and security tools
 - **Learning resources** that help people understand vibe coding
-- **Communities** where people discuss and share vibe coding projects
+- **Communities** where people share vibe coding projects
 
-### Quality Standards
+## Quality Bar
 
-Before submitting, please ensure:
+Every entry must meet all of these:
 
-1. **You've personally used the tool** — Only recommend what you know
-2. **It's genuinely useful** — Not just any AI tool, but ones that enable vibe coding
-3. **It's actively maintained** — No abandoned projects
-4. **The description explains why** — Don't just list it, explain the value
+1. **Live URL** — The link returns a real page today.
+2. **License and docs** — Open-source projects need a license file and a README that explains setup.
+3. **Recent activity** — A commit, release, or product update in the last 90 days.
+4. **Real value** — The description explains what the tool does and why it matters, not marketing copy.
+5. **One entry per PR** — Add one tool per pull request so we can review it quickly.
 
-### How to Submit
+## How to Submit
 
-1. Fork this repository
-2. Add your item to the appropriate category
-3. Follow the existing format:
+1. Fork this repository.
+2. Find the right section and table.
+3. Add one table row that matches the columns of that table. Most tables use:
    ```markdown
-   - [Tool Name](https://example.com) - Brief description of what it does and why it's useful.
+   | [Tool Name](https://example.com) | Free tier | Who it is for | One sentence on what it does and why it is useful. |
    ```
-4. Submit a pull request with a clear description
+4. Add the row at the bottom of the table.
+5. Open a pull request with a one-line summary.
 
-### Format Requirements
+## Format Rules
 
-- Descriptions should be concise (one sentence)
-- End descriptions with a period
-- Use title case for tool names
-- Keep alphabetical order within categories
-- Include links to reviews where available
+- One sentence per description. End it with a period.
+- Use the product's own name and capitalization.
+- Do not add badges, images, or emoji to a row.
+- Do not edit other rows in the same PR.
 
-### What NOT to Add
+## What We Close
 
-- Tools that are just chat interfaces (not specifically for building)
-- Abandoned or unmaintained projects
-- Paywalled resources without substantial free content
-- Self-promotional content without genuine value
+- Tools that are only a chat interface
+- Archived, abandoned, or unlicensed projects
+- Paywalled resources with no substantial free content
+- Entries that a bot or account submits to many unrelated lists at once
+- PRs that stay silent for 60 days after a review request
 
-## Questions?
+## Questions
 
-Open an issue if you're unsure whether something fits. We're happy to discuss!
+Open an issue if you are not sure a tool fits. Say what the tool does and link the repository.
