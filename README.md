@@ -1025,6 +1025,7 @@ Top-tier channels for learning vibe coding in 2026.
 |------|--------|------------------|
 | *AI-Assisted Programming* | Tom Taulli | Practical guide to coding with AI. |
 | *Prompt Engineering for Developers* | Various | O'Reilly coverage of prompt techniques. |
+| [*Vibe Coding with Confidence*](https://zalt.me/guides/vibe-coding) | Mahmoud Zalt | Web handbook on shipping AI-built apps beyond the demo: plan, build, debug, harden, ship, operate, scale. |
 
 ---
 
