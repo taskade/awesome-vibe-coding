@@ -434,6 +434,7 @@ Tools for specific coding workflows.
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
+| [AI Badger](https://github.com/PVRLabs/aibadger) | Free | Context extraction | Local-first CLI/TUI that maps your repo and lets AI models request specific files and spans for manual paste. No API keys, telemetry, or full-repo upload. |
 | [Agent FM](https://github.com/agentfm-ai/agent-fm) | Free (BYOK) | Agent monitoring | Local macOS companion for Claude Code and Codex sessions, with Global Mix, blocker alerts, and BYOK narration. |
 | [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Free | Project management | AI-driven task management for dev projects. Integrates with Claude. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
