@@ -439,6 +439,7 @@ Tools for specific coding workflows.
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. |
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | Free | Session observability | Local TUI for auditing AI coding-agent runs, token usage, costs, tool failures, latency, anomalies, diffs, and CI gates. |
+| [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
 | [AgentBox](https://github.com/madarco/agentbox) | Free (MIT) | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
