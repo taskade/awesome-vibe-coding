@@ -412,6 +412,7 @@ Tools for specific coding workflows.
 | [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
+| [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
 
 ---
 
