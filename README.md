@@ -340,6 +340,7 @@ Complete development environments rebuilt for AI-first workflows.
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
 | [BuilderStudio](https://builderstudio.dev) | Free tier | macOS agent workspace | Native macOS workspace for coding agents with container-only execution, reusable skills, MCP integrations, parallel agents, and app previews. |
+| [Vicoa](https://vicoa.ai) | Free, open source | Multi-agent orchestration | Agentic IDE and AI orchestrator for running a team of coding agents (Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, Hermes, and more) from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
 
 ### Editor Extensions
 
@@ -643,6 +644,7 @@ Self-host and customize your vibe coding stack.
 | [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Desktop interface for running local models. |
+| [Vicoa](https://vicoa.ai) | Python | Agentic IDE | Self-hostable AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, and Hermes from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
 
 ---
 
