@@ -602,6 +602,7 @@ Tools that give AI agents persistent memory and context.
 
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
+| [ContextStream](https://contextstream.io) | Shared project context MCP | Shared project context for Cursor, Claude Code, Codex, Grok via hosted MCP. OSS server + benchmarks. Intelligence isn’t the bottleneck. Context is. |
 | [Blume](https://blume.codes/) | Desktop context companion | Monitors coding-agent sessions, surfaces the rules, skills, and hooks shaping each run, proposes reviewable context improvements, and keeps chat history local. |
 | [Headroom](https://github.com/headroomlabs-ai/headroom) | Context compression | Compresses tool output, logs, and RAG chunks before they reach the model. About 20% fewer tokens. Library, proxy, and MCP server. 67k+ stars. |
 | [Beads](https://github.com/gastownhall/beads) | Issue and memory ledger | Version-controlled ledger for agent work so sessions resume after crashes. 26k+ stars. |
