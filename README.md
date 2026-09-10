@@ -1130,6 +1130,7 @@ Where to learn, share, and get help.
 |-----------|----------|-------|
 | [Hacker News](https://news.ycombinator.com/) | Web | Tech community. Front page for AI tool launches. |
 | [Vibehackers](https://vibehackers.io/) | Web | Community for vibe coding enthusiasts. |
+| [VibeHacker](https://vibehacker.com) | Web | Discover, review, and launch AI products with other AI builders and vibe coders. |
 | [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
 
