@@ -687,6 +687,7 @@ Measure AI coding capabilities.
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent | Princeton's AI agent that resolves GitHub issues. Top SWE-bench performer. |
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
 | [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Record/Replay | Records an agent run below the harness and replays it offline with the network off, so a failure is reproducible instead of intermittent. Forks from any checkpoint onto another model to compare decisions from identical state. |
 
 ---
 
