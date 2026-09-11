@@ -84,7 +84,7 @@ Pick the row that matches what you want to do.
 
 ## Workspace DNA: The Living Systems Architecture
 
-Some vibe coding tools return code that you deploy and maintain. Others return a running system with a database, agents, and workflows already connected. [Taskade Genesis](https://www.taskade.com/ai/apps) calls this second model Workspace DNA, and describes a workspace as three layers rather than a set of features:
+Some vibe coding tools return code that you deploy and maintain. Others return a running system with a database, agents, and workflows already connected. [Taskade Genesis](https://www.taskade.com/create) calls this second model Workspace DNA, and describes a workspace as three layers rather than a set of features:
 
 ### The Three Layers
 
@@ -171,7 +171,7 @@ Example: *"Build a customer feedback portal with AI scoring"*
 
 ### Build These Without Code
 
-Describe what you need in plain English and **Taskade Genesis** ships a working app — a database, an AI agent, and automations already wired together. Clone any live demo below and make it yours in about a minute. No developer, no setup. [Start building →](https://www.taskade.com/ai/apps)
+Describe what you need in plain English and **Taskade Genesis** ships a working app — a database, an AI agent, and automations already wired together. Clone any live demo below and make it yours in about a minute. No developer, no setup. [Start building →](https://www.taskade.com/create)
 
 | I want to… | Clone this live app | What you get — no code |
 |------------|---------------------|------------------------|
@@ -183,7 +183,7 @@ Describe what you need in plain English and **Taskade Genesis** ships a working 
 | **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
 | **Run a support desk** | [Support Agent →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
 
-Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/community)
+Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/apps)
 
 ### A Page, or a Living System?
 
@@ -231,7 +231,7 @@ The fastest way to pick: do you want **code you own and deploy yourself**, or a 
 
 | Builder | Code export | Backend included | Auth built-in | Pricing model | Cost to run a published app | Best for |
 |---------|:-----------:|:----------------:|:-------------:|---------------|------------------------------|----------|
-| 🔥 **[Taskade Genesis](https://www.taskade.com/ai/apps)** | No | ✅ Yes — workspace *is* the database | ✅ Yes — no-code sign-in | Free tier + credits | 🟢 **Zero — published apps run free** | Non-technical teams who want a living app + database + login in one place |
+| 🔥 **[Taskade Genesis](https://www.taskade.com/create)** | No | ✅ Yes — workspace *is* the database | ✅ Yes — no-code sign-in | Free tier + credits | 🟢 **Zero — published apps run free** | Non-technical teams who want a living app + database + login in one place |
 | [Bolt](https://bolt.new) | ✅ Yes | ⚠️ Partial — bring your own Supabase | ⚠️ Partial — via Supabase | Free tier + per-token | Metered (Supabase backend) | Fast full-stack MVPs you can export and self-host |
 | [Lovable](https://lovable.dev) | ✅ Yes | ⚠️ Partial — bring your own Supabase | ⚠️ Partial — via Supabase | Free tier + per-credit | Metered (Supabase backend) | Polished React apps you own, chat-built backend |
 | [Replit](https://replit.com) | ✅ Yes | ✅ Yes — native Postgres | ✅ Yes — Replit Auth | Free tier + per-seat + usage | Metered (deployment compute) | A full IDE with native DB + hosting in one place |
@@ -250,7 +250,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
-| 🔥 [Taskade Genesis](https://www.taskade.com/ai/apps) | Free tier | Teams, business apps | **Workspace DNA architecture.** One prompt = one living system with Memory (databases), Intelligence (AI agents), and Execution (workflows). 100+ integrations including Stripe payments. Build on mobile. Clone any community app. Custom domains with SSL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
+| 🔥 [Taskade Genesis](https://www.taskade.com/create) | Free tier | Teams, business apps | **Workspace DNA architecture.** One prompt = one living system with Memory (databases), Intelligence (AI agents), and Execution (workflows). 100+ integrations including Stripe payments. Build on mobile. Clone any community app. Custom domains with SSL. [Full Review →](https://www.taskade.com/blog/introducing-taskade-genesis) |
 | [Glide](https://www.glideapps.com/) | Free tier | Mobile apps | Turn spreadsheets into polished mobile apps. Great for internal tools. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-glide) |
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-softr) |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
@@ -287,7 +287,7 @@ Generate code you can own, modify, and deploy anywhere.
 | **Collaboration** | External tools needed | Real-time editing, chat, video built-in |
 | **Best For** | Developers who want code control | Teams who want working apps now |
 
-[Compare Taskade Genesis to other builders →](https://www.taskade.com/blog/best-ai-app-builders) | [Try Taskade Genesis free →](https://www.taskade.com/ai/apps)
+[Compare Taskade Genesis to other builders →](https://www.taskade.com/blog/best-ai-app-builders) | [Try Taskade Genesis free →](https://www.taskade.com/create)
 
 | Tool | Pricing | Best For | Why It's Awesome |
 |------|---------|----------|------------------|
@@ -320,7 +320,7 @@ Generate code you can own, modify, and deploy anywhere.
 
 IDEs and editors with deep AI integration for assisted development. [Compare AI coding tools →](https://www.taskade.com/blog/best-vibe-coding-tools) · [Claude Code vs Cursor vs Taskade →](https://www.taskade.com/blog/claude-code-vs-cursor-vs-taskade)
 
-> **Not a developer? Skip the IDE.** The editors below are built for engineers. If you'd rather describe an outcome and get a finished, running app — no IDE, no terminal, no git — start with [Taskade Genesis](https://www.taskade.com/ai/apps) instead. [Why non-developers pick Taskade Genesis over Cursor →](https://www.taskade.com/blog/best-cursor-alternatives)
+> **Not a developer? Skip the IDE.** The editors below are built for engineers. If you'd rather describe an outcome and get a finished, running app — no IDE, no terminal, no git — start with [Taskade Genesis](https://www.taskade.com/create) instead. [Why non-developers pick Taskade Genesis over Cursor →](https://www.taskade.com/blog/best-cursor-alternatives)
 
 ### Full IDEs
 
@@ -544,7 +544,7 @@ Connect apps and automate workflows with AI. [Advanced automation workflows →]
 
 ## MCP & Model Context Protocol
 
-The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables AI tools to connect with external data sources and services. Essential infrastructure for advanced vibe coding. [MCP Guide →](https://www.taskade.com/blog/mcp) · [OpenAPI to MCP Generator →](https://www.taskade.com/blog/openapi-to-mcp-code-generator)
+The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard that enables AI tools to connect with external data sources and services. Essential infrastructure for advanced vibe coding. [MCP Guide →](https://www.taskade.com/blog/mcp) · [Connect Claude & Cursor →](https://www.taskade.com/blog/connect-claude-cursor-mcp) · [OpenAPI to MCP Generator →](https://www.taskade.com/blog/openapi-to-mcp-code-generator)
 
 ### Official MCP Resources
 
@@ -554,7 +554,8 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 24k+ stars. Build MCP servers and clients in Python. |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 13k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
-| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Taskade's official open-source MCP server. Connect AI coding agents to your Taskade workspace, projects, and agents. |
+| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Official open-source server (`npx -y @taskade/mcp-server`) plus a hosted endpoint at [taskade.com/mcp](https://www.taskade.com/mcp) (OAuth). Connect Claude, Cursor, and other agents to a Taskade workspace. |
+| [Connect Claude & Cursor via MCP](https://www.taskade.com/blog/connect-claude-cursor-mcp) | Guide | Point Claude Desktop or Cursor at the hosted Taskade MCP server and edit a live Genesis app. |
 | [FastMCP](https://github.com/PrefectHQ/fastmcp) | Framework | The fastest way to build MCP servers. Pythonic API that makes agent-friendly tools easy. From the creator of Prefect. |
 
 ### MCP Server Collections
@@ -704,6 +705,7 @@ Files and templates that help AI understand your codebase.
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
+| [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
 
 ### Prompt Templates
 
@@ -856,7 +858,7 @@ How builders are monetizing vibe-coded apps in 2026.
 | **Internal Tools** | Replace expensive enterprise software with custom-built alternatives | Workspace DNA means apps connect to existing data instantly |
 | **AI Agent Services** | Deploy trained agents as standalone products | Train on client data, share with password protection, embed anywhere |
 
-> **Getting started:** [Build your first app](https://www.taskade.com/ai/apps) → Clone a [community template](https://www.taskade.com/community) → Customize → Deploy on your domain → Accept payments via Stripe.
+> **Getting started:** [Build your first app](https://www.taskade.com/create) → Clone an [app from the gallery](https://www.taskade.com/apps) → Customize → Deploy on your domain → Accept payments via Stripe.
 
 ---
 
@@ -1021,6 +1023,7 @@ High-signal Hacker News threads where practitioners share real-world vibe coding
 | Article | Author | Why It's Awesome |
 |---------|--------|------------------|
 | [What is Vibe Coding?](https://www.taskade.com/blog/what-is-vibe-coding) | Taskade | **The definitive guide.** Workflow, best practices, examples. |
+| [Vibe Coding Tools 2026](https://www.taskade.com/blog/vibe-coding-tools) | Taskade | Seven platforms compared, with live cloneable Genesis apps. |
 | [The Origin of Living Software](https://www.taskade.com/blog/origin-of-living-software) | Taskade | How living software replaces static apps. |
 | [Build Without Permission](https://www.taskade.com/blog/build-without-permission) | Taskade | The philosophy behind vibe coding. |
 | [How Workspace DNA Works](https://www.taskade.com/blog/how-workspace-dna-works) | Taskade | Architecture of workspace-powered apps. |
@@ -1044,6 +1047,8 @@ High-signal Hacker News threads where practitioners share real-world vibe coding
 | [Train AI Agents with Your Knowledge](https://www.taskade.com/blog/how-to-train-ai-agents-with-your-knowledge) | Intermediate | Custom knowledge bases for agents. |
 | [AI Automation Guide](https://www.taskade.com/blog/task-automation-guide) | Beginner | Automate workflows with AI. |
 | [Create Your First App](https://help.taskade.com/en/articles/11957643) | Beginner | Step-by-step Taskade Genesis tutorial. |
+| [Learn Taskade](https://www.taskade.com/learn) | Beginner | First-party tutorials, guides, and docs for Genesis, agents, and automations. |
+| [Create an app from a prompt](https://www.taskade.com/create) | Beginner | The live Taskade Genesis builder — one prompt to a running app. |
 
 ### YouTube & Video Tutorials
 
@@ -1072,6 +1077,7 @@ Channels that teach vibe coding.
 
 **Free Courses:**
 - [Learn Vibe Coding with AI Tools](https://www.mygreatlearning.com/academy/learn-for-free/courses/learn-vibe-coding-with-ai-tools) — Great Learning's free course
+- [Learn Taskade](https://www.taskade.com/learn) — Official Taskade tutorials and guides
 
 ### Podcasts
 
@@ -1108,7 +1114,8 @@ Where to learn, share, and get help.
 
 | Community | Platform | Focus |
 |-----------|----------|-------|
-| [Taskade Community](https://www.taskade.com/community) | Web | Browse and clone Taskade Genesis apps. Templates and workflows. |
+| [Taskade Apps](https://www.taskade.com/apps) | Web | Browse and clone live Taskade Genesis apps. |
+| [Taskade (@taskade)](https://www.taskade.com/@taskade) | Web | Official Taskade profile — published apps, agents, and templates. |
 | [Claude Developers Discord](https://discord.gg/anthropic) | Discord | Official Anthropic community. Claude Code help and discussion. |
 | [Cursor Discord](https://discord.gg/cursor) | Discord | Cursor-specific help. 100k+ members. |
 | [Cline Discord](https://discord.gg/cline) | Discord | Cline extension community. MCP discussions. |
@@ -1186,7 +1193,7 @@ Real-world examples of what you can build with vibe coding.
 
 ### Taskade Genesis Gallery
 
-Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/blog/community-gallery-app-store)
+Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/apps) · [How the gallery works →](https://www.taskade.com/blog/community-gallery-app-store)
 
 #### What Should I Build? (Start by Role)
 
@@ -1272,7 +1279,7 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 | [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
 | [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
 
-> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/community)
+> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/apps)
 
 | Category | Description | Explore |
 |----------|-------------|---------|
@@ -1336,19 +1343,19 @@ Key terms in the vibe coding ecosystem.
 | **Living Systems** | Applications that evolve with your data, learn from patterns, and act autonomously — Memory, Intelligence, and Execution wired as one organism. |
 | **Workspace DNA** | Architecture where your workspace (projects, databases, automations) becomes the backend for AI-generated apps. [Learn more →](https://www.taskade.com/blog/how-workspace-dna-works) |
 | **Prompt-to-App** | The workflow of generating a complete application from a single natural language prompt. |
-| **Prompt-to-System** | The next evolution beyond prompt-to-app: one prompt creates a complete system with backend, agents, and workflows — not just a UI. Pioneered by [Taskade Genesis](https://www.taskade.com/ai/apps). |
+| **Prompt-to-System** | The next evolution beyond prompt-to-app: one prompt creates a complete system with backend, agents, and workflows — not just a UI. Pioneered by [Taskade Genesis](https://www.taskade.com/create). |
 | **AI Agents** | Autonomous AI systems that can understand context, make decisions, and execute tasks without human intervention. [Learn more →](https://www.taskade.com/blog/what-are-ai-agents) |
 
 ### Taskade Genesis Terms
 
 | Term | Definition |
 |------|------------|
-| **Taskade Genesis** | Taskade's AI app builder that creates living systems from natural language. One prompt generates a complete app with Memory, Intelligence, and Execution layers pre-wired. [Try it →](https://www.taskade.com/ai/apps) |
+| **Taskade Genesis** | Taskade's AI app builder that creates living systems from natural language. One prompt generates a complete app with Memory, Intelligence, and Execution layers pre-wired. [Try it →](https://www.taskade.com/create) |
 | **The Taskade Genesis Loop** | The self-reinforcing cycle at the heart of every Taskade Genesis app: Memory feeds Intelligence → Intelligence triggers Execution → Execution writes back to Memory → system gets smarter over time. |
 | **Not Features. Organs.** | The Taskade Genesis design philosophy: projects are not documents (they're Memory), agents are not chatbots (they're Intelligence), automations are not triggers (they're Execution). Each is an organ in a living system. |
 | **Business-in-a-Box** | A complete business system built from a single Taskade Genesis prompt: CRM + Finance + Support + Content + Client Portal, all interconnected through Workspace DNA. [Learn more →](https://www.taskade.com/blog/business-in-a-box-genesis) |
 | **EVE** | Taskade's unified AI assistant that orchestrates agents, workflows, and memory across your entire workspace. Available in every Taskade Genesis app, chat, and automation. |
-| **Clone and Customize** | The Taskade Genesis workflow: browse community apps, clone any app with one click, customize it for your use case. Every cloned app inherits the original's Workspace DNA. [Browse apps →](https://www.taskade.com/community) |
+| **Clone and Customize** | The Taskade Genesis workflow: browse community apps, clone any app with one click, customize it for your use case. Every cloned app inherits the original's Workspace DNA. [Browse apps →](https://www.taskade.com/apps) |
 
 ### Development Terms
 
