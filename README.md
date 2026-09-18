@@ -625,6 +625,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Collection | Production engineering skills for coding agents from Addy Osmani. 89k+ stars. |
 | [skills.sh](https://github.com/vercel-labs/skills) | Package manager | `npx skills add owner/repo` installs a skill across 40+ agents. From Vercel Labs. 29k+ stars. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin and skill examples for Claude Code. |
+| [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
 
 ---
 
