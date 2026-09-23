@@ -884,6 +884,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 |------|---------|----------|------------------|
 | [gitleaks](https://github.com/gitleaks/gitleaks) | Free | Secret scanning | Finds hard-coded secrets in code and git history. 28k+ stars. Runs as a pre-commit hook or in CI. |
 | [Semgrep](https://github.com/semgrep/semgrep) | Free tier | Static analysis | Fast, rule-based code scanning with thousands of community rules for injection, auth, and secrets. |
+| [Prbl](https://getprbl.com) | Free scan and free GitHub Action; paid rewriter | Scanning AI-built apps | Scans a live URL or repo for the flaws AI tools ship most: hardcoded keys, dashboards that render without login, open Supabase tables. 15 rules mapped to OWASP, built from scanning 2,148 AI-built repos; the dataset is public. |
 | [agent-qa](https://github.com/vostride/agent-qa) | Free (source-available) | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
 | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
