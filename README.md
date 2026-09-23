@@ -484,6 +484,7 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 | [Hostinger AI](https://www.hostinger.com/ai-website-builder) | Paid | Beginners | Simple AI website builder with hosting bundled. |
 | [Wix AI Website Builder](https://www.wix.com/ai-website-builder) | Free tier | Non-technical | Answer questions, get a website. Built for first-time builders. |
 | [Playcode](https://playcode.io/ai-website-builder) | Free tier | Non-technical teams | Describe a site in plain English and Playcode's AI builds it, then Playcode Cloud runs it with hosting, a database, custom domains, SSL, snapshots, and one-click rollback. Visual editing and AI chat iteration included. |
+| [Figment.so](https://figment.so/ai-editor) | Free import; paid managed edits | Existing websites | Import an authorized website into a separate static copy, edit its HTML/CSS with AI, and review changes before publishing. |
 
 ---
 
