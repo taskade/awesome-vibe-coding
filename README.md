@@ -270,6 +270,7 @@ Build an AI agent or chatbot trained on your own PDFs, docs, and website — no 
 | [Chatbase](https://www.chatbase.co) | Free tier | Website chatbots | Train a support agent on your docs and embed it on your site with no coding. |
 | [Botpress](https://botpress.com) | Free tier | Omnichannel | Drag-and-drop Agent Studio with shared knowledge bases; deploy to web and messaging apps. |
 | [Dust](https://dust.tt) | Trial + paid | Connected teams | Connect Google Drive, Notion, Slack, and GitHub and spin up agents grounded in company knowledge. |
+| [Asyntai](https://asyntai.com) | Free tier | Website chatbots | Answers website visitors from your own pages, documents, and product catalog, with ready plugins for popular CMS and e-commerce platforms. |
 
 ### Code-Generating
 
