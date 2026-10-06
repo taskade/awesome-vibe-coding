@@ -412,6 +412,7 @@ Tools for specific coding workflows.
 | [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
+| [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
 
 ---
 
