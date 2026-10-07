@@ -313,6 +313,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Manus](https://manus.im) | Free tier | Full-stack builds | General agent with a web app builder that ships database, Stripe payments, and SEO, plus a local desktop agent. |
 | [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
+| [Vibld](https://vibld.com) | Free tier | Developers who want to own the code | Open-source (Apache-2.0) AI app builder that turns a prompt into a plain React, TypeScript and Vite repo you can self-host or publish to GitHub, Cloudflare or Docker. |
 
 ---
 
