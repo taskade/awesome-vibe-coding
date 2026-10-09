@@ -463,6 +463,7 @@ AI that automates your browser — recording workflows, triaging inboxes, fillin
 | [browser-use](https://github.com/browser-use/browser-use) | Free | Open source | Open-source browser automation for AI agents. Python-based, works with any LLM. |
 | [Bardeen](https://www.bardeen.ai/) | Free tier | No-code | AI automates repetitive browser tasks with a visual builder. Integrates with 100+ web apps. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Free | Enterprise | AI agent for browser workflows. Visual + LLM navigation for complex web tasks. |
+| [Drevon](https://www.drevon.dev) | Free | GTM work | Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins. |
 
 > **Use cases:** Email triage, customer service follow-ups, competitive research, data entry, scheduled web scraping, cross-tab analysis, and QA testing.
 >
