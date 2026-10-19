@@ -887,6 +887,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [agent-qa](https://github.com/vostride/agent-qa) | Free (source-available) | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
 | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
+| [SniffPup](https://sniffpup.com) | Free tier | Lovable, Bolt and Cursor builders | Passively scans a live URL for leaked keys in JavaScript, public .env and .git files, public source maps and missing security headers, and gives a copy-paste fix prompt for each issue. |
 
 ---
 
