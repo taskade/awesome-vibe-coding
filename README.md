@@ -330,6 +330,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 | [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
+| [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 
 ---
 
