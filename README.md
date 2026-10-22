@@ -427,6 +427,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [AgentBox](https://github.com/madarco/agentbox) | Free | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
+| [gitta](https://github.com/gitta-io/gitta) | Free | Parallel agent safety | Warns each agent when another agent changes code it depends on, and tests the combined work inside a git merge before changes reach the main branch. Apache-2.0. |
 
 ---
 
