@@ -522,6 +522,7 @@ Generate and manage data layers with AI.
 | [Convex](https://www.convex.dev/) | Free tier | Real-time apps | Backend-as-a-service with AI code generation. |
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
 | [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
+| [Vectoree](https://vectoree.ai/) | Pay-as-you-go ($5 credit) | Coding-agent backends | One project key gives your coding agent models, auth, Postgres and storage, set up through a skill and CLI. |
 
 ---
 
