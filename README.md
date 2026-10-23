@@ -1049,6 +1049,7 @@ High-signal Hacker News threads where practitioners share real-world vibe coding
 | [Create Your First App](https://help.taskade.com/en/articles/11957643) | Beginner | Step-by-step Taskade Genesis tutorial. |
 | [Learn Taskade](https://www.taskade.com/learn) | Beginner | First-party tutorials, guides, and docs for Genesis, agents, and automations. |
 | [Create an app from a prompt](https://www.taskade.com/create) | Beginner | The live Taskade Genesis builder — one prompt to a running app. |
+| [Вайб-Кодинг: service website tutorial (Ukrainian)](https://vibe-coding.com.ua/zrazok-saitu-posluhy-z-shi) | Beginner | Ukrainian-language service-page example with a reusable AI prompt and pre-publication checklist. |
 
 ### YouTube & Video Tutorials
 
