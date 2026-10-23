@@ -887,6 +887,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [agent-qa](https://github.com/vostride/agent-qa) | Free (source-available) | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
 | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
+| [vibe-guardrails-free](https://github.com/vibeguardrails/vibe-guardrails-free) | Free (MIT) | Cursor, Claude Code and AGENTS.md users building on Supabase | Three copy-in agent rules: keep secrets out of code and the browser, enable Supabase RLS with per-user policies, and stop the agent from deleting unrelated code. Each rule ends with a check-before-you-finish list. Ships as Cursor `.mdc`, `CLAUDE.md`, `AGENTS.md` and paste-in prompts. |
 
 ---
 
