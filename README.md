@@ -706,6 +706,7 @@ Files and templates that help AI understand your codebase.
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 | [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
+| [Loadout](https://loadout-blush.vercel.app) | Packs | Free + Pro version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md. |
 
 ### Prompt Templates
 
