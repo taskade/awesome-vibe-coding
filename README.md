@@ -340,6 +340,7 @@ Complete development environments rebuilt for AI-first workflows.
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
 | [BuilderStudio](https://builderstudio.dev) | Free tier | macOS agent workspace | Native macOS workspace for coding agents with container-only execution, reusable skills, MCP integrations, parallel agents, and app previews. |
+| [Volt](https://getvolt.dev) | Free (MIT) | Running ACP coding agents in a VS Code-based editor | Runs Claude Code, Codex, OpenCode and Kimi over ACP with hunk-level keep/undo of agent edits and a Git checkpoint every turn. |
 
 ### Editor Extensions
 
