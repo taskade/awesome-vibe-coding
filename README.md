@@ -255,6 +255,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-softr) |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | The deepest no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
+| [Flangapp AI](https://flangapp.com) | One-time licence | Agencies reselling apps | Self-hosted platform where clients turn their websites into native iOS and Android apps by describing what they want, with full source code and white-label branding. |
 
 ### No-Code AI Agent Builders
 
