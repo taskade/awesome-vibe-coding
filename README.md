@@ -1178,6 +1178,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
 | [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+| [AI Vibe Check](https://aivibecheck.beehiiv.com/?utm_source=github&utm_medium=community&utm_campaign=taskade-awesome-vibe-coding) | Daily | Free 3-minute weekday brief on new models, coding-agent updates and dev tools, with a source link on every item. |
 
 ### Blogs & Writers
 
