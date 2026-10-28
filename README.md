@@ -12,7 +12,7 @@
 
 > Building software through natural language prompts — describe what you want, and AI generates, tests, and ships the code.
 
-**350+ tools and resources · Updated 2026-08-27 · CC BY 4.0**
+**350+ tools and resources · Updated 2026-10-27 · CC BY 4.0**
 
 Vibe coding means that you describe software in plain English and AI builds it. [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined the term for a way of building where you "fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
@@ -23,6 +23,7 @@ Vibe coding means that you describe software in plain English and AI builds it. 
 ## Contents
 
 - **Start**
+  - [FAQ](#faq)
   - [Start Here](#start-here)
   - [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
 - **Build**
@@ -54,6 +55,19 @@ Vibe coding means that you describe software in plain English and AI builds it. 
   - [Glossary](#glossary)
 
 ---
+
+## FAQ
+
+| Question | Answer |
+|----------|--------|
+| What is vibe coding? | You describe the app in plain English and AI builds, tests, and ships it — a term [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined. |
+| Vibe coding vs no-code? | No-code is drag-and-drop; vibe coding is a prompt that returns a running system ([guide](https://www.taskade.com/blog/what-is-vibe-coding)). |
+| Best no-code vibe tool? | [Taskade Genesis](https://www.taskade.com/create) for a live app with data and agents; Bolt or Lovable for exported code. |
+| Where do I clone a working app? | [taskade.com/apps](https://www.taskade.com/apps) · [all categories](https://www.taskade.com/apps/categories). |
+| Want a CRM, invoice, or dashboard? | Clone [Client Connect](https://www.taskade.com/app/client-connect-dashboard-avl35iqxc8t7wk3e), [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m), or [Growth Dashboard](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu). |
+| Taskade Genesis vs Bolt or Lovable? | Code generators export source you host; Genesis ships a living app with the workspace as the database ([compare](https://www.taskade.com/blog/best-ai-app-builders)). |
+| What is Workspace DNA? | Memory, intelligence, and execution in one loop ([how it works](https://www.taskade.com/blog/how-workspace-dna-works)). |
+| Do published Genesis apps cost credits? | No — published apps run at zero credits. |
 
 ## Start Here
 
@@ -175,13 +189,13 @@ Describe what you need in plain English and **Taskade Genesis** ships a working 
 
 | I want to… | Clone this live app | What you get — no code |
 |------------|---------------------|------------------------|
-| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
-| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
-| **Track inventory** | [Inventory Management →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
-| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
-| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/share/apps/h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
-| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
-| **Run a support desk** | [Support Agent →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
+| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/app/client-connect-dashboard-avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
+| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/app/client-portal-nexus-1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
+| **Track inventory** | [Inventory Management →](https://www.taskade.com/app/inventory-management-dashboard-94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
+| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/app/team-capacity-planner-8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
+| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
+| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/app/invoice-tracker-rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
+| **Run a support desk** | [Support Agent →](https://www.taskade.com/app/support-agent-et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
 
 Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/apps)
 
@@ -1200,7 +1214,7 @@ Real-world examples of what you can build with vibe coding.
 
 ### Taskade Genesis Gallery
 
-Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/apps) · [How the gallery works →](https://www.taskade.com/blog/community-gallery-app-store)
+Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/apps) · [All categories →](https://www.taskade.com/apps/categories) · [How the gallery works →](https://www.taskade.com/blog/community-gallery-app-store)
 
 #### What Should I Build? (Start by Role)
 
@@ -1208,12 +1222,12 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | You're a… | Start with | What you get |
 |-----------|------------|--------------|
-| **Founder** | [Investor Dashboard →](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers without rebuilding slides every time |
-| **Salesperson** | [Sales Pipeline →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | Every deal and what stage it's at, so nothing slips through the cracks |
-| **Marketer** | [Content Calendar →](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | Everything you're posting this month on one simple calendar |
-| **Ops / Admin** | [Team Capacity →](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work |
-| **Support lead** | [Support Workflow →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered |
-| **People / HR** | [Recruitment Workflow →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every candidate from application to offer in one place |
+| **Founder** | [Investor Dashboard →](https://www.taskade.com/app/investor-dashboard-5q9h9ufuofnx1agv) | Show investors your key numbers without rebuilding slides every time |
+| **Salesperson** | [Sales Pipeline →](https://www.taskade.com/app/sales-pipeline-dashboard-j1n0746e1z0olf6r) | Every deal and what stage it's at, so nothing slips through the cracks |
+| **Marketer** | [Content Calendar →](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | Everything you're posting this month on one simple calendar |
+| **Ops / Admin** | [Team Capacity →](https://www.taskade.com/app/team-capacity-planner-qttq6maivthotsm4) | See who's busy and who has room before you hand out new work |
+| **Support lead** | [Support Workflow →](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered |
+| **People / HR** | [Recruitment Workflow →](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | Follow every candidate from application to offer in one place |
 
 #### Browse the Gallery by Job
 
@@ -1221,79 +1235,83 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | App | What it does |
 |-----|--------------|
-| [Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
-| [Sales Pipeline](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | See every deal and what stage it's at, so nothing slips through the cracks. |
-| [Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) | An AI helper that drafts your sales replies and follow-ups for you. |
-| [Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua) | Spot which customers are happy and which might leave before it's too late. |
-| [Client Portal Dashboard](https://www.taskade.com/share/apps/a0x7katem0zdu8vb) | Give each client their own login to check their progress and files. |
-| [Project Portal](https://www.taskade.com/share/apps/jxoj7dbpp8d2rqdo) | One shared space where clients follow every project from start to finish. |
+| [Neon CRM Dashboard](https://www.taskade.com/app/neon-crm-dashboard-nsrm12wns3e1cgni) | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
+| [Sales Pipeline](https://www.taskade.com/app/sales-pipeline-dashboard-j1n0746e1z0olf6r) | See every deal and what stage it's at, so nothing slips through the cracks. |
+| [Sales Agent Studio](https://www.taskade.com/app/sales-agent-studio-uo9fc7tfidydkdw9) | An AI helper that drafts your sales replies and follow-ups for you. |
+| [Customer Health Dashboard](https://www.taskade.com/app/customer-health-dashboard-564685gvoq7j7oua) | Spot which customers are happy and which might leave before it's too late. |
+| [Client Portal Dashboard](https://www.taskade.com/app/client-portal-dashboard-a0x7katem0zdu8vb) | Give each client their own login to check their progress and files. |
+| [Project Portal](https://www.taskade.com/app/project-portal-jxoj7dbpp8d2rqdo) | One shared space where clients follow every project from start to finish. |
 
 **Support & Success**
 
 | App | What it does |
 |-----|--------------|
-| [Support Workflow](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
-| [Support Rating Dashboard](https://www.taskade.com/share/apps/f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
-| [Testimonial Portal](https://www.taskade.com/share/apps/3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
+| [Support Workflow](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
+| [Support Rating Dashboard](https://www.taskade.com/app/support-rating-dashboard-app-f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
+| [Testimonial Portal](https://www.taskade.com/app/testimonial-portal-app-3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
 
 **Marketing & Content**
 
 | App | What it does |
 |-----|--------------|
-| [Multi-Platform Publisher](https://www.taskade.com/share/apps/qngl9kn1vwun7bag) | Multi-channel content planning with AI suggestions and auto-publishing. |
-| [Event Management Portal](https://www.taskade.com/share/apps/scv62ou1yocu3sno) | RSVPs, schedules, and vendor coordination — all from one prompt. |
-| [Campaign Planner](https://www.taskade.com/share/apps/r6lxd31ymwsthdmn) | Plan all your marketing campaigns so the team knows what's launching when. |
-| [Content Workflow](https://www.taskade.com/share/apps/hvu1z1ab0fyp9dkh) | Move every blog post or video from idea to published without losing track. |
-| [Content Calendar](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | See everything you're posting this month on one simple calendar. |
-| [Content Agent](https://www.taskade.com/share/apps/cibvdbpnmfh8ql8k) | An AI writer that drafts your posts and content for you. |
-| [Research Bot](https://www.taskade.com/share/apps/ckhj4d7yyntrkyb8) | Ask a question and get the research gathered and summarized for you. |
+| [Multi-Platform Publisher](https://www.taskade.com/app/multi-platform-publisher-qngl9kn1vwun7bag) | Multi-channel content planning with AI suggestions and auto-publishing. |
+| [Event Management Portal](https://www.taskade.com/app/event-management-portal-scv62ou1yocu3sno) | RSVPs, schedules, and vendor coordination — all from one prompt. |
+| [Campaign Planner](https://www.taskade.com/app/campaign-planning-portal-r6lxd31ymwsthdmn) | Plan all your marketing campaigns so the team knows what's launching when. |
+| [Content Workflow](https://www.taskade.com/app/content-workflow-hvu1z1ab0fyp9dkh) | Move every blog post or video from idea to published without losing track. |
+| [Content Calendar](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | See everything you're posting this month on one simple calendar. |
+| [Content Agent](https://www.taskade.com/app/content-agent-chatbot-cibvdbpnmfh8ql8k) | An AI writer that drafts your posts and content for you. |
+| [Research Bot](https://www.taskade.com/app/research-chat-bot-ckhj4d7yyntrkyb8) | Ask a question and get the research gathered and summarized for you. |
 
 **Operations & Projects**
 
 | App | What it does |
 |-----|--------------|
-| [Sprint Tracker](https://www.taskade.com/share/apps/3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
-| [Project Tracker](https://www.taskade.com/share/apps/qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
-| [Team Capacity](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
-| [Fleet Management](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr) | Keep tabs on every vehicle, its status, and when it's due for service. |
-| [Internal Docs](https://www.taskade.com/share/apps/v2tnnxhuxrihssv8) | One home for all your team's how-to guides and policies, easy to search. |
-| [License Manager](https://www.taskade.com/share/apps/rlfk7lsd3kxtla1z) | Track your software subscriptions so nothing expires or auto-renews by surprise. |
+| [Sprint Tracker](https://www.taskade.com/app/sprint-tracker-3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
+| [Project Tracker](https://www.taskade.com/app/project-flow-tracker-qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
+| [Team Capacity](https://www.taskade.com/app/team-capacity-planner-qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
+| [Fleet Management](https://www.taskade.com/app/fleet-management-dashboard-4q6dihgsjc5sttbr) | Keep tabs on every vehicle, its status, and when it's due for service. |
+| [Internal Docs](https://www.taskade.com/app/internal-docs-app-v2tnnxhuxrihssv8) | One home for all your team's how-to guides and policies, easy to search. |
+| [License Manager](https://www.taskade.com/app/license-manager-dashboard-rlfk7lsd3kxtla1z) | Track your software subscriptions so nothing expires or auto-renews by surprise. |
 
 **People & HR**
 
 | App | What it does |
 |-----|--------------|
-| [Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every job candidate from application to offer in one place. |
-| [Onboarding Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) | Walk new hires through their first-week steps so nothing gets missed. |
-| [Team Mood Pulse](https://www.taskade.com/share/apps/f94okgmxbhz6n3yy) | Check in on how your team is feeling and act before morale dips. |
+| [Recruitment Workflow](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | Follow every job candidate from application to offer in one place. |
+| [Onboarding Portal](https://www.taskade.com/app/onboarding-guide-portal-cjom1t44r0lf9diu) | Walk new hires through their first-week steps so nothing gets missed. |
+| [Team Mood Pulse](https://www.taskade.com/app/team-mood-pulse-f94okgmxbhz6n3yy) | Check in on how your team is feeling and act before morale dips. |
 
 **Founder & Finance**
 
 | App | What it does |
 |-----|--------------|
-| [Invoice Generator](https://www.taskade.com/share/apps/v71ywf2zs5bu9a5m) | Create, send, and track invoices with Stripe-ready payment flows. |
-| [Finance Tracker Dashboard](https://www.taskade.com/share/apps/tmnju1vsp3ggajo7) | Real-time financial tracking with charts and AI-powered insights. |
-| [Investor Dashboard](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers and progress without building slides each time. |
-| [Product Launch](https://www.taskade.com/share/apps/q0o0x1v413818rkg) | Line up every task for a launch so the big day goes off without a hitch. |
-| [Simple Store Manager](https://www.taskade.com/share/apps/ujtqojrsimcct6io) | Run a small online shop's products and orders without the headache. |
+| [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m) | Create, send, and track invoices with Stripe-ready payment flows. |
+| [Finance Tracker Dashboard](https://www.taskade.com/app/finance-tracker-dashboard-tmnju1vsp3ggajo7) | Real-time financial tracking with charts and AI-powered insights. |
+| [Investor Dashboard](https://www.taskade.com/app/investor-dashboard-5q9h9ufuofnx1agv) | Show investors your key numbers and progress without building slides each time. |
+| [Product Launch](https://www.taskade.com/app/product-launch-dashboard-q0o0x1v413818rkg) | Line up every task for a launch so the big day goes off without a hitch. |
+| [Simple Store Manager](https://www.taskade.com/app/simple-store-manager-ujtqojrsimcct6io) | Run a small online shop's products and orders without the headache. |
 
 **Commerce, Learning & Utilities**
 
 | App | What it does |
 |-----|--------------|
-| [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
-| [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
-| [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
-| [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
+| [Appointment Booking System](https://www.taskade.com/app/appointment-booking-system-te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
+| [Flash Deck Maker](https://www.taskade.com/app/flash-deck-maker-luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
+| [QR Code Studio](https://www.taskade.com/app/qr-code-studio-8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
+| [Tetris Builder Studio](https://www.taskade.com/apps/entertainment/tetris-builder-studio-08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
 
-> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/apps)
+> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/apps) · [All categories →](https://www.taskade.com/apps/categories)
 
-| Category | Description | Explore |
-|----------|-------------|---------|
-| Business Apps | CRMs, dashboards, project trackers | [Browse Project Management →](https://www.taskade.com/templates/project-management) |
-| Productivity Tools | Task managers, note systems, workflows | [Browse Task Management →](https://www.taskade.com/templates/task-management) |
-| AI Agents | Custom agents for specific tasks | [Browse AI Agents →](https://www.taskade.com/ai/agents) |
-| Automations | Workflow templates with integrations | [Browse Marketing Automations →](https://www.taskade.com/templates/marketing) |
+| Job in this list | Clone a kit | Browse the shelf |
+|------------------|-------------|------------------|
+| Sales & CRM | [Neon CRM](https://www.taskade.com/app/neon-crm-dashboard-nsrm12wns3e1cgni) | [CRMs](https://www.taskade.com/apps/crms) · [Sales](https://www.taskade.com/apps/sales) |
+| Support | [Support Workflow](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | [Helpdesks](https://www.taskade.com/apps/helpdesks) · [Support](https://www.taskade.com/apps/support) |
+| Marketing | [Content Calendar](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | [Marketing](https://www.taskade.com/apps/marketing) · [Content](https://www.taskade.com/apps/content) |
+| Ops | [Sprint Tracker](https://www.taskade.com/app/sprint-tracker-3ma7stybxdi5rck4) | [Operations](https://www.taskade.com/apps/operations) · [Trackers](https://www.taskade.com/apps/trackers) |
+| People / HR | [Recruitment](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | [HR](https://www.taskade.com/apps/hr) · [Recruiting](https://www.taskade.com/apps/recruiting) |
+| Founder / Finance | [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m) | [Finance](https://www.taskade.com/apps/finance) · [Invoices](https://www.taskade.com/apps/invoices) |
+| Dashboards | [Growth Dashboard](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu) | [Dashboards](https://www.taskade.com/apps/dashboards) |
+| Chatbots | [Research Bot](https://www.taskade.com/app/research-chat-bot-ckhj4d7yyntrkyb8) | [Chatbots](https://www.taskade.com/apps/chatbots) |
 
 ### Taskade Genesis Case Studies
 
