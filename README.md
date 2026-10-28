@@ -427,7 +427,6 @@ Tools for specific coding workflows.
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | Free | Session observability | Local TUI for auditing AI coding-agent runs, token usage, costs, tool failures, latency, anomalies, diffs, and CI gates. |
 | [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
-| [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
 | [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
 
 ---
@@ -461,7 +460,6 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | 🔥 [OpenClaw](https://github.com/openclaw/openclaw) | Free | Personal AI agent | Self-hosted, model-agnostic personal agent you drive from iMessage, WhatsApp, or Slack. MIT. The most-starred repository on GitHub (387k+). |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent (85k+ stars). Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
-| [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
 | [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
@@ -572,7 +570,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 24k+ stars. Build MCP servers and clients in Python. |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 13k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
-| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Official open-source server (`npx -y @taskade/mcp-server`) plus a hosted endpoint at [taskade.com/mcp](https://www.taskade.com/mcp) (OAuth). Connect Claude, Cursor, and other agents to a Taskade workspace. |
+| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Official open-source server (`npx -y @taskade/mcp-server`) plus a hosted endpoint at `taskade.com/mcp` (OAuth, returns 401 until you sign in). Connect Claude, Cursor, and other agents to a Taskade workspace. |
 | [Connect Claude & Cursor via MCP](https://www.taskade.com/blog/connect-claude-cursor-mcp) | Guide | Point Claude Desktop or Cursor at the hosted Taskade MCP server and edit a live Genesis app. |
 | [FastMCP](https://github.com/PrefectHQ/fastmcp) | Framework | The fastest way to build MCP servers. Pythonic API that makes agent-friendly tools easy. From the creator of Prefect. |
 
