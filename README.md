@@ -741,6 +741,7 @@ Files and templates that help AI understand your codebase.
 | [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
 | [agent-provider-configs](https://github.com/henrikdukefoss/agent-provider-configs) | Docs | Copy-paste base URL, key and model configs for 20 coding agents on any OpenAI- or Anthropic-compatible provider. |
 | [Vibe Coding Rules](https://github.com/getvibekits/vibe-coding-rules) | Collection | Free, MIT-licensed AGENTS.md, CLAUDE.md and Cursor rules files for 30 beginner project types, each pairing shared working rules with six stack-specific ones. |
+| [Vibe Coding Rules Starter](https://github.com/theodorecreatesco/vibe-coding-rules-starter) | Template | Free, MIT-licensed AGENTS.md, CLAUDE.md and always-on Cursor rule that make coding agents plan first, stay in scope and keep secrets and missing auth checks out of the code, plus a 10-point pre-launch security checklist (the README also links a paid full kit). |
 
 ### Prompt Templates
 
