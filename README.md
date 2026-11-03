@@ -449,6 +449,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
 | [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
 | [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
+| [Sno Station](https://github.com/sno-ai/sno-station) | Open source | Cross-vendor agent teams | Runs Codex, Claude Code, Cursor, Hermes Agent and OpenClaw as one team on your machine, so when one hits its usage limit another picks up the task and the agent that wrote the code is never the one that reviews it. |
 
 ---
 
