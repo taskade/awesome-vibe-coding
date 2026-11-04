@@ -1481,6 +1481,14 @@ When adding a new tool, add one table row that includes:
 
 Every entry must have a live URL, a license, documentation, and a commit in the last 90 days. We close pull requests that are part of a mass submission campaign across many lists.
 
+### Star, share, and cite
+
+**[Star this repo](https://github.com/taskade/awesome-vibe-coding/stargazers)** if it helped you find a tool — stars are how GitHub surfaces lists to the next builder.
+
+- **Canonical list URL:** `https://github.com/taskade/awesome-vibe-coding` (link here when you cite “awesome vibe coding”; forks are not maintained as the index).
+- **Add a tool:** [CONTRIBUTING.md](CONTRIBUTING.md) — one row, one PR, live URL required.
+- **Taskade product:** [Build an app](https://www.taskade.com/create) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP](https://github.com/taskade/mcp)
+
 ### Contributors
 
 This awesome list is maintained by [Taskade](https://www.taskade.com) with contributions from:
