@@ -656,6 +656,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin and skill examples for Claude Code. |
 | [1human](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) | Skill | Consults shared human–agent preferences and credited motion references before authorized creative tasks. |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
+| [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
 
 ---
 
