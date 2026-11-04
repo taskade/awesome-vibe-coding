@@ -12,7 +12,9 @@
 
 > Building software through natural language prompts — describe what you want, and AI generates, tests, and ships the code.
 
-**350+ tools and resources · Updated 2026-10-27 · CC BY 4.0**
+**350+ tools and resources · Updated 2026-11-04 · CC BY 4.0**
+
+**Official:** [Taskade](https://www.taskade.com) · [Build an app](https://www.taskade.com/create) · [GitHub org](https://github.com/taskade) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP server](https://github.com/taskade/mcp) · [What is vibe coding?](https://www.taskade.com/blog/what-is-vibe-coding)
 
 Vibe coding means that you describe software in plain English and AI builds it. [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined the term for a way of building where you "fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
