@@ -434,6 +434,7 @@ Tools for specific coding workflows.
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
+| [Ollav](https://ollav.app/?utm_source=taskade-awesome-vibe-coding&utm_medium=directory&utm_campaign=launch) | Free tier | Reviewing agent-built prototypes | Remote MCP server that gives coding agents a shareable review link for any HTML file and returns pinned comments with source-findable anchors so the agent can fix and republish. |
 
 ---
 
