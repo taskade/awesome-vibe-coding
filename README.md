@@ -929,6 +929,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [VibeFix](https://vibe-fixer.com) | Free check, paid fix | Live sign-up check | An AI agent signs up to your own deployed app like a new user and reports what breaks, with a screenshot. |
 | [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
 | [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
+| [Bossanova](https://bsnv.app) | Free tier | Local credential use by AI | Proprietary Windows/macOS encrypted vault with optional MCP that separates per-item AI access from approvals to use credentials in HTTPS requests or program executions. |
 
 ---
 
