@@ -1201,6 +1201,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
 | [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+| [Agentic Weekly](https://theagenticweekly.com/newsletter) | Weekly | Free Monday email on new coding agent and model releases, each with an update, try or skip call and its source, plus five use cases with prompts to paste. |
 
 ### Blogs & Writers
 
