@@ -753,6 +753,7 @@ Reusable prompts for common vibe coding tasks.
 | [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
 | [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
+| [Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts) | Collection | Verification-first prompts for AI coding agents: each one makes the agent read the code, run the tests, and show evidence before claiming the task is done. |
 
 ### Boilerplates & Starters
 
