@@ -929,6 +929,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [VibeFix](https://vibe-fixer.com) | Free check, paid fix | Live sign-up check | An AI agent signs up to your own deployed app like a new user and reports what breaks, with a screenshot. |
 | [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
 | [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
+| [supabase-security-checklist](https://github.com/patchandship/supabase-security-checklist) | Free | Supabase apps from Lovable, Bolt, Replit or Cursor | A 10 point RLS, key and storage checklist with SQL you run yourself, plus a [free passive check](https://patchandship.com/check.html?utm_source=taskade-awesome-vibe-coding&utm_medium=referral&utm_campaign=seo-links) that reads a homepage, its JS files and headers for open tables and exposed keys. |
 
 ---
 
