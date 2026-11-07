@@ -410,6 +410,7 @@ Full-featured coding agents that work from the command line.
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
 | [aichat](https://github.com/sigoden/aichat) | Free | Multi-provider CLI | All-in-one LLM CLI supporting 20+ providers. Shell integration, RAG, and function calling. |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | Free | Config generation | Fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality, auto-refreshes. |
+| [OMK](https://github.com/dmae97/omk) | Free | Multi-agent terminal coding | Open-source TypeScript multi-agent coding CLI. Switch models mid-session; finish goals only when your test passes. |
 
 ### AI-Enhanced Terminals
 
