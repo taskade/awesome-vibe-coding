@@ -12,7 +12,9 @@
 
 > Building software through natural language prompts — describe what you want, and AI generates, tests, and ships the code.
 
-**350+ tools and resources · Updated 2026-10-27 · CC BY 4.0**
+**350+ tools and resources · Updated 2026-11-04 · CC BY 4.0**
+
+**Official:** [Taskade](https://www.taskade.com) · [Build an app](https://www.taskade.com/create) · [GitHub org](https://github.com/taskade) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP server](https://github.com/taskade/mcp) · [What is vibe coding?](https://www.taskade.com/blog/what-is-vibe-coding)
 
 Vibe coding means that you describe software in plain English and AI builds it. [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined the term for a way of building where you "fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
@@ -330,6 +332,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 | [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
+| [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 
 ---
 
@@ -449,6 +452,8 @@ Run many coding agents in parallel and keep them coordinated.
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
 | [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
 | [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
+| [Joxo](https://joxo.ai) | Free tier | Teams running agents on several computers | Connects the coding agents each teammate runs on their own computer (Claude Code, Codex, Cursor, OpenCode and others) through one shared project with a task board, decisions and handoffs that carry the branch and commit.
+| [OpenTandem](https://github.com/opentandem/opentandem) | Open-source CLI | Agents across several computers | Connects the computers you run Claude Code, Codex, OpenCode and 15 more agent CLIs on, so you can start, switch, and follow tasks from your phone. |
 | [SpaceApp](https://github.com/oll4com/spaceapp) | Free | Self-hosted agent rooms | Self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side as terminal panes in persistent rooms, each on your own account and reachable from a computer or phone. |
 
 ---
@@ -548,6 +553,7 @@ Generate and manage data layers with AI.
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
 | [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
 | [Vectoree](https://vectoree.ai/) | Pay-as-you-go ($5 credit) | Coding-agent backends | One project key gives your coding agent models, auth, Postgres and storage, set up through a skill and CLI. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Free tier | Agent-provisioned Postgres | Managed Postgres that you or a coding agent can create from the terminal with `npx create-db@latest`, no account needed, and use with Prisma ORM. |
 
 ---
 
@@ -676,6 +682,7 @@ Self-host and customize your vibe coding stack.
 | [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Desktop interface for running local models. |
+| [Vicoa](https://vicoa.ai) | Python | Agentic IDE | Self-hostable AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, and Hermes from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
 
 ---
 
@@ -752,6 +759,7 @@ Reusable prompts for common vibe coding tasks.
 | [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
 | [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
+| [Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts) | Collection | Verification-first prompts for AI coding agents: each one makes the agent read the code, run the tests, and show evidence before claiming the task is done. |
 
 ### Boilerplates & Starters
 
@@ -928,6 +936,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [VibeFix](https://vibe-fixer.com) | Free check, paid fix | Live sign-up check | An AI agent signs up to your own deployed app like a new user and reports what breaks, with a screenshot. |
 | [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
 | [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
+| [Bossanova](https://bsnv.app) | Free tier | Local credential use by AI | Proprietary Windows/macOS encrypted vault with optional MCP that separates per-item AI access from approvals to use credentials in HTTPS requests or program executions. |
 
 ---
 
@@ -1479,6 +1488,14 @@ When adding a new tool, add one table row that includes:
 - **Why It's Awesome** — What makes it stand out (not marketing fluff)
 
 Every entry must have a live URL, a license, documentation, and a commit in the last 90 days. We close pull requests that are part of a mass submission campaign across many lists.
+
+### Star, share, and cite
+
+**[Star this repo](https://github.com/taskade/awesome-vibe-coding/stargazers)** if it helped you find a tool — stars are how GitHub surfaces lists to the next builder.
+
+- **Canonical list URL:** `https://github.com/taskade/awesome-vibe-coding` (link here when you cite “awesome vibe coding”; forks are not maintained as the index).
+- **Add a tool:** [CONTRIBUTING.md](CONTRIBUTING.md) — one row, one PR, live URL required.
+- **Taskade product:** [Build an app](https://www.taskade.com/create) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP](https://github.com/taskade/mcp)
 
 ### Contributors
 
