@@ -955,6 +955,7 @@ Master the art of talking to AI. [AI Prompt Engineering Guide →](https://www.t
 | [Learn Prompting](https://learnprompting.org/) | Course | Free course that covers the whole topic. |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/) | Guide | Research-backed techniques. |
 | [Brex Prompt Engineering](https://github.com/brexhq/prompt-engineering) | Guide | Real-world production prompts. |
+| [AI Package Hallucination Exercise](https://ransomleak.com/exercises/invented-dependency/) | Course | Free browser exercise that shows how an npm package invented by an AI assistant can run an attacker's install script, and how to verify one first. |
 
 ### Prompt Tools
 
