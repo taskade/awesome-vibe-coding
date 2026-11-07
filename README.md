@@ -332,6 +332,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 | [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
+| [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 
 ---
 
@@ -451,6 +452,10 @@ Run many coding agents in parallel and keep them coordinated.
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
 | [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
 | [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
+| [Joxo](https://joxo.ai) | Free tier | Teams running agents on several computers | Connects the coding agents each teammate runs on their own computer (Claude Code, Codex, Cursor, OpenCode and others) through one shared project with a task board, decisions and handoffs that carry the branch and commit.
+| [OpenTandem](https://github.com/opentandem/opentandem) | Open-source CLI | Agents across several computers | Connects the computers you run Claude Code, Codex, OpenCode and 15 more agent CLIs on, so you can start, switch, and follow tasks from your phone. |
+| [SpaceApp](https://github.com/oll4com/spaceapp) | Free | Self-hosted agent rooms | Self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side as terminal panes in persistent rooms, each on your own account and reachable from a computer or phone. |
+| [Sno Station](https://github.com/sno-ai/sno-station) | Open source | Cross-vendor agent teams | Runs Codex, Claude Code, Cursor, Hermes Agent and OpenClaw as one team on your machine, so when one hits its usage limit another picks up the task and the agent that wrote the code is never the one that reviews it. |
 
 ---
 
@@ -549,6 +554,7 @@ Generate and manage data layers with AI.
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
 | [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
 | [Vectoree](https://vectoree.ai/) | Pay-as-you-go ($5 credit) | Coding-agent backends | One project key gives your coding agent models, auth, Postgres and storage, set up through a skill and CLI. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Free tier | Agent-provisioned Postgres | Managed Postgres that you or a coding agent can create from the terminal with `npx create-db@latest`, no account needed, and use with Prisma ORM. |
 
 ---
 
@@ -641,6 +647,7 @@ Tools that give AI agents persistent memory and context.
 | [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Memory layer | Framework-agnostic Rust CLI memory layer for coding agents with local recall, forgetting, audit, and TUI workflows. |
 | [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
 | [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Memory layer | Hosted long-term memory for coding agents over MCP, shared across Claude Code, Cursor, VS Code and Codex; rating a recalled memory as helpful or misleading re-ranks what comes back next. |
+| [Cloud Alter Ego](https://cloudalterego.cafeboon.com) | Context connector over MCP | Remote MCP connector that gives every AI chat your rules, profile and work history, stored as plain Markdown files in your own OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. |
 
 ---
 
@@ -658,6 +665,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin and skill examples for Claude Code. |
 | [1human](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) | Skill | Consults shared human–agent preferences and credited motion references before authorized creative tasks. |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
+| [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
 
 ---
 
@@ -677,6 +685,7 @@ Self-host and customize your vibe coding stack.
 | [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Desktop interface for running local models. |
+| [Vicoa](https://vicoa.ai) | Python | Agentic IDE | Self-hostable AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, and Hermes from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
 
 ---
 
@@ -753,6 +762,7 @@ Reusable prompts for common vibe coding tasks.
 | [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
 | [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
+| [Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts) | Collection | Verification-first prompts for AI coding agents: each one makes the agent read the code, run the tests, and show evidence before claiming the task is done. |
 
 ### Boilerplates & Starters
 
@@ -929,6 +939,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [VibeFix](https://vibe-fixer.com) | Free check, paid fix | Live sign-up check | An AI agent signs up to your own deployed app like a new user and reports what breaks, with a screenshot. |
 | [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
 | [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
+| [Bossanova](https://bsnv.app) | Free tier | Local credential use by AI | Proprietary Windows/macOS encrypted vault with optional MCP that separates per-item AI access from approvals to use credentials in HTTPS requests or program executions. |
 
 ---
 
@@ -947,6 +958,7 @@ Master the art of talking to AI. [AI Prompt Engineering Guide →](https://www.t
 | [Learn Prompting](https://learnprompting.org/) | Course | Free course that covers the whole topic. |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/) | Guide | Research-backed techniques. |
 | [Brex Prompt Engineering](https://github.com/brexhq/prompt-engineering) | Guide | Real-world production prompts. |
+| [AI Package Hallucination Exercise](https://ransomleak.com/exercises/invented-dependency/) | Course | Free browser exercise that shows how an npm package invented by an AI assistant can run an attacker's install script, and how to verify one first. |
 
 ### Prompt Tools
 
@@ -1201,6 +1213,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
 | [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+| [Devtoolwatch](https://www.devtoolwatch.com/) | Weekly | Ranks AI coding agents, MCP servers and other AI dev tools by new GitHub stars and npm/PyPI download growth. |
 | [Agentic Weekly](https://theagenticweekly.com/newsletter) | Weekly | Free Monday email on new coding agent and model releases, each with an update, try or skip call and its source, plus five use cases with prompts to paste. |
 
 ### Blogs & Writers
