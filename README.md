@@ -12,7 +12,9 @@
 
 > Building software through natural language prompts — describe what you want, and AI generates, tests, and ships the code.
 
-**350+ tools and resources · Updated 2026-08-27 · CC BY 4.0**
+**350+ tools and resources · Updated 2026-11-04 · CC BY 4.0**
+
+**Official:** [Taskade](https://www.taskade.com) · [Build an app](https://www.taskade.com/create) · [GitHub org](https://github.com/taskade) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP server](https://github.com/taskade/mcp) · [What is vibe coding?](https://www.taskade.com/blog/what-is-vibe-coding)
 
 Vibe coding means that you describe software in plain English and AI builds it. [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined the term for a way of building where you "fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 
@@ -23,6 +25,7 @@ Vibe coding means that you describe software in plain English and AI builds it. 
 ## Contents
 
 - **Start**
+  - [FAQ](#faq)
   - [Start Here](#start-here)
   - [Workspace DNA: The Living Systems Architecture](#workspace-dna-the-living-systems-architecture)
 - **Build**
@@ -54,6 +57,19 @@ Vibe coding means that you describe software in plain English and AI builds it. 
   - [Glossary](#glossary)
 
 ---
+
+## FAQ
+
+| Question | Answer |
+|----------|--------|
+| What is vibe coding? | You describe the app in plain English and AI builds, tests, and ships it — a term [Andrej Karpathy](https://twitter.com/karpathy/status/1886192184808149383) coined. |
+| Vibe coding vs no-code? | No-code is drag-and-drop; vibe coding is a prompt that returns a running system ([guide](https://www.taskade.com/blog/what-is-vibe-coding)). |
+| Best no-code vibe tool? | [Taskade Genesis](https://www.taskade.com/create) for a live app with data and agents; Bolt or Lovable for exported code. |
+| Where do I clone a working app? | [taskade.com/apps](https://www.taskade.com/apps) · [all categories](https://www.taskade.com/apps/categories). |
+| Want a CRM, invoice, or dashboard? | Clone [Client Connect](https://www.taskade.com/app/client-connect-dashboard-avl35iqxc8t7wk3e), [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m), or [Growth Dashboard](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu). |
+| Taskade Genesis vs Bolt or Lovable? | Code generators export source you host; Genesis ships a living app with the workspace as the database ([compare](https://www.taskade.com/blog/best-ai-app-builders)). |
+| What is Workspace DNA? | Memory, intelligence, and execution in one loop ([how it works](https://www.taskade.com/blog/how-workspace-dna-works)). |
+| Do published Genesis apps cost credits? | No — published apps run at zero credits. |
 
 ## Start Here
 
@@ -175,13 +191,13 @@ Describe what you need in plain English and **Taskade Genesis** ships a working 
 
 | I want to… | Clone this live app | What you get — no code |
 |------------|---------------------|------------------------|
-| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
-| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
-| **Track inventory** | [Inventory Management →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
-| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
-| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/share/apps/h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
-| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
-| **Run a support desk** | [Support Agent →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
+| **Run a CRM** | [Client Connect Dashboard →](https://www.taskade.com/app/client-connect-dashboard-avl35iqxc8t7wk3e) | A contact database and pipeline stages, plus an agent that logs activity and drafts follow-ups |
+| **Give clients their own login** | [Client Portal Nexus →](https://www.taskade.com/app/client-portal-nexus-1s4lv2y3jb9z7zpf) | A branded portal where each client signs in to see their own tracking, docs, and updates |
+| **Track inventory** | [Inventory Management →](https://www.taskade.com/app/inventory-management-dashboard-94o8cjl33yz7z8ke) | Stock levels with low-stock alerts that email your suppliers automatically |
+| **Build an internal tool** | [Team Capacity Planner →](https://www.taskade.com/app/team-capacity-planner-8oye4ehejlokelxb) | A who's-doing-what database your whole team updates together in real time |
+| **Stand up a dashboard** | [Growth Dashboard →](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu) | Live metrics shown as charts, lists, and boards over one shared database |
+| **Send invoices and chase payment** | [Invoice Tracker →](https://www.taskade.com/app/invoice-tracker-rsltpd5cegha5ulc) | Hours, rates, and earnings tracked — with automatic payment follow-ups |
+| **Run a support desk** | [Support Agent →](https://www.taskade.com/app/support-agent-et6hqn2e00ayy26n) | 24/7 AI triage trained on your docs that routes tickets and flags what needs a human |
 
 Every one is a **living system, not a static page** — the workspace is the database, agents read and act on it, and automations run on their own. Published Taskade Genesis apps consume **zero credits** to run. [Browse the full gallery →](https://www.taskade.com/apps)
 
@@ -255,6 +271,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Softr](https://www.softr.io/) | Free tier | Client portals | Build apps from Airtable or Google Sheets. Strong on permissions. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-softr) |
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | The deepest no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
+| [Flangapp AI](https://flangapp.com) | One-time licence | Agencies reselling apps | Self-hosted platform where clients turn their websites into native iOS and Android apps by describing what they want, with full source code and white-label branding. |
 
 ### No-Code AI Agent Builders
 
@@ -270,6 +287,7 @@ Build an AI agent or chatbot trained on your own PDFs, docs, and website — no 
 | [Chatbase](https://www.chatbase.co) | Free tier | Website chatbots | Train a support agent on your docs and embed it on your site with no coding. |
 | [Botpress](https://botpress.com) | Free tier | Omnichannel | Drag-and-drop Agent Studio with shared knowledge bases; deploy to web and messaging apps. |
 | [Dust](https://dust.tt) | Trial + paid | Connected teams | Connect Google Drive, Notion, Slack, and GitHub and spin up agents grounded in company knowledge. |
+| [Asyntai](https://asyntai.com) | Free tier | Website chatbots | Answers website visitors from your own pages, documents, and product catalog, with ready plugins for popular CMS and e-commerce platforms. |
 
 ### Code-Generating
 
@@ -313,6 +331,8 @@ Generate code you can own, modify, and deploy anywhere.
 | [Manus](https://manus.im) | Free tier | Full-stack builds | General agent with a web app builder that ships database, Stripe payments, and SEO, plus a local desktop agent. |
 | [a0.dev](https://a0.dev) | Free tier | Mobile apps | Prompt to React Native/Expo app with one-click App Store publishing. |
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
+| [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
+| [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 | [Massvai](https://massvai.com) | Free tier | Next.js developers | Prompt-to-app builder that generates an exportable Next.js, TypeScript and Supabase codebase with live preview, GitHub sync and one-click Vercel deploy. |
 
 ---
@@ -341,6 +361,7 @@ Complete development environments rebuilt for AI-first workflows.
 | [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Subscription | .NET developers | Tight integration with Microsoft ecosystem. |
 | [Dyad](https://www.dyad.sh/) | Free | Local-first | Privacy-focused AI app builder. Run entirely on your machine. |
 | [BuilderStudio](https://builderstudio.dev) | Free tier | macOS agent workspace | Native macOS workspace for coding agents with container-only execution, reusable skills, MCP integrations, parallel agents, and app previews. |
+| [Volt](https://getvolt.dev) | Free (MIT) | Running ACP coding agents in a VS Code-based editor | Runs Claude Code, Codex, OpenCode and Kimi over ACP with hunk-level keep/undo of agent edits and a Git checkpoint every turn. |
 
 ### Editor Extensions
 
@@ -362,6 +383,7 @@ Add AI to the editor you already use.
 | [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
 | [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. [Alternatives →](https://www.taskade.com/blog/best-vibe-coding-tools) |
+| [Agent Standup](https://github.com/Atoll92/agent-standup) | Free | Watching parallel agents | MIT-licensed VS Code extension (also a CLI and macOS app) that shows Claude Code, Codex and Mistral Vibe sessions as a live team call: who is working, stuck, or waiting for you, with tokens per agent. |
 
 ---
 
@@ -412,7 +434,8 @@ Tools for specific coding workflows.
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | Free | Session observability | Local TUI for auditing AI coding-agent runs, token usage, costs, tool failures, latency, anomalies, diffs, and CI gates. |
 | [ax](https://github.com/Necmttn/ax) | Free | Session observability | Local telemetry and recall graph for Claude Code, Codex, Cursor, OpenCode, and Pi sessions, tools, skills, and cost. |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
-| [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer. Handles issues and creates PRs automatically. |
+| [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
+| [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
 
 ---
 
@@ -428,6 +451,14 @@ Run many coding agents in parallel and keep them coordinated.
 | [AgentBox](https://github.com/madarco/agentbox) | Free | Parallel agent sandboxes | Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud. Sub-1s checkpoints; git creds stay on host. |
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
+| [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
+| [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
+| [Joxo](https://joxo.ai) | Free tier | Teams running agents on several computers | Connects the coding agents each teammate runs on their own computer (Claude Code, Codex, Cursor, OpenCode and others) through one shared project with a task board, decisions and handoffs that carry the branch and commit.
+| [OpenTandem](https://github.com/opentandem/opentandem) | Open-source CLI | Agents across several computers | Connects the computers you run Claude Code, Codex, OpenCode and 15 more agent CLIs on, so you can start, switch, and follow tasks from your phone. |
+| [SpaceApp](https://github.com/oll4com/spaceapp) | Free | Self-hosted agent rooms | Self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side as terminal panes in persistent rooms, each on your own account and reachable from a computer or phone. |
+| [Sno Station](https://github.com/sno-ai/sno-station) | Open source | Cross-vendor agent teams | Runs Codex, Claude Code, Cursor, Hermes Agent and OpenClaw as one team on your machine, so when one hits its usage limit another picks up the task and the agent that wrote the code is never the one that reviews it. |
+| [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Free | Parallel worktrees | Open-source desktop app for macOS, Windows and Linux where an orchestrator agent splits work across Claude Code, Codex, Cursor and 35+ other coding agents, each in its own git worktree, and a Kanban board tracks every PR through CI and review. |
+| [Frink](https://github.com/benord-labs/frink) | Free | Agent orchestration | Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. |
 
 ---
 
@@ -444,7 +475,6 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | 🔥 [OpenClaw](https://github.com/openclaw/openclaw) | Free | Personal AI agent | Self-hosted, model-agnostic personal agent you drive from iMessage, WhatsApp, or Slack. MIT. The most-starred repository on GitHub (387k+). |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | Free | Open source Devin | Open-source autonomous coding agent (85k+ stars). Run locally or in cloud. |
 | [Aider](https://aider.chat/) | Free | Terminal users | AI pair programming in your terminal. Works with any editor. |
-| [Sweep](https://sweep.dev/) | Free tier | GitHub PRs | AI junior developer that handles issues and creates PRs. |
 | [Codegen](https://www.codegen.com/) | Beta | Enterprise | AI agents for large-scale codebase changes. |
 | [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | Subscription | GitHub-native workflows | Issue-to-PR agent. Reads your repo, proposes a plan, implements changes, and opens a pull request — all from a GitHub issue. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Jules](https://jules.google/) | Free preview | Async bug fixes | Google's autonomous coding agent. Handles GitHub issues asynchronously with multi-step planning and execution. [Alternatives →](https://www.taskade.com/blog/devin-ai-alternatives) |
@@ -452,6 +482,8 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [Parallel Code](https://github.com/johannesjo/parallel-code) | Free | Parallel local agents | Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal agents in parallel, with per-task Git worktrees, terminal panes, diff review, and merge controls. |
 | [DevIntern](https://github.com/getdevintern/devintern) | Free tier | Ticket-to-PR workflows | Turns Jira, Linear, GitHub, and other tickets into self-reviewed pull requests with the coding agent of your choice, on your machines with your own keys. |
 | [PinkCode](https://github.com/3xian/PinkCode) | Free | Grok Build GUI | Open-source desktop workspace for parallel Grok Build coding sessions with live activity, usage, file-change review, and permission controls. |
+| [Orbi](https://orbi.build/?ref=awesome-vibe-coding) | Free (self-hosted) | GitHub issue to release | Takes a GitHub Issue labelled ai-ready to a pull request, has a separate review session check it against the acceptance criteria, merges only reviewed work, and cuts a tagged release. |
+| [Buddy](https://buddy.works/docs/ai-agents) | Free tier | Agents in CI/CD | Runs Claude Code, Codex, Cursor, and other coding agents as pipeline actions on events such as an opened pull request, or in isolated cloud sandboxes with your repository fetched in. |
 
 ---
 
@@ -464,6 +496,7 @@ AI that automates your browser — recording workflows, triaging inboxes, fillin
 | [browser-use](https://github.com/browser-use/browser-use) | Free | Open source | Open-source browser automation for AI agents. Python-based, works with any LLM. |
 | [Bardeen](https://www.bardeen.ai/) | Free tier | No-code | AI automates repetitive browser tasks with a visual builder. Integrates with 100+ web apps. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Free | Enterprise | AI agent for browser workflows. Visual + LLM navigation for complex web tasks. |
+| [Drevon](https://www.drevon.dev) | Free | GTM work | Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins. |
 
 > **Use cases:** Email triage, customer service follow-ups, competitive research, data entry, scheduled web scraping, cross-tab analysis, and QA testing.
 >
@@ -485,6 +518,7 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 | [Hostinger AI](https://www.hostinger.com/ai-website-builder) | Paid | Beginners | Simple AI website builder with hosting bundled. |
 | [Wix AI Website Builder](https://www.wix.com/ai-website-builder) | Free tier | Non-technical | Answer questions, get a website. Built for first-time builders. |
 | [Playcode](https://playcode.io/ai-website-builder) | Free tier | Non-technical teams | Describe a site in plain English and Playcode's AI builds it, then Playcode Cloud runs it with hosting, a database, custom domains, SSL, snapshots, and one-click rollback. Visual editing and AI chat iteration included. |
+| [Figment.so](https://figment.so/ai-editor) | Free import; paid managed edits | Existing websites | Import an authorized website into a separate static copy, edit its HTML/CSS with AI, and review changes before publishing. |
 
 ---
 
@@ -523,6 +557,8 @@ Generate and manage data layers with AI.
 | [Convex](https://www.convex.dev/) | Free tier | Real-time apps | Backend-as-a-service with AI code generation. |
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
 | [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
+| [Vectoree](https://vectoree.ai/) | Pay-as-you-go ($5 credit) | Coding-agent backends | One project key gives your coding agent models, auth, Postgres and storage, set up through a skill and CLI. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Free tier | Agent-provisioned Postgres | Managed Postgres that you or a coding agent can create from the terminal with `npx create-db@latest`, no account needed, and use with Prisma ORM. |
 
 ---
 
@@ -555,7 +591,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | SDK | 24k+ stars. Build MCP servers and clients in Python. |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | SDK | 13k+ stars. Build MCP servers and clients in TypeScript. |
 | [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Tool | Visual testing tool for MCP servers. Debug your integrations. |
-| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Official open-source server (`npx -y @taskade/mcp-server`) plus a hosted endpoint at [taskade.com/mcp](https://www.taskade.com/mcp) (OAuth). Connect Claude, Cursor, and other agents to a Taskade workspace. |
+| [Taskade MCP](https://github.com/taskade/mcp) | Tooling | Official open-source server (`npx -y @taskade/mcp-server`) plus a hosted endpoint at `taskade.com/mcp` (OAuth, returns 401 until you sign in). Connect Claude, Cursor, and other agents to a Taskade workspace. |
 | [Connect Claude & Cursor via MCP](https://www.taskade.com/blog/connect-claude-cursor-mcp) | Guide | Point Claude Desktop or Cursor at the hosted Taskade MCP server and edit a live Genesis app. |
 | [FastMCP](https://github.com/PrefectHQ/fastmcp) | Framework | The fastest way to build MCP servers. Pythonic API that makes agent-friendly tools easy. From the creator of Prefect. |
 
@@ -604,14 +640,18 @@ Tools that give AI agents persistent memory and context.
 
 | Tool | Type | Why It's Awesome |
 |------|------|------------------|
+| [ContextStream](https://contextstream.io) | Shared project context MCP | Shared project context for Cursor, Claude Code, Codex, Grok via hosted MCP. OSS server + benchmarks. Intelligence isn’t the bottleneck. Context is. |
 | [Blume](https://blume.codes/) | Desktop context companion | Monitors coding-agent sessions, surfaces the rules, skills, and hooks shaping each run, proposes reviewable context improvements, and keeps chat history local. |
 | [Headroom](https://github.com/headroomlabs-ai/headroom) | Context compression | Compresses tool output, logs, and RAG chunks before they reach the model. About 20% fewer tokens. Library, proxy, and MCP server. 67k+ stars. |
 | [Beads](https://github.com/gastownhall/beads) | Issue and memory ledger | Version-controlled ledger for agent work so sessions resume after crashes. 26k+ stars. |
+| [TASKS.md](https://github.com/taskade/tasks.md) | Build ledger | What was asked, decided, and built with evidence. Next session starts from the file, not from memory. |
 | [Byterover CLI (formerly Cipher)](https://github.com/campfirein/byterover-cli) | Memory layer | Open-source memory for coding agents. Works with Claude Code, Cursor, Cline, and more. |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer | Self-improving memory for AI agents. Learns from interactions. |
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | Agent framework | Agents with persistent memory and self-editing capabilities. |
 | [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Memory layer | Framework-agnostic Rust CLI memory layer for coding agents with local recall, forgetting, audit, and TUI workflows. |
 | [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
+| [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Memory layer | Hosted long-term memory for coding agents over MCP, shared across Claude Code, Cursor, VS Code and Codex; rating a recalled memory as helpful or misleading re-ranks what comes back next. |
+| [Cloud Alter Ego](https://cloudalterego.cafeboon.com) | Context connector over MCP | Remote MCP connector that gives every AI chat your rules, profile and work history, stored as plain Markdown files in your own OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. |
 
 ---
 
@@ -622,10 +662,14 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
 | [Agent Skills Specification](https://github.com/agentskills/agentskills) | Spec | The open `SKILL.md` standard. 24k+ stars. Start here to understand the format. |
+| [TASKS.md](https://github.com/taskade/tasks.md) | Spec + skill | The build ledger a coding agent keeps. What was asked, decided, and built with evidence. `npx skills add taskade/tasks.md`. |
 | [superpowers](https://github.com/obra/superpowers) | Skills + methodology | Agentic skills framework and software-development methodology. 277k+ stars, the second most-starred repository in this space. |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Collection | Production engineering skills for coding agents from Addy Osmani. 89k+ stars. |
 | [skills.sh](https://github.com/vercel-labs/skills) | Package manager | `npx skills add owner/repo` installs a skill across 40+ agents. From Vercel Labs. 29k+ stars. |
 | [Claude Code Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | Examples | Official plugin and skill examples for Claude Code. |
+| [1human](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) | Skill | Consults shared human–agent preferences and credited motion references before authorized creative tasks. |
+| [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
+| [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
 
 ---
 
@@ -645,6 +689,7 @@ Self-host and customize your vibe coding stack.
 | [Plandex](https://github.com/plandex-ai/plandex) | Go | Complex projects | 2M token context. Multi-file planning and implementation with version control built in. |
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Desktop interface for running local models. |
+| [Vicoa](https://vicoa.ai) | Python | Agentic IDE | Self-hostable AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, and Hermes from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
 
 ---
 
@@ -688,6 +733,7 @@ Measure AI coding capabilities.
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent | Princeton's AI agent that resolves GitHub issues. Top SWE-bench performer. |
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
 | [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Record/Replay | Records an agent run below the harness and replays it offline with the network off, so a failure is reproducible instead of intermittent. Forks from any checkpoint onto another model to compare decisions from identical state. |
 
 ---
 
@@ -702,11 +748,14 @@ Files and templates that help AI understand your codebase.
 | Resource | Type | Why It's Awesome |
 |----------|------|------------------|
 | [AGENTS.md](https://agents.md/) | Template | Open format for guiding coding agents in your repository. |
+| [TASKS.md](https://github.com/taskade/tasks.md) | Spec | AGENTS.md says how to work. TASKS.md says what happened: the request, the exclusions, and the evidence. Apache-2.0. |
 | [Claude Code Project Configuration](https://docs.anthropic.com/en/docs/claude-code/settings#project-configuration) | Docs | Configure repository-level guidance and behavior for Claude Code. |
 | [CodeGuide](https://codeguide.dev/) | Generator | AI-powered documentation generator. Creates guides AI can understand. |
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 | [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
+| [agent-provider-configs](https://github.com/henrikdukefoss/agent-provider-configs) | Docs | Copy-paste base URL, key and model configs for 20 coding agents on any OpenAI- or Anthropic-compatible provider. |
+| [Vibe Coding Rules](https://github.com/getvibekits/vibe-coding-rules) | Collection | Free, MIT-licensed AGENTS.md, CLAUDE.md and Cursor rules files for 30 beginner project types, each pairing shared working rules with six stack-specific ones. |
 
 ### Prompt Templates
 
@@ -717,6 +766,7 @@ Reusable prompts for common vibe coding tasks.
 | [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) | Collection | Official prompts from Anthropic optimized for coding tasks. |
 | [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
+| [Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts) | Collection | Verification-first prompts for AI coding agents: each one makes the agent read the code, run the tests, and show evidence before claiming the task is done. |
 
 ### Boilerplates & Starters
 
@@ -885,9 +935,16 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 |------|---------|----------|------------------|
 | [gitleaks](https://github.com/gitleaks/gitleaks) | Free | Secret scanning | Finds hard-coded secrets in code and git history. 28k+ stars. Runs as a pre-commit hook or in CI. |
 | [Semgrep](https://github.com/semgrep/semgrep) | Free tier | Static analysis | Fast, rule-based code scanning with thousands of community rules for injection, auth, and secrets. |
+| [Prbl](https://getprbl.com) | Free scan and free GitHub Action; paid rewriter | Scanning AI-built apps | Scans a live URL or repo for the flaws AI tools ship most: hardcoded keys, dashboards that render without login, open Supabase tables. 15 rules mapped to OWASP, built from scanning 2,148 AI-built repos; the dataset is public. |
 | [agent-qa](https://github.com/vostride/agent-qa) | Free (source-available) | Automated QA | Self-improving QA agent for natural-language web and mobile tests with memory, CLI, MCP, and skills. |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
 | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
+| [VibeRaven](https://github.com/ohad6k/VibeRaven) | Free tier | Vercel + Supabase launch checks | Checks repository migrations for missing RLS and writes findings for a coding agent to review before deployment. |
+| [VibeFix](https://vibe-fixer.com) | Free check, paid fix | Live sign-up check | An AI agent signs up to your own deployed app like a new user and reports what breaks, with a screenshot. |
+| [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
+| [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
+| [Bossanova](https://bsnv.app) | Free tier | Local credential use by AI | Proprietary Windows/macOS encrypted vault with optional MCP that separates per-item AI access from approvals to use credentials in HTTPS requests or program executions. |
+| [FixLoop Scan](https://fixloop.dev/scan) | Free | Pre-launch check of a live app | Scans a deployed app's public surface for missing HTTPS, missing security headers and API keys leaked in its HTML or JavaScript, read-only and with no signup. |
 
 ---
 
@@ -906,6 +963,7 @@ Master the art of talking to AI. [AI Prompt Engineering Guide →](https://www.t
 | [Learn Prompting](https://learnprompting.org/) | Course | Free course that covers the whole topic. |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/) | Guide | Research-backed techniques. |
 | [Brex Prompt Engineering](https://github.com/brexhq/prompt-engineering) | Guide | Real-world production prompts. |
+| [AI Package Hallucination Exercise](https://ransomleak.com/exercises/invented-dependency/) | Course | Free browser exercise that shows how an npm package invented by an AI assistant can run an attacker's install script, and how to verify one first. |
 
 ### Prompt Tools
 
@@ -1160,6 +1218,8 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [AlphaSignal](https://alphasignal.ai/) | Weekly | AI breakthroughs + trending GitHub repos. Perfect for engineers. |
 | [Superhuman AI](https://www.superhuman.ai/) | Daily | AI tools and tutorials in 3-minute reads. Learn and master daily. |
 | [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
+| [Devtoolwatch](https://www.devtoolwatch.com/) | Weekly | Ranks AI coding agents, MCP servers and other AI dev tools by new GitHub stars and npm/PyPI download growth. |
+| [Agentic Weekly](https://theagenticweekly.com/newsletter) | Weekly | Free Monday email on new coding agent and model releases, each with an update, try or skip call and its source, plus five use cases with prompts to paste. |
 
 ### Blogs & Writers
 
@@ -1185,6 +1245,7 @@ Where vibe coding news breaks first.
 | [GitHub Topic: vibe-coding](https://github.com/topics/vibe-coding) | Open source | Track fresh launches and active open-source vibe coding projects. |
 | [HackerNoon](https://hackernoon.com/tagged/ai) | Tech Stories | Developer-written AI content. Long articles and tutorials. |
 | [Dev.to AI](https://dev.to/t/ai) | Dev Community | Community tutorials and discussions on AI coding. |
+| [Shipped & Paid](https://shippedandpaid.com) | Revenue cases | Apps built with AI coding tools that report revenue, each with a linked source and a proof label (Verified, Screenshot or Self-reported). |
 
 ---
 
@@ -1194,7 +1255,7 @@ Real-world examples of what you can build with vibe coding.
 
 ### Taskade Genesis Gallery
 
-Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/apps) · [How the gallery works →](https://www.taskade.com/blog/community-gallery-app-store)
+Real apps built by the community with one prompt. Clone any app and make it yours. [Explore the Gallery →](https://www.taskade.com/apps) · [All categories →](https://www.taskade.com/apps/categories) · [How the gallery works →](https://www.taskade.com/blog/community-gallery-app-store)
 
 #### What Should I Build? (Start by Role)
 
@@ -1202,12 +1263,12 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | You're a… | Start with | What you get |
 |-----------|------------|--------------|
-| **Founder** | [Investor Dashboard →](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers without rebuilding slides every time |
-| **Salesperson** | [Sales Pipeline →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | Every deal and what stage it's at, so nothing slips through the cracks |
-| **Marketer** | [Content Calendar →](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | Everything you're posting this month on one simple calendar |
-| **Ops / Admin** | [Team Capacity →](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work |
-| **Support lead** | [Support Workflow →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered |
-| **People / HR** | [Recruitment Workflow →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every candidate from application to offer in one place |
+| **Founder** | [Investor Dashboard →](https://www.taskade.com/app/investor-dashboard-5q9h9ufuofnx1agv) | Show investors your key numbers without rebuilding slides every time |
+| **Salesperson** | [Sales Pipeline →](https://www.taskade.com/app/sales-pipeline-dashboard-j1n0746e1z0olf6r) | Every deal and what stage it's at, so nothing slips through the cracks |
+| **Marketer** | [Content Calendar →](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | Everything you're posting this month on one simple calendar |
+| **Ops / Admin** | [Team Capacity →](https://www.taskade.com/app/team-capacity-planner-qttq6maivthotsm4) | See who's busy and who has room before you hand out new work |
+| **Support lead** | [Support Workflow →](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered |
+| **People / HR** | [Recruitment Workflow →](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | Follow every candidate from application to offer in one place |
 
 #### Browse the Gallery by Job
 
@@ -1215,79 +1276,83 @@ Not sure where to begin? Pick your role, clone a working app, and make it yours 
 
 | App | What it does |
 |-----|--------------|
-| [Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
-| [Sales Pipeline](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) | See every deal and what stage it's at, so nothing slips through the cracks. |
-| [Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) | An AI helper that drafts your sales replies and follow-ups for you. |
-| [Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua) | Spot which customers are happy and which might leave before it's too late. |
-| [Client Portal Dashboard](https://www.taskade.com/share/apps/a0x7katem0zdu8vb) | Give each client their own login to check their progress and files. |
-| [Project Portal](https://www.taskade.com/share/apps/jxoj7dbpp8d2rqdo) | One shared space where clients follow every project from start to finish. |
+| [Neon CRM Dashboard](https://www.taskade.com/app/neon-crm-dashboard-nsrm12wns3e1cgni) | Customer tracking, pipeline visualization, and agent-powered follow-ups. |
+| [Sales Pipeline](https://www.taskade.com/app/sales-pipeline-dashboard-j1n0746e1z0olf6r) | See every deal and what stage it's at, so nothing slips through the cracks. |
+| [Sales Agent Studio](https://www.taskade.com/app/sales-agent-studio-uo9fc7tfidydkdw9) | An AI helper that drafts your sales replies and follow-ups for you. |
+| [Customer Health Dashboard](https://www.taskade.com/app/customer-health-dashboard-564685gvoq7j7oua) | Spot which customers are happy and which might leave before it's too late. |
+| [Client Portal Dashboard](https://www.taskade.com/app/client-portal-dashboard-a0x7katem0zdu8vb) | Give each client their own login to check their progress and files. |
+| [Project Portal](https://www.taskade.com/app/project-portal-jxoj7dbpp8d2rqdo) | One shared space where clients follow every project from start to finish. |
 
 **Support & Success**
 
 | App | What it does |
 |-----|--------------|
-| [Support Workflow](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
-| [Support Rating Dashboard](https://www.taskade.com/share/apps/f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
-| [Testimonial Portal](https://www.taskade.com/share/apps/3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
+| [Support Workflow](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | Catch every customer question and make sure each one gets answered. |
+| [Support Rating Dashboard](https://www.taskade.com/app/support-rating-dashboard-app-f05weamthnc7akpx) | Track how happy people are with your support and fix what's dragging it down. |
+| [Testimonial Portal](https://www.taskade.com/app/testimonial-portal-app-3htncuaiwhxiblzn) | Collect glowing customer reviews in one place, ready to show off. |
 
 **Marketing & Content**
 
 | App | What it does |
 |-----|--------------|
-| [Multi-Platform Publisher](https://www.taskade.com/share/apps/qngl9kn1vwun7bag) | Multi-channel content planning with AI suggestions and auto-publishing. |
-| [Event Management Portal](https://www.taskade.com/share/apps/scv62ou1yocu3sno) | RSVPs, schedules, and vendor coordination — all from one prompt. |
-| [Campaign Planner](https://www.taskade.com/share/apps/r6lxd31ymwsthdmn) | Plan all your marketing campaigns so the team knows what's launching when. |
-| [Content Workflow](https://www.taskade.com/share/apps/hvu1z1ab0fyp9dkh) | Move every blog post or video from idea to published without losing track. |
-| [Content Calendar](https://www.taskade.com/share/apps/ss76awzhp5pk9qfz) | See everything you're posting this month on one simple calendar. |
-| [Content Agent](https://www.taskade.com/share/apps/cibvdbpnmfh8ql8k) | An AI writer that drafts your posts and content for you. |
-| [Research Bot](https://www.taskade.com/share/apps/ckhj4d7yyntrkyb8) | Ask a question and get the research gathered and summarized for you. |
+| [Multi-Platform Publisher](https://www.taskade.com/app/multi-platform-publisher-qngl9kn1vwun7bag) | Multi-channel content planning with AI suggestions and auto-publishing. |
+| [Event Management Portal](https://www.taskade.com/app/event-management-portal-scv62ou1yocu3sno) | RSVPs, schedules, and vendor coordination — all from one prompt. |
+| [Campaign Planner](https://www.taskade.com/app/campaign-planning-portal-r6lxd31ymwsthdmn) | Plan all your marketing campaigns so the team knows what's launching when. |
+| [Content Workflow](https://www.taskade.com/app/content-workflow-hvu1z1ab0fyp9dkh) | Move every blog post or video from idea to published without losing track. |
+| [Content Calendar](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | See everything you're posting this month on one simple calendar. |
+| [Content Agent](https://www.taskade.com/app/content-agent-chatbot-cibvdbpnmfh8ql8k) | An AI writer that drafts your posts and content for you. |
+| [Research Bot](https://www.taskade.com/app/research-chat-bot-ckhj4d7yyntrkyb8) | Ask a question and get the research gathered and summarized for you. |
 
 **Operations & Projects**
 
 | App | What it does |
 |-----|--------------|
-| [Sprint Tracker](https://www.taskade.com/share/apps/3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
-| [Project Tracker](https://www.taskade.com/share/apps/qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
-| [Team Capacity](https://www.taskade.com/share/apps/qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
-| [Fleet Management](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr) | Keep tabs on every vehicle, its status, and when it's due for service. |
-| [Internal Docs](https://www.taskade.com/share/apps/v2tnnxhuxrihssv8) | One home for all your team's how-to guides and policies, easy to search. |
-| [License Manager](https://www.taskade.com/share/apps/rlfk7lsd3kxtla1z) | Track your software subscriptions so nothing expires or auto-renews by surprise. |
+| [Sprint Tracker](https://www.taskade.com/app/sprint-tracker-3ma7stybxdi5rck4) | Keep the team's weekly to-dos visible so work actually ships on time. |
+| [Project Tracker](https://www.taskade.com/app/project-flow-tracker-qx6qx6vwcdjr8j8h) | Watch every project's status at a glance and catch hold-ups early. |
+| [Team Capacity](https://www.taskade.com/app/team-capacity-planner-qttq6maivthotsm4) | See who's busy and who has room before you hand out new work. |
+| [Fleet Management](https://www.taskade.com/app/fleet-management-dashboard-4q6dihgsjc5sttbr) | Keep tabs on every vehicle, its status, and when it's due for service. |
+| [Internal Docs](https://www.taskade.com/app/internal-docs-app-v2tnnxhuxrihssv8) | One home for all your team's how-to guides and policies, easy to search. |
+| [License Manager](https://www.taskade.com/app/license-manager-dashboard-rlfk7lsd3kxtla1z) | Track your software subscriptions so nothing expires or auto-renews by surprise. |
 
 **People & HR**
 
 | App | What it does |
 |-----|--------------|
-| [Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut) | Follow every job candidate from application to offer in one place. |
-| [Onboarding Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) | Walk new hires through their first-week steps so nothing gets missed. |
-| [Team Mood Pulse](https://www.taskade.com/share/apps/f94okgmxbhz6n3yy) | Check in on how your team is feeling and act before morale dips. |
+| [Recruitment Workflow](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | Follow every job candidate from application to offer in one place. |
+| [Onboarding Portal](https://www.taskade.com/app/onboarding-guide-portal-cjom1t44r0lf9diu) | Walk new hires through their first-week steps so nothing gets missed. |
+| [Team Mood Pulse](https://www.taskade.com/app/team-mood-pulse-f94okgmxbhz6n3yy) | Check in on how your team is feeling and act before morale dips. |
 
 **Founder & Finance**
 
 | App | What it does |
 |-----|--------------|
-| [Invoice Generator](https://www.taskade.com/share/apps/v71ywf2zs5bu9a5m) | Create, send, and track invoices with Stripe-ready payment flows. |
-| [Finance Tracker Dashboard](https://www.taskade.com/share/apps/tmnju1vsp3ggajo7) | Real-time financial tracking with charts and AI-powered insights. |
-| [Investor Dashboard](https://www.taskade.com/share/apps/5q9h9ufuofnx1agv) | Show investors your key numbers and progress without building slides each time. |
-| [Product Launch](https://www.taskade.com/share/apps/q0o0x1v413818rkg) | Line up every task for a launch so the big day goes off without a hitch. |
-| [Simple Store Manager](https://www.taskade.com/share/apps/ujtqojrsimcct6io) | Run a small online shop's products and orders without the headache. |
+| [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m) | Create, send, and track invoices with Stripe-ready payment flows. |
+| [Finance Tracker Dashboard](https://www.taskade.com/app/finance-tracker-dashboard-tmnju1vsp3ggajo7) | Real-time financial tracking with charts and AI-powered insights. |
+| [Investor Dashboard](https://www.taskade.com/app/investor-dashboard-5q9h9ufuofnx1agv) | Show investors your key numbers and progress without building slides each time. |
+| [Product Launch](https://www.taskade.com/app/product-launch-dashboard-q0o0x1v413818rkg) | Line up every task for a launch so the big day goes off without a hitch. |
+| [Simple Store Manager](https://www.taskade.com/app/simple-store-manager-ujtqojrsimcct6io) | Run a small online shop's products and orders without the headache. |
 
 **Commerce, Learning & Utilities**
 
 | App | What it does |
 |-----|--------------|
-| [Appointment Booking System](https://www.taskade.com/share/apps/te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
-| [Flash Deck Maker](https://www.taskade.com/share/apps/luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
-| [QR Code Studio](https://www.taskade.com/share/apps/8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
-| [Tetris Builder Studio](https://www.taskade.com/share/apps/08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
+| [Appointment Booking System](https://www.taskade.com/app/appointment-booking-system-te01cx15e4tv558x) | Calendar sync, auto-confirmations, and waitlist management. |
+| [Flash Deck Maker](https://www.taskade.com/app/flash-deck-maker-luyemdxzpu8lbftd) | Flashcard creation, study tracking, and AI-powered quiz generation. |
+| [QR Code Studio](https://www.taskade.com/app/qr-code-studio-8wydzah8zexhv5ub) | Generate, customize, and manage QR codes instantly. |
+| [Tetris Builder Studio](https://www.taskade.com/apps/entertainment/tetris-builder-studio-08w5s7gk2hzf9n9a) | Fully playable Tetris — built with one prompt. |
 
-> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/apps)
+> **150,000+ apps generated. 3 million+ automations executed.** [Browse all community apps →](https://www.taskade.com/apps) · [All categories →](https://www.taskade.com/apps/categories)
 
-| Category | Description | Explore |
-|----------|-------------|---------|
-| Business Apps | CRMs, dashboards, project trackers | [Browse Project Management →](https://www.taskade.com/templates/project-management) |
-| Productivity Tools | Task managers, note systems, workflows | [Browse Task Management →](https://www.taskade.com/templates/task-management) |
-| AI Agents | Custom agents for specific tasks | [Browse AI Agents →](https://www.taskade.com/ai/agents) |
-| Automations | Workflow templates with integrations | [Browse Marketing Automations →](https://www.taskade.com/templates/marketing) |
+| Job in this list | Clone a kit | Browse the shelf |
+|------------------|-------------|------------------|
+| Sales & CRM | [Neon CRM](https://www.taskade.com/app/neon-crm-dashboard-nsrm12wns3e1cgni) | [CRMs](https://www.taskade.com/apps/crms) · [Sales](https://www.taskade.com/apps/sales) |
+| Support | [Support Workflow](https://www.taskade.com/app/support-workflow-manager-s4pf46i9wi60h0rv) | [Helpdesks](https://www.taskade.com/apps/helpdesks) · [Support](https://www.taskade.com/apps/support) |
+| Marketing | [Content Calendar](https://www.taskade.com/app/content-calendar-planner-ss76awzhp5pk9qfz) | [Marketing](https://www.taskade.com/apps/marketing) · [Content](https://www.taskade.com/apps/content) |
+| Ops | [Sprint Tracker](https://www.taskade.com/app/sprint-tracker-3ma7stybxdi5rck4) | [Operations](https://www.taskade.com/apps/operations) · [Trackers](https://www.taskade.com/apps/trackers) |
+| People / HR | [Recruitment](https://www.taskade.com/app/recruitment-workflow-b3by4yg754xrdjut) | [HR](https://www.taskade.com/apps/hr) · [Recruiting](https://www.taskade.com/apps/recruiting) |
+| Founder / Finance | [Invoice Generator](https://www.taskade.com/app/invoice-generator-v71ywf2zs5bu9a5m) | [Finance](https://www.taskade.com/apps/finance) · [Invoices](https://www.taskade.com/apps/invoices) |
+| Dashboards | [Growth Dashboard](https://www.taskade.com/app/growth-dashboard-h42is85vu180almu) | [Dashboards](https://www.taskade.com/apps/dashboards) |
+| Chatbots | [Research Bot](https://www.taskade.com/app/research-chat-bot-ckhj4d7yyntrkyb8) | [Chatbots](https://www.taskade.com/apps/chatbots) |
 
 ### Taskade Genesis Case Studies
 
@@ -1434,6 +1499,14 @@ When adding a new tool, add one table row that includes:
 - **Why It's Awesome** — What makes it stand out (not marketing fluff)
 
 Every entry must have a live URL, a license, documentation, and a commit in the last 90 days. We close pull requests that are part of a mass submission campaign across many lists.
+
+### Star, share, and cite
+
+**[Star this repo](https://github.com/taskade/awesome-vibe-coding/stargazers)** if it helped you find a tool — stars are how GitHub surfaces lists to the next builder.
+
+- **Canonical list URL:** `https://github.com/taskade/awesome-vibe-coding` (link here when you cite “awesome vibe coding”; forks are not maintained as the index).
+- **Add a tool:** [CONTRIBUTING.md](CONTRIBUTING.md) — one row, one PR, live URL required.
+- **Taskade product:** [Build an app](https://www.taskade.com/create) · [Agent skill](https://www.taskade.com/SKILL.md) · [MCP](https://github.com/taskade/mcp)
 
 ### Contributors
 
