@@ -1,0 +1,118 @@
+name: Suggest a tool
+description: Ask whether a tool fits before opening a pull request
+title: "[Suggest]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read [CONTRIBUTING.md](https://github.com/taskade/awesome-vibe-coding/blob/main/CONTRIBUTING.md) before you submit. List entries are added via **one tool per pull request**, not through this form.
+
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      description: Use the product's official name and capitalization.
+      placeholder: e.g., Taskade Genesis
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Live URL
+      description: The link must return a real page today (homepage, docs, or repository).
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Suggested section
+      description: Which README table should this entry live in?
+      options:
+        - AI App Builders
+        - AI Code Editors
+        - CLI & Terminal Tools
+        - AI Agents & Autonomous Coding
+        - AI Browser Agents
+        - AI Website Builders
+        - AI Component & UI Generators
+        - AI Database & Backend Tools
+        - AI Automation Platforms
+        - MCP & Model Context Protocol
+        - Agent Skills
+        - Open Source Tools
+        - AI Frameworks & SDKs
+        - Documentation & Templates
+        - Best Practices & Workflows
+        - Security & Pre-Deploy Checks
+        - Prompt Engineering
+        - Vibe Coding Philosophies
+        - Learning Resources
+        - Communities
+        - News & Media
+        - Showcases
+        - Not sure — please suggest
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      description: What the tool does and why it matters — no marketing copy. End with a period.
+      placeholder: e.g., Builds deployable apps from prompts with built-in data and agents.
+    validations:
+      required: true
+
+  - type: input
+    id: activity
+    attributes:
+      label: Recent activity (last 90 days)
+      description: Link to a commit, release, or product update in the last 90 days.
+      placeholder: https://github.com/.../releases/tag/... or changelog URL
+    validations:
+      required: true
+
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing model
+      description: e.g., Free tier, Freemium, Paid, Open source
+      placeholder: Free tier
+    validations:
+      required: true
+
+  - type: input
+    id: audience
+    attributes:
+      label: Best for
+      description: Who should use this tool?
+      placeholder: e.g., Non-developers shipping internal tools
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: quality
+    attributes:
+      label: Quality bar (from CONTRIBUTING.md)
+      description: Every list entry must meet all of these before we merge a PR.
+      options:
+        - label: I will open **one pull request for this tool only** (one entry per PR).
+          required: true
+        - label: The URL above is **live** and returns a real page today.
+          required: true
+        - label: There is a **commit, release, or product update in the last 90 days** (linked above).
+          required: true
+        - label: Open-source projects include a **license file** and a README with setup steps (if applicable).
+          required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Affiliation, duplicates, or anything else reviewers should know.
+    validations:
+      required: false
