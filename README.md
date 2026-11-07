@@ -453,6 +453,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
 | [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
 | [Joxo](https://joxo.ai) | Free tier | Teams running agents on several computers | Connects the coding agents each teammate runs on their own computer (Claude Code, Codex, Cursor, OpenCode and others) through one shared project with a task board, decisions and handoffs that carry the branch and commit.
+| [OpenTandem](https://github.com/opentandem/opentandem) | Open-source CLI | Agents across several computers | Connects the computers you run Claude Code, Codex, OpenCode and 15 more agent CLIs on, so you can start, switch, and follow tasks from your phone. |
 
 ---
 
