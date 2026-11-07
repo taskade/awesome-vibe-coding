@@ -1221,6 +1221,7 @@ Essential reading for vibe coders. Subscribe to stay ahead.
 | [Vibe Coding Newsletter](https://www.vibe-coding.academy/newsletter/) | Weekly | Dedicated to vibe coding. AI tips and tools for the no-code revolution. |
 | [Devtoolwatch](https://www.devtoolwatch.com/) | Weekly | Ranks AI coding agents, MCP servers and other AI dev tools by new GitHub stars and npm/PyPI download growth. |
 | [Agentic Weekly](https://theagenticweekly.com/newsletter) | Weekly | Free Monday email on new coding agent and model releases, each with an update, try or skip call and its source, plus five use cases with prompts to paste. |
+| [ClaudeUser](https://claudeuser.mailcheap.ai/) | Weekly | Free Sunday email with everything that changed in Claude that week, in plain English, with every claim linked to its source. |
 
 ### Blogs & Writers
 
