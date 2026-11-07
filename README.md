@@ -480,6 +480,7 @@ AI that doesn't just assist — it works independently on complex tasks. [Creati
 | [DevIntern](https://github.com/getdevintern/devintern) | Free tier | Ticket-to-PR workflows | Turns Jira, Linear, GitHub, and other tickets into self-reviewed pull requests with the coding agent of your choice, on your machines with your own keys. |
 | [PinkCode](https://github.com/3xian/PinkCode) | Free | Grok Build GUI | Open-source desktop workspace for parallel Grok Build coding sessions with live activity, usage, file-change review, and permission controls. |
 | [Orbi](https://orbi.build/?ref=awesome-vibe-coding) | Free (self-hosted) | GitHub issue to release | Takes a GitHub Issue labelled ai-ready to a pull request, has a separate review session check it against the acceptance criteria, merges only reviewed work, and cuts a tagged release. |
+| [Buddy](https://buddy.works/docs/ai-agents) | Free tier | Agents in CI/CD | Runs Claude Code, Codex, Cursor, and other coding agents as pipeline actions on events such as an opened pull request, or in isolated cloud sandboxes with your repository fetched in. |
 
 ---
 
