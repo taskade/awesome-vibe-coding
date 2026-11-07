@@ -436,6 +436,7 @@ Tools for specific coding workflows.
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Free | Full app dev | Builds entire apps from scratch. Interactive development with AI. |
 | [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
+| [show-your-work](https://github.com/iamumeransari/claude-show-your-work) | Free | Visual QA | Claude Code plugin that shows screenshots and plays recordings of the agent's work inline in the terminal, with before/after QA runs side by side. |
 
 ---
 
