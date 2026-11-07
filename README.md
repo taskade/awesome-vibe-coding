@@ -333,6 +333,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Metain](https://metain.dev) | Free tier | Roblox developers | Purpose-built for Roblox Studio. Generates Luau scripts, UI, and animations from natural-language prompts. Browser chat syncs live into Roblox Studio via an open-source plugin. |
 | [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
 | [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
+| [Massvai](https://massvai.com) | Free tier | Next.js developers | Prompt-to-app builder that generates an exportable Next.js, TypeScript and Supabase codebase with live preview, GitHub sync and one-click Vercel deploy. |
 
 ---
 
