@@ -456,6 +456,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [OpenTandem](https://github.com/opentandem/opentandem) | Open-source CLI | Agents across several computers | Connects the computers you run Claude Code, Codex, OpenCode and 15 more agent CLIs on, so you can start, switch, and follow tasks from your phone. |
 | [SpaceApp](https://github.com/oll4com/spaceapp) | Free | Self-hosted agent rooms | Self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side as terminal panes in persistent rooms, each on your own account and reachable from a computer or phone. |
 | [Sno Station](https://github.com/sno-ai/sno-station) | Open source | Cross-vendor agent teams | Runs Codex, Claude Code, Cursor, Hermes Agent and OpenClaw as one team on your machine, so when one hits its usage limit another picks up the task and the agent that wrote the code is never the one that reviews it. |
+| [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Free | Parallel worktrees | Open-source desktop app for macOS, Windows and Linux where an orchestrator agent splits work across Claude Code, Codex, Cursor and 35+ other coding agents, each in its own git worktree, and a Kanban board tracks every PR through CI and review. |
 
 ---
 
