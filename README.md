@@ -549,6 +549,7 @@ Generate and manage data layers with AI.
 | [Firebase + Gemini](https://firebase.google.com/) | Free tier | Mobile backends | Google's AI integrated into Firebase. |
 | [Nhost](https://nhost.io/) | Free tier | GraphQL Postgres apps | Open-source backend: Postgres, instant Hasura GraphQL API, auth, storage, and serverless functions. |
 | [Vectoree](https://vectoree.ai/) | Pay-as-you-go ($5 credit) | Coding-agent backends | One project key gives your coding agent models, auth, Postgres and storage, set up through a skill and CLI. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Free tier | Agent-provisioned Postgres | Managed Postgres that you or a coding agent can create from the terminal with `npx create-db@latest`, no account needed, and use with Prisma ORM. |
 
 ---
 
