@@ -412,6 +412,7 @@ Full-featured coding agents that work from the command line.
 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Free | Research tasks | Research-focused AI dev agent. Combines coding with information gathering. |
 | [aichat](https://github.com/sigoden/aichat) | Free | Multi-provider CLI | All-in-one LLM CLI supporting 20+ providers. Shell integration, RAG, and function calling. |
 | [Caliber](https://github.com/caliber-ai-org/ai-setup) | Free | Config generation | Fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores quality, auto-refreshes. |
+| [Imagera Code](https://imagera.ai/code) | Subscription | One plan for many model providers | Terminal coding agent built on OpenCode that edits code and runs commands and tests, with Claude, GPT, Gemini and many other models on one subscription; limits reset every 3 hours plus a weekly limit. |
 
 ### AI-Enhanced Terminals
 
