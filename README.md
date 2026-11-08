@@ -691,6 +691,7 @@ Self-host and customize your vibe coding stack.
 | [Cloudflare VibeSDK](https://github.com/cloudflare/vibesdk) | TypeScript | Deploy-your-own | Open-source platform to deploy your own vibe coding environment. Isolated sandboxes on Cloudflare Workers. |
 | [LM Studio](https://lmstudio.ai/) | Electron | Local GUI | Desktop interface for running local models. |
 | [Vicoa](https://vicoa.ai) | Python | Agentic IDE | Self-hostable AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, Copilot, Kimi, and Hermes from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. [Source](https://github.com/vicoa-ai/vicoa) |
+| [Kapitsa](https://github.com/nace-ai/kapitsa) | C++ | Local models on Apple silicon | Native inference engine for Macs with OpenAI- and Anthropic-compatible APIs that starts Claude Code, Codex, OpenCode or Pi on a local model in one command. |
 
 ---
 
