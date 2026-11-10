@@ -1199,6 +1199,7 @@ Where to learn, share, and get help.
 | [Vibehackers](https://vibehackers.io/) | Web | Community for vibe coding enthusiasts. |
 | [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
+| [Lovable Israel](https://lovable-ai.co.il) | Web | Hebrew community and courses for vibe coding with AI. |
 
 ---
 
