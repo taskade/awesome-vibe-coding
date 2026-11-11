@@ -542,6 +542,7 @@ Generate UI components, not entire applications.
 | [Uizard](https://uizard.io/) | Free tier | Wireframes | Turn sketches into editable designs. |
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
 | [Builder.io](https://www.builder.io/) | Free tier | Headless CMS | AI-powered visual editor with code export. |
+| [Effect Atlas](https://effectatlas.com) | Free | Web motion effects | Free library of 50+ web motion effects in plain HTML/CSS/JS, each with AI-readable notes for coding agents. |
 
 ---
 
