@@ -272,6 +272,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | The deepest no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
 | [Flangapp AI](https://flangapp.com) | One-time licence | Agencies reselling apps | Self-hosted platform where clients turn their websites into native iOS and Android apps by describing what they want, with full source code and white-label branding. |
+| [PlayDrop](https://www.playdrop.ai/create) | Free publishing through the connector | Browser game creators | Make a browser game by describing it, or publish one your AI app made, and share it with a link. |
 
 ### No-Code AI Agent Builders
 
