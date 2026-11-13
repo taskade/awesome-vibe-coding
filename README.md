@@ -671,6 +671,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [1human](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) | Skill | Consults shared human–agent preferences and credited motion references before authorized creative tasks. |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
 | [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
+| [SFXMint](https://github.com/sfxmint/sfxmint-mcp) | Skill + MCP server | Lets a coding agent add sound effects to a game or app by event name, set or description and download the CC0 MP3s into the project; `npx skills add sfxmint/sfxmint-mcp`, free to try without an API key. |
 
 ---
 
