@@ -437,6 +437,7 @@ Tools for specific coding workflows.
 | [d1v](https://github.com/d1vai/d1v-cli) | Free | AI-built web deployments | CLI workflow that waits for verified previews and requires explicit confirmation before production releases. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
 | [show-your-work](https://github.com/iamumeransari/claude-show-your-work) | Free | Visual QA | Claude Code plugin that shows screenshots and plays recordings of the agent's work inline in the terminal, with before/after QA runs side by side. |
+| [claude-bulkhead](https://github.com/dooly6276/claude-bulkhead) | Free | Running several agent sessions on one machine | PreToolUse hooks that block destructive agent commands such as rm -rf on an empty variable, pkill of other sessions, and git add -A of another session's edits, and tell the agent the safe command instead. |
 
 ---
 
