@@ -757,6 +757,7 @@ Files and templates that help AI understand your codebase.
 | [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
 | [agent-provider-configs](https://github.com/henrikdukefoss/agent-provider-configs) | Docs | Copy-paste base URL, key and model configs for 20 coding agents on any OpenAI- or Anthropic-compatible provider. |
 | [Vibe Coding Rules](https://github.com/getvibekits/vibe-coding-rules) | Collection | Free, MIT-licensed AGENTS.md, CLAUDE.md and Cursor rules files for 30 beginner project types, each pairing shared working rules with six stack-specific ones. |
+| [RulesFile](https://rulesfile.pages.dev) | Generator | Free in-browser generator for AGENTS.md, CLAUDE.md, Cursor rules and Copilot instructions across 46 stacks, with no sign-up. |
 
 ### Prompt Templates
 
