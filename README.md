@@ -671,6 +671,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [1human](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) | Skill | Consults shared human–agent preferences and credited motion references before authorized creative tasks. |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
 | [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
+| [Off Grid AI skills](https://github.com/off-grid-ai/skills) | Collection | 49 MIT-licensed skills that test each change in your real app and put every screen before and after on one review page, plus safe legacy changes, design, launch and growth. `npx skills add off-grid-ai/skills`. |
 
 ---
 
