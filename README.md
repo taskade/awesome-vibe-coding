@@ -272,6 +272,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Adalo](https://www.adalo.com/) | Free tier | Native mobile | Drag-and-drop with AI assistance. Publishes to app stores. |
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | The deepest no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
 | [Flangapp AI](https://flangapp.com) | One-time licence | Agencies reselling apps | Self-hosted platform where clients turn their websites into native iOS and Android apps by describing what they want, with full source code and white-label branding. |
+| [Wishbar](https://wishbar.app) | Trial + one-time licence | Mac menu bar widgets | Type what you want in plain English or your own language, and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget in your Mac menu bar. |
 
 ### No-Code AI Agent Builders
 
