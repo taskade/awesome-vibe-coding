@@ -946,6 +946,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) | Free | Next.js + Supabase + Stripe apps | Runs 24 local checks for leaked service-role or Stripe secret keys, tables without RLS, missing Supabase Data API grants and unverified Stripe webhooks, as a CLI or GitHub Action. |
 | [Bossanova](https://bsnv.app) | Free tier | Local credential use by AI | Proprietary Windows/macOS encrypted vault with optional MCP that separates per-item AI access from approvals to use credentials in HTTPS requests or program executions. |
 | [FixLoop Scan](https://fixloop.dev/scan) | Free | Pre-launch check of a live app | Scans a deployed app's public surface for missing HTTPS, missing security headers and API keys leaked in its HTML or JavaScript, read-only and with no signup. |
+| [AsItIs](https://github.com/Katta041/asitis-agent-tools) | Free (MIT) | Checking agent instruction files | Read-only linter for CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules and Copilot instructions that flags text hidden in HTML comments or invisible characters, files the agent never loads, broken `@` imports and vendor size limits, and runs as a CLI (`npx -y asitis lint`), GitHub Action or MCP server. |
 
 ---
 
