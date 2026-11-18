@@ -11,11 +11,21 @@
     },
     {
       "pattern": "^https://www.producthunt.com"
+    },
+    {
+      "pattern": "^https://github.com/taskade/awesome-vibe-coding/stargazers"
     }
   ],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 2,
   "fallbackRetryDelay": "10s",
-  "aliveStatusCodes": [200, 206, 302, 304, 403, 429]
+  "aliveStatusCodes": [
+    200,
+    206,
+    302,
+    304,
+    403,
+    429
+  ]
 }
