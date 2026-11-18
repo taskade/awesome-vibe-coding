@@ -334,6 +334,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Newly](https://newly.app/) | Paid, from $25/month | Native mobile apps | Generates native iOS and Android apps from natural-language prompts. |
 | [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 | [Massvai](https://massvai.com) | Free tier | Next.js developers | Prompt-to-app builder that generates an exportable Next.js, TypeScript and Supabase codebase with live preview, GitHub sync and one-click Vercel deploy. |
+| [Smallwright](https://github.com/Mouhand-Kaddo/smallwright) | Free | Native Android apps | Describe an app in a chat and the phone writes, compiles, signs and installs a native Java/XML Android app, using a model paid for with your own key. |
 
 ---
 
