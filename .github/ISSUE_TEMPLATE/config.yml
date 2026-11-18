@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing guidelines
+    url: https://github.com/taskade/awesome-vibe-coding/blob/main/CONTRIBUTING.md
+    about: One tool per PR, live URL, and activity in the last 90 days — read before you submit.
+  - name: Open a pull request instead
+    url: https://github.com/taskade/awesome-vibe-coding/compare
+    about: Ready to add a row? Fork, edit README.md, and open a PR with one new entry.
