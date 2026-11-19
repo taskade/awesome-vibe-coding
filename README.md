@@ -683,6 +683,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
 | [Taskade Skills](https://github.com/taskade/skills) | Collection | MIT-licensed skills that teach Claude Code, Cursor, Codex, and other agents to build Taskade apps, agents, and automations through the hosted Taskade MCP server. `npx skills add taskade/skills`. |
 | [DESIGN:OS CLI](https://github.com/jangtrinh/design-os) | Skills + CLI | Free design skills for Claude Code, Codex, Gemini CLI and Antigravity that turn a plain-language UI brief into web or SwiftUI code and only mark it done after deterministic taste and accessibility gates pass. |
+| [Off Grid AI skills](https://github.com/off-grid-ai/skills) | Collection | 49 MIT-licensed skills that test each change in your real app and put every screen before and after on one review page, plus safe legacy changes, design, launch and growth. `npx skills add off-grid-ai/skills`. |
 
 ---
 
