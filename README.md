@@ -979,6 +979,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [VibeSitter](https://vibesitter.app) | Free scan; paid monitoring | Read-only Supabase security checks | Scans public app surfaces and, after read-only OAuth, Supabase RLS and auth settings; findings include SQL/config fixes and an AI-tool prompt. |
 | [AsItIs](https://github.com/Katta041/asitis-agent-tools) | Free (MIT) | Checking agent instruction files | Read-only linter for CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules and Copilot instructions that flags text hidden in HTML comments or invisible characters, files the agent never loads, broken `@` imports and vendor size limits, and runs as a CLI (`npx -y asitis lint`), GitHub Action or MCP server. |
 | [Speakeasy Control Plane](https://www.speakeasy.com/product/ai-control-plane) | Open source (AGPL-3.0), pay-as-you-go hosting | MCP access governance | Governs which MCP tools coding agents can call, with permissions tied to your identity provider, a policy check on every action, and a searchable log of every tool call. |
+| [Greenlit](https://greenlit.priberry.com) | Free (Apache-2.0) | Lovable, Bolt, v0 and Replit apps before launch | Grades a deployed app A to F for secret keys in its JavaScript bundles, a Supabase service-role key in the browser, source maps and missing security headers, with a fix prompt to paste back into the builder. |
 
 ---
 
