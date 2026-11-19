@@ -551,6 +551,7 @@ Generate UI components, not entire applications.
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
 | [Builder.io](https://www.builder.io/) | Free tier | Headless CMS | AI-powered visual editor with code export. |
 | [Effect Atlas](https://effectatlas.com) | Free | Web motion effects | Free library of 50+ web motion effects in plain HTML/CSS/JS, each with AI-readable notes for coding agents. |
+| [Louis Studios](https://studios.lou15.com/) | Free tier | Agent-designed React UIs | Hosted MCP designer for Claude Code, Cursor and Codex: the agent picks a design direction, plans the pages and installs animated React components (250, one file each) fitted to your brand. |
 
 ---
 
