@@ -11,6 +11,9 @@
     },
     {
       "pattern": "^https://www.producthunt.com"
+    },
+    {
+      "pattern": "^https://github.com/taskade/awesome-vibe-coding/stargazers"
     }
   ],
   "timeout": "20s",
