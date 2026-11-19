@@ -469,6 +469,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [Frink](https://github.com/benord-labs/frink) | Free | Agent orchestration | Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. |
 | [workkit](https://github.com/ITW-Creative-Works/workkit) | Free | Claude Code issue pipelines | Claude Code plugin that runs GitHub Issues as the work pipeline, dispatching worker and verifier subagents and blocking commits until the full test suite passes. |
 | [Bivy](https://github.com/bivysh/bivy) | Free tier | Agents on your own machines | Open-source (MIT) workspace that runs Claude Code, Codex, OpenCode, Pi and 15 more agent CLIs on your Mac, Linux machine or a cloud computer, so you can follow and approve their sessions from your phone and start them from GitHub issues, CI failures, Slack or schedules. |
+| [rightcommit](https://github.com/rightcommit/rightcommit) | Free | Self-hosted agent workflows | Visual canvas and Project Manager assistant for designing workflows that run Claude Code, Codex or Pi with tests and human approval. |
 
 ---
 
