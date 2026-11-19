@@ -1229,6 +1229,7 @@ Where to learn, share, and get help.
 | [Vibehackers](https://vibehackers.io/) | Web | Community for vibe coding enthusiasts. |
 | [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
+| [ArtiGram](https://artigram.cafeboon.com) | Web | Free gallery of interactive HTML artifacts made with AI assistants, with a remote MCP server that lets Claude or ChatGPT post one for you. |
 
 ---
 
