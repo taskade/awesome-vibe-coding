@@ -966,6 +966,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) | Free | Supabase projects before launch | Checks a Supabase project from the inside through read-only OAuth with 46 rules on RLS, policies, grants, auth settings and storage, and gives fix SQL for each finding. |
 | [supabase-rls-check](https://github.com/blitzhash360-web/supabase-rls-check) | Free (MIT) | Supabase apps from AI builders | Reads your SQL migrations offline and flags tables without RLS, `USING (true)` policies, public storage buckets and leaked service-role keys, as a zero-dependency CLI or GitHub Action that needs no project keys. |
 | [Ship-Ready Lite](https://github.com/getshipready/ship-ready-skills) | Free (MIT) | Lovable, Bolt, Cursor and Claude Code apps | Offline agent skills and a read-only quick scan that flag RLS left off, open read policies, leaked keys and unsigned Stripe webhooks. |
+| [Keybrum](https://keybrum.com) | Free check, paid attack runs | Penetration test of a live AI-built app | Attacks a deployed app as a stranger and as a new account, once you prove you own it, and reports each leak with the request that worked and a fix prompt for your coding agent. |
 
 ---
 
