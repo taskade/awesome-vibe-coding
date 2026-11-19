@@ -441,6 +441,7 @@ Tools for specific coding workflows.
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
 | [show-your-work](https://github.com/iamumeransari/claude-show-your-work) | Free | Visual QA | Claude Code plugin that shows screenshots and plays recordings of the agent's work inline in the terminal, with before/after QA runs side by side. |
 | [Ollav](https://ollav.app/) | Free tier | Reviewing agent-built prototypes | Remote MCP server that gives coding agents a shareable review link for any HTML file and returns pinned comments with source-findable anchors so the agent can fix and republish. |
+| [macbox](https://github.com/opslane/macbox-agent) | $10 free credit, then $0.05 per Mac minute | iOS apps without a Mac | CLI, MCP server and Claude Code/Codex/Cursor plugin that lets an agent on Linux, Windows or a cloud sandbox build, test, run and tap through native iOS apps on a real cloud Mac. |
 
 ---
 
