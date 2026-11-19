@@ -963,6 +963,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [FixLoop Scan](https://fixloop.dev/scan) | Free | Pre-launch check of a live app | Scans a deployed app's public surface for missing HTTPS, missing security headers and API keys leaked in its HTML or JavaScript, read-only and with no signup. |
 | [supabase-security-checklist](https://github.com/patchandship/supabase-security-checklist) | Free | Supabase apps from Lovable, Bolt, Replit or Cursor | A 10 point RLS, key and storage checklist with SQL you run yourself, plus a [free passive check](https://patchandship.com/check.html) that reads a homepage, its JS files and headers for open tables and exposed keys. |
 | [vibe-shield](https://github.com/avivgerz-hue/vibe-shield) | Free (MIT) | Scanning AI-generated code | Static security scanner and MCP guard with 85+ rules for leaked client secrets, unauthenticated API routes, Supabase RLS gaps, prompt injection sinks, and SKILL.md or MCP poisoning. |
+| [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) | Free | Supabase projects before launch | Checks a Supabase project from the inside through read-only OAuth with 46 rules on RLS, policies, grants, auth settings and storage, and gives fix SQL for each finding. |
 
 ---
 
