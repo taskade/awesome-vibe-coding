@@ -467,6 +467,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [Sno Station](https://github.com/sno-ai/sno-station) | Open source | Cross-vendor agent teams | Runs Codex, Claude Code, Cursor, Hermes Agent and OpenClaw as one team on your machine, so when one hits its usage limit another picks up the task and the agent that wrote the code is never the one that reviews it. |
 | [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Free | Parallel worktrees | Open-source desktop app for macOS, Windows and Linux where an orchestrator agent splits work across Claude Code, Codex, Cursor and 35+ other coding agents, each in its own git worktree, and a Kanban board tracks every PR through CI and review. |
 | [Frink](https://github.com/benord-labs/frink) | Free | Agent orchestration | Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. |
+| [workkit](https://github.com/ITW-Creative-Works/workkit) | Free | Claude Code issue pipelines | Claude Code plugin that runs GitHub Issues as the work pipeline, dispatching worker and verifier subagents and blocking commits until the full test suite passes. |
 
 ---
 
