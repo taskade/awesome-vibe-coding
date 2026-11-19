@@ -273,6 +273,7 @@ Build apps without writing or managing code. Your prompts become live applicatio
 | [Bubble](https://bubble.io/) | Free tier | Complex web apps | The deepest no-code platform. AI features for workflows. [Compare to Taskade Genesis →](https://www.taskade.com/blog/taskade-genesis-vs-bubble) |
 | [Flangapp AI](https://flangapp.com) | One-time licence | Agencies reselling apps | Self-hosted platform where clients turn their websites into native iOS and Android apps by describing what they want, with full source code and white-label branding. |
 | [Wishbar](https://wishbar.app) | Trial + one-time licence | Mac menu bar widgets | Type what you want in plain English or your own language, and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget in your Mac menu bar. |
+| [PlayDrop](https://www.playdrop.ai) | Free tier | Browser game creators | Make a browser game by describing it, or publish one your AI app made, and share it with a link. |
 
 ### No-Code AI Agent Builders
 
@@ -441,6 +442,8 @@ Tools for specific coding workflows.
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Free tier; paid hosting plans | Publishing from coding agents | OAuth MCP connector, publishing skill and CLI setup for deploying supported websites, reviewing builds and returning a live URL with owner approval. |
 | [show-your-work](https://github.com/iamumeransari/claude-show-your-work) | Free | Visual QA | Claude Code plugin that shows screenshots and plays recordings of the agent's work inline in the terminal, with before/after QA runs side by side. |
 | [Ollav](https://ollav.app/) | Free tier | Reviewing agent-built prototypes | Remote MCP server that gives coding agents a shareable review link for any HTML file and returns pinned comments with source-findable anchors so the agent can fix and republish. |
+| [macbox](https://github.com/opslane/macbox-agent) | $10 free credit, then $0.05 per Mac minute | iOS apps without a Mac | CLI, MCP server and Claude Code/Codex/Cursor plugin that lets an agent on Linux, Windows or a cloud sandbox build, test, run and tap through native iOS apps on a real cloud Mac. |
+| [claude-bulkhead](https://github.com/dooly6276/claude-bulkhead) | Free | Running several agent sessions on one machine | PreToolUse hooks that block destructive agent commands such as rm -rf on an empty variable, pkill of other sessions, and git add -A of another session's edits, and tell the agent the safe command instead. |
 
 ---
 
@@ -548,6 +551,7 @@ Generate UI components, not entire applications.
 | [Locofy](https://www.locofy.ai/) | Free tier | Design-to-code | Convert Figma to React, Vue, or HTML. |
 | [Builder.io](https://www.builder.io/) | Free tier | Headless CMS | AI-powered visual editor with code export. |
 | [Effect Atlas](https://effectatlas.com) | Free | Web motion effects | Free library of 50+ web motion effects in plain HTML/CSS/JS, each with AI-readable notes for coding agents. |
+| [Louis Studios](https://studios.lou15.com/) | Free tier | Agent-designed React UIs | Hosted MCP designer for Claude Code, Cursor and Codex: the agent picks a design direction, plans the pages and installs animated React components (250, one file each) fitted to your brand. |
 
 ---
 
@@ -678,6 +682,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design) | Skill | Autonomous Principal Design Technologist that cures vibe-coded prototypes from AI design slop with curated token archetypes and 7-axis quality gating. |
 | [SkillHey](https://skillhey.com) | Directory | Searchable directory of SKILL.md agent skills, grouped by category, with install commands for Claude Code, Codex, and Cursor. |
 | [Taskade Skills](https://github.com/taskade/skills) | Collection | MIT-licensed skills that teach Claude Code, Cursor, Codex, and other agents to build Taskade apps, agents, and automations through the hosted Taskade MCP server. `npx skills add taskade/skills`. |
+| [DESIGN:OS CLI](https://github.com/jangtrinh/design-os) | Skills + CLI | Free design skills for Claude Code, Codex, Gemini CLI and Antigravity that turn a plain-language UI brief into web or SwiftUI code and only mark it done after deterministic taste and accessibility gates pass. |
 | [Off Grid AI skills](https://github.com/off-grid-ai/skills) | Collection | 49 MIT-licensed skills that test each change in your real app and put every screen before and after on one review page, plus safe legacy changes, design, launch and growth. `npx skills add off-grid-ai/skills`. |
 
 ---
