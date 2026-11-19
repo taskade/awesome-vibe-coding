@@ -968,6 +968,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [Ship-Ready Lite](https://github.com/getshipready/ship-ready-skills) | Free (MIT) | Lovable, Bolt, Cursor and Claude Code apps | Offline agent skills and a read-only quick scan that flag RLS left off, open read policies, leaked keys and unsigned Stripe webhooks. |
 | [Keybrum](https://keybrum.com) | Free check, paid attack runs | Penetration test of a live AI-built app | Attacks a deployed app as a stranger and as a new account, once you prove you own it, and reports each leak with the request that worked and a fix prompt for your coding agent. |
 | [VibeSitter](https://vibesitter.app) | Free scan; paid monitoring | Read-only Supabase security checks | Scans public app surfaces and, after read-only OAuth, Supabase RLS and auth settings; findings include SQL/config fixes and an AI-tool prompt. |
+| [AsItIs](https://github.com/Katta041/asitis-agent-tools) | Free (MIT) | Checking agent instruction files | Read-only linter for CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules and Copilot instructions that flags text hidden in HTML comments or invisible characters, files the agent never loads, broken `@` imports and vendor size limits, and runs as a CLI (`npx -y asitis lint`), GitHub Action or MCP server. |
 
 ---
 
