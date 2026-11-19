@@ -536,6 +536,7 @@ Generate websites from descriptions, not wireframes. [Best AI website generators
 | [Playcode](https://playcode.io/ai-website-builder) | Free tier | Non-technical teams | Describe a site in plain English and Playcode's AI builds it, then Playcode Cloud runs it with hosting, a database, custom domains, SSL, snapshots, and one-click rollback. Visual editing and AI chat iteration included. |
 | [Figment.so](https://figment.so/ai-editor) | Free import; paid managed edits | Existing websites | Import an authorized website into a separate static copy, edit its HTML/CSS with AI, and review changes before publishing. |
 | [ShipFunnels](https://shipfunnels.app) | Free tier | Sales funnels | Your AI agent connects over MCP, builds the funnel pages as plain HTML and publishes them with hosting, checkout, upsells, CRM, email and A/B tests. |
+| [Ginta](https://ginta.app) | Free tier | Small businesses | Describe a business and Ginta publishes a live website with forms, bookings and a shop, which Claude or ChatGPT can also build and edit through its remote MCP server. |
 
 ---
 
