@@ -337,6 +337,7 @@ Generate code you can own, modify, and deploy anywhere.
 | [Layerwise](https://layerwise.app) | Free tier | Full-stack web apps | Desktop AI app builder with local source files, live previews, a built-in database, authentication, and publishing. |
 | [Massvai](https://massvai.com) | Free tier | Next.js developers | Prompt-to-app builder that generates an exportable Next.js, TypeScript and Supabase codebase with live preview, GitHub sync and one-click Vercel deploy. |
 | [Smallwright](https://github.com/Mouhand-Kaddo/smallwright) | Free | Native Android apps | Describe an app in a chat and the phone writes, compiles, signs and installs a native Java/XML Android app, using a model paid for with your own key. |
+| [Kliv](https://kliv.dev) | Free tier | Solo founders, small businesses | Describe an app in chat and get a hosted web app with a database, sign-in, payments and email built in, with the source synced to your own GitHub repository. |
 
 ---
 
