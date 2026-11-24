@@ -446,6 +446,7 @@ Tools for specific coding workflows.
 | [claude-bulkhead](https://github.com/dooly6276/claude-bulkhead) | Free | Running several agent sessions on one machine | PreToolUse hooks that block destructive agent commands such as rm -rf on an empty variable, pkill of other sessions, and git add -A of another session's edits, and tell the agent the safe command instead. |
 | [Ponder](https://github.com/Quinnod345/ponder) | Free | Multi-pass code review | CLI state machine and append-only ledger for Claude Code, Codex, Cursor, and Gemini CLI that runs four-perspective deliberation and blocks stop until every declared unit is graded. |
 | [BrewPage](https://brewpage.app) | Free | Publishing from coding agents | Remote MCP server, Claude Code plugin and one-call HTTP API that turn an agent's HTML, Markdown or files into a temporary public HTTPS link, with no signup or API key. |
+| [agy-remote-wecom](https://github.com/lukeinx/agy-remote-wecom) | Free (MIT) | Mobile remote control for Antigravity CLI | macOS daemon and hook plugin to control local Google Antigravity (`agy`) terminal and background `agy acp` sessions from WeCom over an outbound WebSocket connection (no public server), with session resume, attachments, model/mode switching, and tool-approval cards. |
 
 ---
 
