@@ -693,6 +693,7 @@ Skills are reusable, versioned instruction packages (a `SKILL.md` file plus opti
 | [DESIGN:OS CLI](https://github.com/jangtrinh/design-os) | Skills + CLI | Free design skills for Claude Code, Codex, Gemini CLI and Antigravity that turn a plain-language UI brief into web or SwiftUI code and only mark it done after deterministic taste and accessibility gates pass. |
 | [Off Grid AI skills](https://github.com/off-grid-ai/skills) | Collection | 49 MIT-licensed skills that test each change in your real app and put every screen before and after on one review page, plus safe legacy changes, design, launch and growth. `npx skills add off-grid-ai/skills`. |
 | [SFXMint](https://github.com/sfxmint/sfxmint-mcp) | Skill + MCP server | Lets a coding agent find CC0 sound effects for a game or app by event, set or description and download them into the project with a free API key that has a daily limit. |
+| [A1 Gallery](https://github.com/a1-gallery/a1-mcp) | Skills + MCP server | Lets a coding agent search 1,150+ hand-picked live websites by style, font, colour and section and rebuild a section from the type sizes, spacing and palette measured off the page, with a free A1 account. |
 
 ---
 
