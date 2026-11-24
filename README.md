@@ -781,6 +781,7 @@ Files and templates that help AI understand your codebase.
 | [agent-provider-configs](https://github.com/henrikdukefoss/agent-provider-configs) | Docs | Copy-paste base URL, key and model configs for 20 coding agents on any OpenAI- or Anthropic-compatible provider. |
 | [Vibe Coding Rules](https://github.com/getvibekits/vibe-coding-rules) | Collection | Free, MIT-licensed AGENTS.md, CLAUDE.md and Cursor rules files for 30 beginner project types, each pairing shared working rules with six stack-specific ones. |
 | [RulesFile](https://rulesfile.pages.dev) | Generator | Free in-browser generator for AGENTS.md, CLAUDE.md, Cursor rules and Copilot instructions across 46 stacks, with no sign-up. |
+| [Safe Vibe Coding Kit](https://github.com/berkantshn/safe-vibe-coding-kit) | Template | Free, MIT-licensed global CLAUDE.md rules and slash commands for non-developers using Claude Code, with a gitleaks scan before every commit, a branch and pull request flow, and approval before force push or deletions. |
 
 ### Prompt Templates
 
