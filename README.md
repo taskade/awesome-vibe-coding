@@ -758,6 +758,7 @@ Measure AI coding capabilities.
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
 | [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Record/Replay | Records an agent run below the harness and replays it offline with the network off, so a failure is reproducible instead of intermittent. Forks from any checkpoint onto another model to compare decisions from identical state. |
+| [PrototypeVerdict Usage Index](https://prototypeverdict.com/usage-index/) | Dataset | Dated CC BY 4.0 log of the credits, tokens, minutes and fixes Lovable, Base44, Bolt and Softr used to build the same three prompts, with a CSV and charts. |
 
 ---
 
