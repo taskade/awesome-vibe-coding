@@ -671,6 +671,7 @@ Tools that give AI agents persistent memory and context.
 | [Zep](https://github.com/getzep/zep) | Memory store | Long-term memory for AI assistants. Fast retrieval and summarization. |
 | [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Memory layer | Hosted long-term memory for coding agents over MCP, shared across Claude Code, Cursor, VS Code and Codex; rating a recalled memory as helpful or misleading re-ranks what comes back next. |
 | [Cloud Alter Ego](https://cloudalterego.cafeboon.com) | Context connector over MCP | Remote MCP connector that gives every AI chat your rules, profile and work history, stored as plain Markdown files in your own OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. |
+| [Astrolabio](https://glplabs.eu/en/astrolabio/) | Project notebook for coding agents | Native Mac menu bar app that keeps one plain-text notebook per project, with status, decisions, rules and to-dos, which Claude Code, Codex, Cursor, Gemini CLI and Antigravity read at the start of each session and update when they finish. |
 
 ---
 
