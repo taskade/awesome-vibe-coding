@@ -792,6 +792,7 @@ Reusable prompts for common vibe coding tasks.
 | [prompts.chat (formerly awesome-chatgpt-prompts)](https://github.com/f/prompts.chat) | Collection | 168k+ stars. Community prompts including dev-focused ones. |
 | [Fabric Patterns](https://github.com/danielmiessler/fabric) | Framework | AI prompt patterns for coding, writing, and analysis. |
 | [Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts) | Collection | Verification-first prompts for AI coding agents: each one makes the agent read the code, run the tests, and show evidence before claiming the task is done. |
+| [Internal Tool Blueprints](https://github.com/samclaassen/internal-tool-blueprints) | Collection | MIT-licensed Markdown specs for 37 internal business tools, each with phased build prompts and acceptance checks to paste into an AI builder, 28 of them build-tested. |
 
 ### Boilerplates & Starters
 
