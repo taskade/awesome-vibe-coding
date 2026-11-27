@@ -475,6 +475,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [Muxflow](https://github.com/gal064/muxflow) | Free | Agents on remote hosts | Open-source (MIT) desktop app for macOS and Linux that runs Claude Code, Codex and pi in tmux sessions on local or SSH hosts, with notifications on desktop and Android when an agent finishes or needs input, voice replies, and screenshot paste into remote sessions. |
 | [Althar](https://github.com/AltharIDE/althar) | Open source | Coordinating coding agents | Desktop ADE that assigns requests to coding agents and routes their changes to another model for review. |
 | [OmegaStar](https://github.com/itsfutsy/OmegaStar) | Free | Claude Code users | Turns the Claude Code you already use, with its browser, models and logins, into a team of AI employees with scoped objectives, who learn by talking and keep each lesson as a skill. |
+| [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | Free | Developers who want checked agent work | Skill and CLI that makes coding agents verify formal properties and record review evidence before calling a run done. |
 
 ---
 
