@@ -446,6 +446,7 @@ Tools for specific coding workflows.
 | [claude-bulkhead](https://github.com/dooly6276/claude-bulkhead) | Free | Running several agent sessions on one machine | PreToolUse hooks that block destructive agent commands such as rm -rf on an empty variable, pkill of other sessions, and git add -A of another session's edits, and tell the agent the safe command instead. |
 | [Ponder](https://github.com/Quinnod345/ponder) | Free | Multi-pass code review | CLI state machine and append-only ledger for Claude Code, Codex, Cursor, and Gemini CLI that runs four-perspective deliberation and blocks stop until every declared unit is graded. |
 | [BrewPage](https://brewpage.app) | Free | Publishing from coding agents | Remote MCP server, Claude Code plugin and one-call HTTP API that turn an agent's HTML, Markdown or files into a temporary public HTTPS link, with no signup or API key. |
+| [claim-check](https://github.com/Balance0014/claude-code-claim-check) | Free | Catching unproven "fixed" or "tests pass" claims from Claude Code | Stop hook that checks the agent's closing claims against the commands that actually ran in the session and sends it back to run the check when the proof is missing. |
 
 ---
 
