@@ -1234,7 +1234,7 @@ Where to learn, share, and get help.
 | [Indie Hackers](https://www.indiehackers.com/) | Web | Founders using AI to build products. |
 | [Product Hunt](https://www.producthunt.com/topics/artificial-intelligence) | Web | Discover new AI tools daily. |
 | [ArtiGram](https://artigram.cafeboon.com) | Web | Free gallery of interactive HTML artifacts made with AI assistants, with a remote MCP server that lets Claude or ChatGPT post one for you. |
-| [RemadeByAI](https://remadebyai.com) | Web | Hand-picked directory of 100 apps and games built with AI, with screenshots and links to each maker. |
+| [RemadeByAI](https://remadebyai.com) | Web | Hand-picked directory of 200+ apps and games built with AI, with screenshots and links to each maker. |
 
 ---
 
