@@ -1406,6 +1406,7 @@ Real examples of living systems built with Workspace DNA.
 **From Prototype to Production:**
 - [Taskade Genesis Preview](https://www.taskade.com/blog/taskade-genesis-preview) — What's possible in early access
 - [SaaS Evolved: Living Software](https://www.taskade.com/blog/saas-evolved-living-software) — Why this changes everything
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) — Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### Open Source Showcases
 
